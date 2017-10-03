@@ -1,4 +1,4 @@
-This is an introduction of the code developed for the Deep Clustering Network (DCN). Please direct your emails to 
+This is an introduction of the code developed for the Deep Clustering Network (DCN). Please direct your emails to
 
 Bo Yang, yang4173@umn.edu
 
@@ -7,6 +7,7 @@ if you have troubles running the code, or find any bugs.
 Here is the paper: arxiv: https://arxiv.org/pdf/1610.04794v1.pdf
 Bo Yang, Xiao Fu, Nicholas D. Sidiropoulos and Mingyi Hong "Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering"
 
+Wenjun is now developing on this code.
 ==============================================
 Main files 
 
