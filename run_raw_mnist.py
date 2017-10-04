@@ -42,7 +42,7 @@ for i in range(trials):
     results_KM[i] = np.array([nmi, ari, ac])
 
 KM_mean = np.mean(results_KM, axis = 0)
-KM_std  = np.std(results_KM, axis = 0)   
+KM_std = np.std(results_KM, axis = 0)
 
 # perform DCN
 config = {'Init': '',
