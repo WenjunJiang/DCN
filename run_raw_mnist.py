@@ -10,11 +10,13 @@ Perform experiment on Raw-MNIST data
 
 import gzip 
 import cPickle
+import pickle
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
 
-from sklearn.cluster import KMeans, metrics
+from sklearn.cluster import KMeans
+from sklearn import metrics
 from multi_layer_km import test_SdC
 from cluster_acc import acc
 
@@ -22,14 +24,15 @@ K = 10
 trials = 10
 
 filename = 'mnist_dcn.pkl.gz'
-path = '/home/bo/Data/MNIST/'
+path = 'data/MNIST/'
 dataset = path+filename
 
 ## perform KM
 
 with gzip.open(dataset, 'rb') as f:
         train_x, train_y = cPickle.load(f)
-km_model = KMeans(n_clusters = K, n_init = 1) 
+
+km_model = KMeans(n_clusters = K, n_init = 1)
 results_KM = np.zeros((trials, 3))
 for i in range(trials):
     ypred = km_model.fit_predict(train_x)

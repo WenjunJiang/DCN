@@ -21,6 +21,7 @@ from sklearn.cluster import MiniBatchKMeans
 #from sklearn.cluster import KMeans
 
 #import matplotlib.pyplot as plt
+sys.path.append('code')
 from utils import tile_raster_images
 
 #from logistic_sgd import LogisticRegression

@@ -21,6 +21,8 @@ from theano.tensor.shared_randomstreams import RandomStreams
 from cluster_acc import acc 
 from sklearn import metrics
 from sklearn.cluster import KMeans
+
+sys.path.append('code')
 from dA import dA
 
 class dA2(dA):

@@ -20,7 +20,6 @@ from sklearn.cluster import KMeans
 from sklearn import metrics
 from sklearn.decomposition import NMF
 from multi_layer_km import test_SdC
-from multi_layer_km_nj import test_SdC_NJ
 # size of the 3 sets
 
 def sigmoid(x):

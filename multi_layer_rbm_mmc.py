@@ -40,6 +40,7 @@ from sklearn import metrics
 from sklearn.cluster import MiniBatchKMeans
 #from sklearn.cluster import KMeans
 
+sys.path.append('code')
 import matplotlib.pyplot as plt
 from utils import tile_raster_images
 

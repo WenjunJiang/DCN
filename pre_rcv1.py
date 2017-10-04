@@ -13,10 +13,12 @@ import numpy
 import gzip, cPickle
 import os
 
-target_dir = '/home/bo/Data/RCV1/Processed'
-data_home = '/home/bo/Data'
+# target_dir = '/home/bo/Data/RCV1/Processed'
+# data_home = '/home/bo/Data'
 #target_dir = '/project/sidir001/yang4173/Data/RCV1/Processed'
 #data_home = '/project/sidir001/yang4173/Data'
+target_dir = 'data/RCV1/Processed'
+data_home = 'data'
 
 cwd = os.getcwd()
 data = fetch_rcv1(data_home = data_home, download_if_missing = True)

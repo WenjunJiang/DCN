@@ -20,10 +20,12 @@ trials = 1
 
 # i = [0, 1, 2, 3, 4], corresponds to [4, 8, 12, 16, 20] clusters
 
-i = 0
+# i = 0
+i = 44
 filename = 'data-'+str(i)+'.pkl.gz'
 K = (i+1)*4
-path = '/home/bo/Data/RCV1/Processed/'
+# path = '/home/bo/Data/RCV1/Processed/'
+path = 'data/RCV1/Processed/'
 dataset = path+filename
 
 

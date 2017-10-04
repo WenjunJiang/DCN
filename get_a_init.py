@@ -6,7 +6,8 @@ Created on Sat Feb 27 01:04:40 2016
 
 run and save a dA model, to initialize my deep_clus model
 """
-
+import sys
+sys.path.append('code')
 import dA
 
 dA.test_dA()
