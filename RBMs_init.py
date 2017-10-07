@@ -14,10 +14,9 @@ import theano
 import theano.tensor as T
 from theano.sandbox.rng_mrg import MRG_RandomStreams
 
-sys.path.append('code')
-from logistic_sgd import LogisticRegression, load_data
-from mlp import HiddenLayer
-from rbm import RBM
+from theanolib.logistic_sgd import LogisticRegression, load_data
+from theanolib.mlp import HiddenLayer
+from theanolib.rbm import RBM
 #from DBN import DBN
 
 
