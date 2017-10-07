@@ -22,8 +22,7 @@ from cluster_acc import acc
 from sklearn import metrics
 from sklearn.cluster import KMeans
 
-sys.path.append('code')
-from dA import dA
+from theanolib.dA import dA
 
 class dA2(dA):
     # overload the original function in dA class
@@ -98,7 +97,7 @@ class dA2(dA):
         if W is None:
             
             initial_W = numpy.asarray(
-                0.01*numpy.float32(numpy.random.randn(n_visible, n_hidden))               
+                0.01*numpy.float64(numpy.random.randn(n_visible, n_hidden))
                 
             )
         else:

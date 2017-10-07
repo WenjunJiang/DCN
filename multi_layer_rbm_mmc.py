@@ -40,16 +40,15 @@ from sklearn import metrics
 from sklearn.cluster import MiniBatchKMeans
 #from sklearn.cluster import KMeans
 
-sys.path.append('code')
 import matplotlib.pyplot as plt
-from utils import tile_raster_images
+from theanolib.utils import tile_raster_images
 
 #from logistic_sgd import LogisticRegression
 #from mlp import HiddenLayer
-from dA import dA
+from theanolib.dA import dA
 from RBMs_init import RBMs_init
 #from deepclustering import load_data
-from mlp import HiddenLayer
+from theanolib.mlp import HiddenLayer
 from multi_layer_km import SdC
 from multi_layer_km import batch_km
 

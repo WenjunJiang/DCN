@@ -37,9 +37,8 @@ from theano.tensor.nnet import conv2d
 from sklearn.cluster import KMeans
 from sklearn import metrics
 
-sys.path.append('code')
-from logistic_sgd import LogisticRegression, load_data
-from mlp import HiddenLayer
+from theanolib.logistic_sgd import LogisticRegression, load_data
+from theanolib.mlp import HiddenLayer
 
 
 class LeNetConvPoolLayer(object):
