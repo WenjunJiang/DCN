@@ -4145,3 +4145,6 @@ NMI for deep clustering: 0.56
 ARI for deep clustering: 0.43
 ACC for deep clustering: 0.58
 The training code for file multi_layer_km.pyc ran for 6.82m
+KM avg. NMI = 0.51, ARI = 0.39, ACC = 0.55
+SAE+KM avg. NMI = 0.51, ARI = 0.38, ACC = 0.53
+DCN    avg. NMI = 0.54, ARI = 0.39, ACC = 0.49
