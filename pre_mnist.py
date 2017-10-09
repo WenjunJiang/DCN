@@ -1,5 +1,6 @@
 import gzip
 import pickle
+import numpy as np
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
 
@@ -14,7 +15,12 @@ data_gz = path+file_gz
 
 with gzip.open(dataset, 'rb') as f:
     train_set, valid_set, test_set = pickle.load(f)
-    train_x, train_y = test_set
+    train_x, train_y = train_set
+    train_x = np.append(train_x, valid_set[0], axis=0)
+    train_y = np.append(train_y, valid_set[1])
+    train_x = np.append(train_x, test_set[0], axis=0)
+    train_y = np.append(train_y, test_set[1])
+
 
 # dump data to a pickle
 with open(data_pkl, 'wb') as f:
