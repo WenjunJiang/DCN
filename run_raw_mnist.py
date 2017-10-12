@@ -23,7 +23,7 @@ from cluster_acc import acc
 K = 10
 trials = 10
 
-filename = 'mnist_dcn.pkl.gz'
+filename = 'toy.pkl.gz'
 path = 'data/MNIST/'
 dataset = path+filename
 
