@@ -1,0 +1,7 @@
+functions
+
+run_raw_mnist: evaluate KM, SAE+KM, DCN on raw MNIST.
+1) It first run K-means for 10 times to get [nmi, ari, ac] for K-means.
+2) Then it run test_SdC to build a stacked denoising autoencoder
+
+multi_layer_km:
