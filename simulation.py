@@ -103,41 +103,41 @@ marker = ['o', '+','o', '+','o', '+','o', '+','o', '+']
 data_to_plot = lowD_x
 for i in xrange(nClass):
     idx_x = data_to_plot[np.nonzero(train_y0 == i), 0]
-    idx_y = data_to_plot[np.nonzero(train_y0 == i), 1]  
-    plt.figure(0)      
+    idx_y = data_to_plot[np.nonzero(train_y0 == i), 1]
+    plt.figure(0)
     plt.scatter(idx_x, idx_y, s = 70, c = color[i], marker = marker[i], label = '%s'%i)
-plt.legend()    
+plt.legend()
 plt.show()
 
 ## show result by PCA
 data_to_plot = U
 for i in xrange(nClass):
     idx_x = data_to_plot[np.nonzero(train_y == i), 0]
-    idx_y = data_to_plot[np.nonzero(train_y == i), 1]   
-    plt.figure(1)     
+    idx_y = data_to_plot[np.nonzero(train_y == i), 1]
+    plt.figure(1)
     plt.scatter(idx_x, idx_y, s = 70, c = color[i], marker = marker[i], label = '%s'%i)
-plt.legend()    
+plt.legend()
 plt.show()
 #
 ## show result by NMF
 data_to_plot = WW
 for i in xrange(nClass):
     idx_x = data_to_plot[np.nonzero(train_y == i), 0]
-    idx_y = data_to_plot[np.nonzero(train_y == i), 1]   
-    plt.figure(2)     
+    idx_y = data_to_plot[np.nonzero(train_y == i), 1]
+    plt.figure(2)
     plt.scatter(idx_x, idx_y, s = 70, c = color[i], marker = marker[i], label = '%s'%i)
-plt.legend()    
+plt.legend()
 plt.show()
 
 
 ## Perform spectral clustering
-sc = SpectralClustering(n_clusters= nClass, n_init=10, gamma=0.1, affinity='rbf', 
+sc = SpectralClustering(n_clusters= nClass, n_init=10, gamma=0.1, affinity='rbf',
                         n_neighbors=3, assign_labels='kmeans', degree=3, coef0=1, kernel_params=None)
 ypred = sc.fit_predict(train_x)
 nmi_sc = metrics.adjusted_mutual_info_score(train_y, ypred)
 ari_sc = metrics.adjusted_rand_score(train_y, ypred)
 print >> sys.stderr, ('NMI for spectral clustering: %.2f' % (nmi_sc))
-print >> sys.stderr, ('ARI for spectral clustering: %.2f' % (ari_sc)) 
+print >> sys.stderr, ('ARI for spectral clustering: %.2f' % (ari_sc))
 
 
 ## Perform KMeans

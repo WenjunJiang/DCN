@@ -45,7 +45,7 @@ KM_mean = np.mean(results_KM, axis = 0)
 KM_std = np.std(results_KM, axis = 0)
 
 # perform DCN
-config = {'Init': '',
+config = {'Init': 'deepclus_10_pretrain.pkl.gz',
           'lbd': .05,
           'beta': 1, 
           'output_dir': 'MNIST_results',
@@ -53,10 +53,10 @@ config = {'Init': '',
           'pretraining_epochs': 50,#50,
           'pretrain_lr': 0.01, #.01,
           'mu': 0.9,
-          'finetune_lr': 0.05, #0.05,
-          'training_epochs': 50, #50,
+          'finetune_lr': 0.01, #0.05,
+          'training_epochs': 100, #50,
           'dataset': dataset, 
-          'batch_size': 256,
+          'batch_size': 64, #128,
           'nClass': K, 
           'hidden_dim': [500, 500, 2000, 10],#[2000, 1000, 500, 500, 250, 50],
           'diminishing': False}
