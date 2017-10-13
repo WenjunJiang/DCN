@@ -21,7 +21,7 @@ from multi_layer_km import test_SdC
 from cluster_acc import acc
 
 K = 10
-trials = 10
+trials = 1
 
 filename = 'mnist_dcn.pkl.gz'
 path = 'data/MNIST/'
@@ -54,7 +54,7 @@ config = {'Init': '',
           'pretrain_lr': 0.01, #.01,
           'mu': 0.9,
           'finetune_lr': 0.05, #0.05,
-          'training_epochs': 5, #50,
+          'training_epochs': 50, #50,
           'dataset': dataset, 
           'batch_size': 128, 
           'nClass': K, 
