@@ -46,7 +46,7 @@ KM_std = np.std(results_KM, axis = 0)
 
 # perform DCN
 config = {'Init': '',
-          'lbd': .05, 
+          'lbd': 1,
           'beta': 1, 
           'output_dir': 'MNIST_results',
           'save_file': 'mnist_10.pkl.gz',
@@ -58,7 +58,7 @@ config = {'Init': '',
           'dataset': dataset, 
           'batch_size': 128, 
           'nClass': K, 
-          'hidden_dim': [2000, 500, 500, 10],#[2000, 1000, 500, 500, 250, 50],
+          'hidden_dim': [500, 500, 2000, 10],#[2000, 1000, 500, 500, 250, 50],
           'diminishing': False}
 
 results = []
