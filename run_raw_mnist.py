@@ -50,15 +50,15 @@ config = {'Init': '',
           'beta': 1, 
           'output_dir': 'MNIST_results',
           'save_file': 'mnist_10.pkl.gz',
-          'pretraining_epochs': 5,#50,
+          'pretraining_epochs': 50,#50,
           'pretrain_lr': 0.01, #.01,
           'mu': 0.9,
           'finetune_lr': 0.05, #0.05,
           'training_epochs': 50, #50,
           'dataset': dataset, 
-          'batch_size': 128, 
+          'batch_size': 256,
           'nClass': K, 
-          'hidden_dim': [2000, 500, 500, 10],#[2000, 1000, 500, 500, 250, 50],
+          'hidden_dim': [500, 500, 2000, 10],#[2000, 1000, 500, 500, 250, 50],
           'diminishing': False}
 
 results = []

@@ -1,6 +1,7 @@
 import gzip
 import pickle
 import numpy as np
+import aelib.data
 import matplotlib.cm as cm
 import matplotlib.pyplot as plt
 
@@ -21,10 +22,14 @@ with gzip.open(dataset, 'rb') as f:
     train_x = np.append(train_x, test_set[0], axis=0)
     train_y = np.append(train_y, test_set[1])
 
-
 # dump data to a pickle
 with open(data_pkl, 'wb') as f:
     pickle.dump((train_x, train_y), f)
+
+# dump another MNIST dataset
+# X, Y = aelib.data.get_mnist()
+# with open(data_pkl, 'wb') as f:
+#     pickle.dump((X, Y), f)
 
 # compress the data
 f_in = open(data_pkl, 'rb')

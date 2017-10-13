@@ -1,0 +1,3158 @@
+/home/jwj/anaconda2/bin/python /home/jwj/AnacondaProjects/on_my_git/DCN/run_raw_mnist.py
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.45258472
+Pre-training layer 0, epoch 1, cost  4.86258664346
+Pre-training layer 0, epoch 2, cost  3.62619288453
+Pre-training layer 0, epoch 3, cost  3.00912836006
+Pre-training layer 0, epoch 4, cost  2.61367849209
+Pre-training layer 0, epoch 5, cost  2.33149774499
+Pre-training layer 0, epoch 6, cost  2.11917752084
+Pre-training layer 0, epoch 7, cost  1.95359071754
+Pre-training layer 0, epoch 8, cost  1.82016755144
+Pre-training layer 0, epoch 9, cost  1.71088463119
+Pre-training layer 0, epoch 10, cost  1.61978930452
+Pre-training layer 0, epoch 11, cost  1.54270192808
+Pre-training layer 0, epoch 12, cost  1.47633883112
+Pre-training layer 0, epoch 13, cost  1.41856603439
+Pre-training layer 0, epoch 14, cost  1.36782667141
+Pre-training layer 0, epoch 15, cost  1.32265409936
+Pre-training layer 0, epoch 16, cost  1.2822598119
+Pre-training layer 0, epoch 17, cost  1.24582559771
+Pre-training layer 0, epoch 18, cost  1.21281785505
+Pre-training layer 0, epoch 19, cost  1.18267813569
+Pre-training layer 0, epoch 20, cost  1.15521789472
+Pre-training layer 0, epoch 21, cost  1.12983028468
+Pre-training layer 0, epoch 22, cost  1.10635686515
+Pre-training layer 0, epoch 23, cost  1.08464419124
+Pre-training layer 0, epoch 24, cost  1.06433720153
+Pre-training layer 0, epoch 25, cost  1.04522925619
+Pre-training layer 0, epoch 26, cost  1.02732666579
+Pre-training layer 0, epoch 27, cost  1.0105610469
+Pre-training layer 0, epoch 28, cost  0.994747283784
+Pre-training layer 0, epoch 29, cost  0.979700228866
+Pre-training layer 0, epoch 30, cost  0.965460564175
+Pre-training layer 0, epoch 31, cost  0.951929570252
+Pre-training layer 0, epoch 32, cost  0.939064243083
+Pre-training layer 0, epoch 33, cost  0.92683347579
+Pre-training layer 0, epoch 34, cost  0.915060772311
+Pre-training layer 0, epoch 35, cost  0.903854062332
+Pre-training layer 0, epoch 36, cost  0.893068063698
+Pre-training layer 0, epoch 37, cost  0.882707449255
+Pre-training layer 0, epoch 38, cost  0.872907815699
+Pre-training layer 0, epoch 39, cost  0.863440451739
+Pre-training layer 0, epoch 40, cost  0.854367399497
+Pre-training layer 0, epoch 41, cost  0.845642848381
+Pre-training layer 0, epoch 42, cost  0.837225661875
+Pre-training layer 0, epoch 43, cost  0.829149810957
+Pre-training layer 0, epoch 44, cost  0.82127240465
+Pre-training layer 0, epoch 45, cost  0.813652524464
+Pre-training layer 0, epoch 46, cost  0.806290032332
+Pre-training layer 0, epoch 47, cost  0.799286868797
+Pre-training layer 0, epoch 48, cost  0.792389477676
+Pre-training layer 0, epoch 49, cost  0.78572066821
+Pre-training layer 1, epoch 0, cost  16.7248978925
+Pre-training layer 1, epoch 1, cost  4.51148032041
+Pre-training layer 1, epoch 2, cost  3.08317296837
+Pre-training layer 1, epoch 3, cost  2.33711339994
+Pre-training layer 1, epoch 4, cost  1.84338817775
+Pre-training layer 1, epoch 5, cost  1.49501501512
+Pre-training layer 1, epoch 6, cost  1.26424983158
+Pre-training layer 1, epoch 7, cost  1.31189199816
+Pre-training layer 1, epoch 8, cost  1.2186015916
+Pre-training layer 1, epoch 9, cost  1.14357214804
+Pre-training layer 1, epoch 10, cost  1.06089579252
+Pre-training layer 1, epoch 11, cost  0.994079161103
+Pre-training layer 1, epoch 12, cost  0.943306076494
+Pre-training layer 1, epoch 13, cost  0.889005556874
+Pre-training layer 1, epoch 14, cost  0.847960484217
+Pre-training layer 1, epoch 15, cost  0.81187556232
+Pre-training layer 1, epoch 16, cost  0.77472327808
+Pre-training layer 1, epoch 17, cost  0.74141484197
+Pre-training layer 1, epoch 18, cost  0.710475679663
+Pre-training layer 1, epoch 19, cost  0.692647671943
+Pre-training layer 1, epoch 20, cost  0.67033797326
+Pre-training layer 1, epoch 21, cost  0.645062508603
+Pre-training layer 1, epoch 22, cost  0.6226895649
+Pre-training layer 1, epoch 23, cost  0.606190632606
+Pre-training layer 1, epoch 24, cost  0.588986764854
+Pre-training layer 1, epoch 25, cost  0.563122422668
+Pre-training layer 1, epoch 26, cost  0.555791219886
+Pre-training layer 1, epoch 27, cost  0.542788311422
+Pre-training layer 1, epoch 28, cost  0.525081272405
+Pre-training layer 1, epoch 29, cost  0.509870539517
+Pre-training layer 1, epoch 30, cost  0.503784052311
+Pre-training layer 1, epoch 31, cost  0.48306674711
+Pre-training layer 1, epoch 32, cost  0.474631287084
+Pre-training layer 1, epoch 33, cost  0.466995834423
+Pre-training layer 1, epoch 34, cost  0.45005537347
+Pre-training layer 1, epoch 35, cost  0.444599519081
+Pre-training layer 1, epoch 36, cost  0.435010105999
+Pre-training layer 1, epoch 37, cost  0.418170793148
+Pre-training layer 1, epoch 38, cost  0.420016692699
+Pre-training layer 1, epoch 39, cost  0.402505408233
+Pre-training layer 1, epoch 40, cost  0.402551139969
+Pre-training layer 1, epoch 41, cost  0.390368628221
+Pre-training layer 1, epoch 42, cost  0.381615950855
+Pre-training layer 1, epoch 43, cost  0.377719510359
+Pre-training layer 1, epoch 44, cost  0.363015325741
+Pre-training layer 1, epoch 45, cost  0.36503938255
+Pre-training layer 1, epoch 46, cost  0.347717277864
+Pre-training layer 1, epoch 47, cost  0.349934396506
+Pre-training layer 1, epoch 48, cost  0.34632221187
+Pre-training layer 1, epoch 49, cost  0.33172626663
+Pre-training layer 2, epoch 0, cost  11.6270904818
+Pre-training layer 2, epoch 1, cost  2.29451537338
+Pre-training layer 2, epoch 2, cost  1.39592596125
+Pre-training layer 2, epoch 3, cost  0.961482860122
+Pre-training layer 2, epoch 4, cost  0.703596438671
+Pre-training layer 2, epoch 5, cost  0.536662390265
+Pre-training layer 2, epoch 6, cost  0.423056969928
+Pre-training layer 2, epoch 7, cost  0.343111209628
+Pre-training layer 2, epoch 8, cost  0.285840155405
+Pre-training layer 2, epoch 9, cost  0.245211917924
+Pre-training layer 2, epoch 10, cost  0.219652414711
+Pre-training layer 2, epoch 11, cost  0.224025614223
+Pre-training layer 2, epoch 12, cost  0.359661273844
+Pre-training layer 2, epoch 13, cost  0.235929318457
+Pre-training layer 2, epoch 14, cost  0.316771241345
+Pre-training layer 2, epoch 15, cost  0.306837037566
+Pre-training layer 2, epoch 16, cost  0.183862388877
+Pre-training layer 2, epoch 17, cost  0.330397315092
+Pre-training layer 2, epoch 18, cost  0.210973444553
+Pre-training layer 2, epoch 19, cost  0.24061089218
+Pre-training layer 2, epoch 20, cost  0.31166491543
+Pre-training layer 2, epoch 21, cost  0.168772345505
+Pre-training layer 2, epoch 22, cost  0.264918519907
+Pre-training layer 2, epoch 23, cost  0.232270436042
+Pre-training layer 2, epoch 24, cost  0.187176007817
+Pre-training layer 2, epoch 25, cost  0.275260548046
+Pre-training layer 2, epoch 26, cost  0.189835754686
+Pre-training layer 2, epoch 27, cost  0.214891446171
+Pre-training layer 2, epoch 28, cost  0.193721469355
+Pre-training layer 2, epoch 29, cost  0.238701166074
+Pre-training layer 2, epoch 30, cost  0.195434047661
+Pre-training layer 2, epoch 31, cost  0.183767413218
+Pre-training layer 2, epoch 32, cost  0.223281510609
+Pre-training layer 2, epoch 33, cost  0.191968028005
+Pre-training layer 2, epoch 34, cost  0.186286526692
+Pre-training layer 2, epoch 35, cost  0.205502768722
+Pre-training layer 2, epoch 36, cost  0.190615405705
+Pre-training layer 2, epoch 37, cost  0.176070361777
+Pre-training layer 2, epoch 38, cost  0.157130034766
+Pre-training layer 2, epoch 39, cost  0.245102828
+Pre-training layer 2, epoch 40, cost  0.13391823719
+Pre-training layer 2, epoch 41, cost  0.1905145213
+Pre-training layer 2, epoch 42, cost  0.201720263343
+Pre-training layer 2, epoch 43, cost  0.138631704349
+Pre-training layer 2, epoch 44, cost  0.195476931282
+Pre-training layer 2, epoch 45, cost  0.15241400543
+Pre-training layer 2, epoch 46, cost  0.182447513222
+Pre-training layer 2, epoch 47, cost  0.149485041849
+Pre-training layer 2, epoch 48, cost  0.146128341373
+Pre-training layer 2, epoch 49, cost  0.225750968969
+Pre-training layer 3, epoch 0, cost  31.3304461828
+Pre-training layer 3, epoch 1, cost  21.7317841311
+Pre-training layer 3, epoch 2, cost  21.5375926647
+Pre-training layer 3, epoch 3, cost  21.3474938022
+Pre-training layer 3, epoch 4, cost  21.0113854918
+Pre-training layer 3, epoch 5, cost  20.8055270367
+Pre-training layer 3, epoch 6, cost  20.7259686699
+Pre-training layer 3, epoch 7, cost  20.6862806733
+Pre-training layer 3, epoch 8, cost  20.6627229064
+Pre-training layer 3, epoch 9, cost  20.6471061289
+Pre-training layer 3, epoch 10, cost  20.6370966996
+Pre-training layer 3, epoch 11, cost  20.637083784
+Pre-training layer 3, epoch 12, cost  20.6198756255
+Pre-training layer 3, epoch 13, cost  20.614674982
+Pre-training layer 3, epoch 14, cost  20.6136930899
+Pre-training layer 3, epoch 15, cost  20.6057582723
+Pre-training layer 3, epoch 16, cost  20.6090467788
+Pre-training layer 3, epoch 17, cost  20.6000655499
+Pre-training layer 3, epoch 18, cost  20.5983056665
+Pre-training layer 3, epoch 19, cost  20.5981275358
+Pre-training layer 3, epoch 20, cost  20.6043836675
+Pre-training layer 3, epoch 21, cost  20.5900875135
+Pre-training layer 3, epoch 22, cost  20.5909420629
+Pre-training layer 3, epoch 23, cost  20.5993129087
+Pre-training layer 3, epoch 24, cost  20.5914283241
+Pre-training layer 3, epoch 25, cost  20.5922673881
+Pre-training layer 3, epoch 26, cost  20.5980008992
+Pre-training layer 3, epoch 27, cost  20.5950660394
+Pre-training layer 3, epoch 28, cost  20.6012842201
+Pre-training layer 3, epoch 29, cost  20.5952346028
+Pre-training layer 3, epoch 30, cost  20.5941077021
+Pre-training layer 3, epoch 31, cost  20.5970542817
+Pre-training layer 3, epoch 32, cost  20.5963857511
+Pre-training layer 3, epoch 33, cost  20.5991466661
+Pre-training layer 3, epoch 34, cost  20.5952097253
+Pre-training layer 3, epoch 35, cost  20.6003547178
+Pre-training layer 3, epoch 36, cost  20.5950598727
+Pre-training layer 3, epoch 37, cost  20.5956928857
+Pre-training layer 3, epoch 38, cost  20.5961056592
+Pre-training layer 3, epoch 39, cost  20.5945299486
+Pre-training layer 3, epoch 40, cost  20.59532591
+Pre-training layer 3, epoch 41, cost  20.5943734338
+Pre-training layer 3, epoch 42, cost  20.5955880287
+Pre-training layer 3, epoch 43, cost  20.5939965395
+Pre-training layer 3, epoch 44, cost  20.5964109826
+Pre-training layer 3, epoch 45, cost  20.592662036
+Pre-training layer 3, epoch 46, cost  20.5962377927
+Pre-training layer 3, epoch 47, cost  20.5928124321
+Pre-training layer 3, epoch 48, cost  20.59662534
+The pretraining code for file multi_layer_km.pyc ran for 14.89m
+Pre-training layer 3, epoch 49, cost  20.5927791243
+Initial NMI for deep clustering: 0.51
+ARI for deep clustering: 0.39
+... getting the finetuning functions
+ACC for deep clustering: 0.55
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.67385, Reconstruction: 1.96860, Clustering: 0.70524,
+Fine-tuning epoch 2 ++++
+Total cost: 2.29409, Reconstruction: 1.77092, Clustering: 0.52317,
+Fine-tuning epoch 3 ++++
+Total cost: 2.06230, Reconstruction: 1.62724, Clustering: 0.43506,
+Fine-tuning epoch 4 ++++
+Total cost: 1.95697, Reconstruction: 1.55207, Clustering: 0.40489,
+Fine-tuning epoch 5 ++++
+Total cost: 1.87719, Reconstruction: 1.48870, Clustering: 0.38848,
+Fine-tuning epoch 6 ++++
+Total cost: 1.82047, Reconstruction: 1.44234, Clustering: 0.37812,
+Fine-tuning epoch 7 ++++
+Total cost: 1.77154, Reconstruction: 1.40281, Clustering: 0.36872,
+Fine-tuning epoch 8 ++++
+Total cost: 1.71688, Reconstruction: 1.35878, Clustering: 0.35810,
+Fine-tuning epoch 9 ++++
+Total cost: 1.68211, Reconstruction: 1.33062, Clustering: 0.35150,
+Fine-tuning epoch 10 ++++
+Total cost: 1.63103, Reconstruction: 1.28990, Clustering: 0.34113,
+Fine-tuning epoch 11 ++++
+Total cost: 1.62666, Reconstruction: 1.28680, Clustering: 0.33986,
+Fine-tuning epoch 12 ++++
+Total cost: 1.57362, Reconstruction: 1.24881, Clustering: 0.32482,
+Fine-tuning epoch 13 ++++
+Total cost: 1.55217, Reconstruction: 1.23288, Clustering: 0.31930,
+Fine-tuning epoch 14 ++++
+Total cost: 1.53278, Reconstruction: 1.22114, Clustering: 0.31164,
+Fine-tuning epoch 15 ++++
+Total cost: 1.50845, Reconstruction: 1.20310, Clustering: 0.30536,
+Fine-tuning epoch 16 ++++
+Total cost: 1.48407, Reconstruction: 1.18448, Clustering: 0.29960,
+Fine-tuning epoch 17 ++++
+Total cost: 1.46200, Reconstruction: 1.16963, Clustering: 0.29237,
+Fine-tuning epoch 18 ++++
+Total cost: 1.44692, Reconstruction: 1.15535, Clustering: 0.29157,
+Fine-tuning epoch 19 ++++
+Total cost: 1.43881, Reconstruction: 1.15132, Clustering: 0.28749,
+Fine-tuning epoch 20 ++++
+Total cost: 1.41697, Reconstruction: 1.13524, Clustering: 0.28173,
+Fine-tuning epoch 21 ++++
+Total cost: 1.41078, Reconstruction: 1.12835, Clustering: 0.28242,
+Fine-tuning epoch 22 ++++
+Total cost: 1.39446, Reconstruction: 1.11632, Clustering: 0.27813,
+Fine-tuning epoch 23 ++++
+Total cost: 1.37314, Reconstruction: 1.10031, Clustering: 0.27283,
+Fine-tuning epoch 24 ++++
+Total cost: 1.38589, Reconstruction: 1.11044, Clustering: 0.27545,
+Fine-tuning epoch 25 ++++
+Total cost: 1.35532, Reconstruction: 1.08565, Clustering: 0.26968,
+Fine-tuning epoch 26 ++++
+Total cost: 1.34767, Reconstruction: 1.08302, Clustering: 0.26465,
+Fine-tuning epoch 27 ++++
+Total cost: 1.34506, Reconstruction: 1.07872, Clustering: 0.26634,
+Fine-tuning epoch 28 ++++
+Total cost: 1.33315, Reconstruction: 1.07023, Clustering: 0.26292,
+Fine-tuning epoch 29 ++++
+Total cost: 1.33051, Reconstruction: 1.06973, Clustering: 0.26078,
+Fine-tuning epoch 30 ++++
+Total cost: 1.32541, Reconstruction: 1.06316, Clustering: 0.26225,
+Fine-tuning epoch 31 ++++
+Total cost: 1.31487, Reconstruction: 1.05698, Clustering: 0.25789,
+Fine-tuning epoch 32 ++++
+Total cost: 1.30140, Reconstruction: 1.04610, Clustering: 0.25531,
+Fine-tuning epoch 33 ++++
+Total cost: 1.30120, Reconstruction: 1.04505, Clustering: 0.25615,
+Fine-tuning epoch 34 ++++
+Total cost: 1.28238, Reconstruction: 1.03008, Clustering: 0.25230,
+Fine-tuning epoch 35 ++++
+Total cost: 1.27869, Reconstruction: 1.02601, Clustering: 0.25269,
+Fine-tuning epoch 36 ++++
+Total cost: 1.28613, Reconstruction: 1.03409, Clustering: 0.25205,
+Fine-tuning epoch 37 ++++
+Total cost: 1.26955, Reconstruction: 1.01923, Clustering: 0.25032,
+Fine-tuning epoch 38 ++++
+Total cost: 1.26594, Reconstruction: 1.01800, Clustering: 0.24793,
+Fine-tuning epoch 39 ++++
+Total cost: 1.26248, Reconstruction: 1.01090, Clustering: 0.25158,
+Fine-tuning epoch 40 ++++
+Total cost: 1.25809, Reconstruction: 1.00740, Clustering: 0.25069,
+Fine-tuning epoch 41 ++++
+Total cost: 1.25191, Reconstruction: 1.00257, Clustering: 0.24933,
+Fine-tuning epoch 42 ++++
+Total cost: 1.23077, Reconstruction: 0.98489, Clustering: 0.24588,
+Fine-tuning epoch 43 ++++
+Total cost: 1.23980, Reconstruction: 0.99121, Clustering: 0.24858,
+Fine-tuning epoch 44 ++++
+Total cost: 1.21491, Reconstruction: 0.97140, Clustering: 0.24352,
+Fine-tuning epoch 45 ++++
+Total cost: 1.21885, Reconstruction: 0.97258, Clustering: 0.24627,
+Fine-tuning epoch 46 ++++
+Total cost: 1.22078, Reconstruction: 0.97422, Clustering: 0.24656,
+Fine-tuning epoch 47 ++++
+Total cost: 1.20169, Reconstruction: 0.95931, Clustering: 0.24238,
+Fine-tuning epoch 48 ++++
+Total cost: 1.19566, Reconstruction: 0.95474, Clustering: 0.24093,
+Fine-tuning epoch 49 ++++
+Total cost: 1.20439, Reconstruction: 0.95760, Clustering: 0.24678,
+Fine-tuning epoch 50 ++++
+Total cost: 1.18027, Reconstruction: 0.94104, Clustering: 0.23923,
+Average squared 2-D reconstruction error: 0.9410
+NMI for deep clustering: 0.58
+ARI for deep clustering: 0.41
+ACC for deep clustering: 0.57
+The training code for file multi_layer_km.pyc ran for 15.47m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.7059549509
+Pre-training layer 0, epoch 1, cost  4.92819225535
+Pre-training layer 0, epoch 2, cost  3.68657361364
+Pre-training layer 0, epoch 3, cost  3.06258019758
+Pre-training layer 0, epoch 4, cost  2.6651111127
+Pre-training layer 0, epoch 5, cost  2.38243261811
+Pre-training layer 0, epoch 6, cost  2.1695293402
+Pre-training layer 0, epoch 7, cost  2.00313730225
+Pre-training layer 0, epoch 8, cost  1.86890458664
+Pre-training layer 0, epoch 9, cost  1.75846270109
+Pre-training layer 0, epoch 10, cost  1.66576065889
+Pre-training layer 0, epoch 11, cost  1.58716314992
+Pre-training layer 0, epoch 12, cost  1.51963340469
+Pre-training layer 0, epoch 13, cost  1.46071638441
+Pre-training layer 0, epoch 14, cost  1.40882491216
+Pre-training layer 0, epoch 15, cost  1.36280550136
+Pre-training layer 0, epoch 16, cost  1.32166620422
+Pre-training layer 0, epoch 17, cost  1.28451207604
+Pre-training layer 0, epoch 18, cost  1.25079397013
+Pre-training layer 0, epoch 19, cost  1.21992777334
+Pre-training layer 0, epoch 20, cost  1.19164700162
+Pre-training layer 0, epoch 21, cost  1.16549295588
+Pre-training layer 0, epoch 22, cost  1.14121635249
+Pre-training layer 0, epoch 23, cost  1.11869168671
+Pre-training layer 0, epoch 24, cost  1.09767255102
+Pre-training layer 0, epoch 25, cost  1.07792957449
+Pre-training layer 0, epoch 26, cost  1.05928298136
+Pre-training layer 0, epoch 27, cost  1.04182859556
+Pre-training layer 0, epoch 28, cost  1.02528156507
+Pre-training layer 0, epoch 29, cost  1.00971487623
+Pre-training layer 0, epoch 30, cost  0.994890048623
+Pre-training layer 0, epoch 31, cost  0.980833399974
+Pre-training layer 0, epoch 32, cost  0.967503241111
+Pre-training layer 0, epoch 33, cost  0.954822239397
+Pre-training layer 0, epoch 34, cost  0.942699471922
+Pre-training layer 0, epoch 35, cost  0.931087631543
+Pre-training layer 0, epoch 36, cost  0.920130845588
+Pre-training layer 0, epoch 37, cost  0.909612711854
+Pre-training layer 0, epoch 38, cost  0.899288051798
+Pre-training layer 0, epoch 39, cost  0.889559425051
+Pre-training layer 0, epoch 40, cost  0.880089067032
+Pre-training layer 0, epoch 41, cost  0.87100050577
+Pre-training layer 0, epoch 42, cost  0.86230382371
+Pre-training layer 0, epoch 43, cost  0.853977817069
+Pre-training layer 0, epoch 44, cost  0.845866392616
+Pre-training layer 0, epoch 45, cost  0.838083942863
+Pre-training layer 0, epoch 46, cost  0.830574460906
+Pre-training layer 0, epoch 47, cost  0.823259138466
+Pre-training layer 0, epoch 48, cost  0.816265205803
+Pre-training layer 0, epoch 49, cost  0.809511234453
+Pre-training layer 1, epoch 0, cost  16.5559359168
+Pre-training layer 1, epoch 1, cost  4.48708184104
+Pre-training layer 1, epoch 2, cost  3.06288888538
+Pre-training layer 1, epoch 3, cost  2.31330420993
+Pre-training layer 1, epoch 4, cost  1.8191881698
+Pre-training layer 1, epoch 5, cost  1.47047910592
+Pre-training layer 1, epoch 6, cost  1.23680256159
+Pre-training layer 1, epoch 7, cost  1.26854758126
+Pre-training layer 1, epoch 8, cost  1.18337102668
+Pre-training layer 1, epoch 9, cost  1.10551675894
+Pre-training layer 1, epoch 10, cost  1.02929035596
+Pre-training layer 1, epoch 11, cost  0.957417004117
+Pre-training layer 1, epoch 12, cost  0.898749946464
+Pre-training layer 1, epoch 13, cost  0.853005325295
+Pre-training layer 1, epoch 14, cost  0.802500360146
+Pre-training layer 1, epoch 15, cost  0.771815638844
+Pre-training layer 1, epoch 16, cost  0.735615612538
+Pre-training layer 1, epoch 17, cost  0.702799437368
+Pre-training layer 1, epoch 18, cost  0.688057574421
+Pre-training layer 1, epoch 19, cost  0.661158267377
+Pre-training layer 1, epoch 20, cost  0.635004227786
+Pre-training layer 1, epoch 21, cost  0.614882581065
+Pre-training layer 1, epoch 22, cost  0.598561214674
+Pre-training layer 1, epoch 23, cost  0.56998046121
+Pre-training layer 1, epoch 24, cost  0.559336339817
+Pre-training layer 1, epoch 25, cost  0.547178962305
+Pre-training layer 1, epoch 26, cost  0.52244900821
+Pre-training layer 1, epoch 27, cost  0.51443298167
+Pre-training layer 1, epoch 28, cost  0.501155080275
+Pre-training layer 1, epoch 29, cost  0.483414281151
+Pre-training layer 1, epoch 30, cost  0.475475160884
+Pre-training layer 1, epoch 31, cost  0.464013499588
+Pre-training layer 1, epoch 32, cost  0.453669621207
+Pre-training layer 1, epoch 33, cost  0.446682717488
+Pre-training layer 1, epoch 34, cost  0.429873659142
+Pre-training layer 1, epoch 35, cost  0.427261353118
+Pre-training layer 1, epoch 36, cost  0.410533912266
+Pre-training layer 1, epoch 37, cost  0.409602555609
+Pre-training layer 1, epoch 38, cost  0.402010363766
+Pre-training layer 1, epoch 39, cost  0.386965017562
+Pre-training layer 1, epoch 40, cost  0.387636518661
+Pre-training layer 1, epoch 41, cost  0.373156430532
+Pre-training layer 1, epoch 42, cost  0.374091326805
+Pre-training layer 1, epoch 43, cost  0.357461931785
+Pre-training layer 1, epoch 44, cost  0.355755153706
+Pre-training layer 1, epoch 45, cost  0.347359493292
+Pre-training layer 1, epoch 46, cost  0.340800928649
+Pre-training layer 1, epoch 47, cost  0.334532795698
+Pre-training layer 1, epoch 48, cost  0.330063414147
+Pre-training layer 1, epoch 49, cost  0.32520615647
+Pre-training layer 2, epoch 0, cost  11.7701661683
+Pre-training layer 2, epoch 1, cost  2.31269538176
+Pre-training layer 2, epoch 2, cost  1.39243526295
+Pre-training layer 2, epoch 3, cost  0.952300669026
+Pre-training layer 2, epoch 4, cost  0.693226245243
+Pre-training layer 2, epoch 5, cost  0.52640646777
+Pre-training layer 2, epoch 6, cost  0.413466396513
+Pre-training layer 2, epoch 7, cost  0.334505688264
+Pre-training layer 2, epoch 8, cost  0.278402195067
+Pre-training layer 2, epoch 9, cost  0.239426947204
+Pre-training layer 2, epoch 10, cost  0.217444585539
+Pre-training layer 2, epoch 11, cost  0.240992353472
+Pre-training layer 2, epoch 12, cost  0.381062317018
+Pre-training layer 2, epoch 13, cost  0.252801694506
+Pre-training layer 2, epoch 14, cost  0.311759475206
+Pre-training layer 2, epoch 15, cost  0.245271348681
+Pre-training layer 2, epoch 16, cost  0.247698578286
+Pre-training layer 2, epoch 17, cost  0.366381849217
+Pre-training layer 2, epoch 18, cost  0.139321541036
+Pre-training layer 2, epoch 19, cost  0.351290890333
+Pre-training layer 2, epoch 20, cost  0.160020407005
+Pre-training layer 2, epoch 21, cost  0.286276983691
+Pre-training layer 2, epoch 22, cost  0.143950615803
+Pre-training layer 2, epoch 23, cost  0.306268678295
+Pre-training layer 2, epoch 24, cost  0.254075595229
+Pre-training layer 2, epoch 25, cost  0.163132700892
+Pre-training layer 2, epoch 26, cost  0.265733992405
+Pre-training layer 2, epoch 27, cost  0.151675406081
+Pre-training layer 2, epoch 28, cost  0.291420678771
+Pre-training layer 2, epoch 29, cost  0.0958122882078
+Pre-training layer 2, epoch 30, cost  0.267711256407
+Pre-training layer 2, epoch 31, cost  0.16773399286
+Pre-training layer 2, epoch 32, cost  0.269486790723
+Pre-training layer 2, epoch 33, cost  0.112759438674
+Pre-training layer 2, epoch 34, cost  0.266133637011
+Pre-training layer 2, epoch 35, cost  0.113147769096
+Pre-training layer 2, epoch 36, cost  0.244278994755
+Pre-training layer 2, epoch 37, cost  0.111289928139
+Pre-training layer 2, epoch 38, cost  0.242048655405
+Pre-training layer 2, epoch 39, cost  0.240064765735
+Pre-training layer 2, epoch 40, cost  0.106482891446
+Pre-training layer 2, epoch 41, cost  0.223205908029
+Pre-training layer 2, epoch 42, cost  0.127399040736
+Pre-training layer 2, epoch 43, cost  0.230895944295
+Pre-training layer 2, epoch 44, cost  0.0860255917884
+Pre-training layer 2, epoch 45, cost  0.257964601851
+Pre-training layer 2, epoch 46, cost  0.10860302658
+Pre-training layer 2, epoch 47, cost  0.201964258798
+Pre-training layer 2, epoch 48, cost  0.115024772571
+Pre-training layer 2, epoch 49, cost  0.185719659509
+Pre-training layer 3, epoch 0, cost  31.5372748942
+Pre-training layer 3, epoch 1, cost  21.7180891422
+Pre-training layer 3, epoch 2, cost  21.59472267
+Pre-training layer 3, epoch 3, cost  21.5579720859
+Pre-training layer 3, epoch 4, cost  21.5136069512
+Pre-training layer 3, epoch 5, cost  21.4239998031
+Pre-training layer 3, epoch 6, cost  21.223464901
+Pre-training layer 3, epoch 7, cost  20.9993276496
+Pre-training layer 3, epoch 8, cost  20.8965061901
+Pre-training layer 3, epoch 9, cost  20.8468797366
+Pre-training layer 3, epoch 10, cost  20.8193954639
+Pre-training layer 3, epoch 11, cost  20.8010612451
+Pre-training layer 3, epoch 12, cost  20.7894535311
+Pre-training layer 3, epoch 13, cost  20.7801871619
+Pre-training layer 3, epoch 14, cost  20.7749615362
+Pre-training layer 3, epoch 15, cost  20.7709229378
+Pre-training layer 3, epoch 16, cost  20.7673511632
+Pre-training layer 3, epoch 17, cost  20.7635281554
+Pre-training layer 3, epoch 18, cost  20.7589175294
+Pre-training layer 3, epoch 19, cost  20.7593642834
+Pre-training layer 3, epoch 20, cost  20.7542240496
+Pre-training layer 3, epoch 21, cost  20.7587931344
+Pre-training layer 3, epoch 22, cost  20.751513902
+Pre-training layer 3, epoch 23, cost  20.7564074435
+Pre-training layer 3, epoch 24, cost  20.7487473069
+Pre-training layer 3, epoch 25, cost  20.7546486123
+Pre-training layer 3, epoch 26, cost  20.7503230278
+Pre-training layer 3, epoch 27, cost  20.7570874772
+Pre-training layer 3, epoch 28, cost  20.7517995328
+Pre-training layer 3, epoch 29, cost  20.7554948702
+Pre-training layer 3, epoch 30, cost  20.753645201
+Pre-training layer 3, epoch 31, cost  20.7563494005
+Pre-training layer 3, epoch 32, cost  20.7498082973
+Pre-training layer 3, epoch 33, cost  20.7562123159
+Pre-training layer 3, epoch 34, cost  20.7534361745
+Pre-training layer 3, epoch 35, cost  20.7523307936
+Pre-training layer 3, epoch 36, cost  20.7569475386
+Pre-training layer 3, epoch 37, cost  20.7569352456
+Pre-training layer 3, epoch 38, cost  20.7528509927
+Pre-training layer 3, epoch 39, cost  20.7504870592
+Pre-training layer 3, epoch 40, cost  20.7516905947
+Pre-training layer 3, epoch 41, cost  20.7597044204
+Pre-training layer 3, epoch 42, cost  20.7572095237
+Pre-training layer 3, epoch 43, cost  20.7444223646
+Pre-training layer 3, epoch 44, cost  20.7525831364
+Pre-training layer 3, epoch 45, cost  20.7470391715
+Pre-training layer 3, epoch 46, cost  20.7615134479
+Pre-training layer 3, epoch 47, cost  20.7488279785
+Pre-training layer 3, epoch 48, cost  20.7483163727
+Pre-training layer 3, epoch 49, cost  20.7475895765
+The pretraining code for file multi_layer_km.pyc ran for 14.76m
+Initial NMI for deep clustering: 0.50
+ARI for deep clustering: 0.38
+... getting the finetuning functions
+ACC for deep clustering: 0.55
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.66748, Reconstruction: 1.90669, Clustering: 0.76079,
+Fine-tuning epoch 2 ++++
+Total cost: 2.21526, Reconstruction: 1.66895, Clustering: 0.54630,
+Fine-tuning epoch 3 ++++
+Total cost: 1.97376, Reconstruction: 1.52721, Clustering: 0.44656,
+Fine-tuning epoch 4 ++++
+Total cost: 1.85748, Reconstruction: 1.45755, Clustering: 0.39993,
+Fine-tuning epoch 5 ++++
+Total cost: 1.80647, Reconstruction: 1.42303, Clustering: 0.38344,
+Fine-tuning epoch 6 ++++
+Total cost: 1.73477, Reconstruction: 1.36689, Clustering: 0.36788,
+Fine-tuning epoch 7 ++++
+Total cost: 1.67754, Reconstruction: 1.32362, Clustering: 0.35392,
+Fine-tuning epoch 8 ++++
+Total cost: 1.64627, Reconstruction: 1.29980, Clustering: 0.34647,
+Fine-tuning epoch 9 ++++
+Total cost: 1.61975, Reconstruction: 1.28142, Clustering: 0.33833,
+Fine-tuning epoch 10 ++++
+Total cost: 1.58608, Reconstruction: 1.25688, Clustering: 0.32920,
+Fine-tuning epoch 11 ++++
+Total cost: 1.55718, Reconstruction: 1.23361, Clustering: 0.32357,
+Fine-tuning epoch 12 ++++
+Total cost: 1.53356, Reconstruction: 1.21654, Clustering: 0.31701,
+Fine-tuning epoch 13 ++++
+Total cost: 1.50289, Reconstruction: 1.19187, Clustering: 0.31102,
+Fine-tuning epoch 14 ++++
+Total cost: 1.48573, Reconstruction: 1.18007, Clustering: 0.30567,
+Fine-tuning epoch 15 ++++
+Total cost: 1.47479, Reconstruction: 1.17027, Clustering: 0.30452,
+Fine-tuning epoch 16 ++++
+Total cost: 1.44614, Reconstruction: 1.14898, Clustering: 0.29715,
+Fine-tuning epoch 17 ++++
+Total cost: 1.43042, Reconstruction: 1.13766, Clustering: 0.29276,
+Fine-tuning epoch 18 ++++
+Total cost: 1.41104, Reconstruction: 1.12192, Clustering: 0.28912,
+Fine-tuning epoch 19 ++++
+Total cost: 1.40184, Reconstruction: 1.11281, Clustering: 0.28903,
+Fine-tuning epoch 20 ++++
+Total cost: 1.38008, Reconstruction: 1.09503, Clustering: 0.28505,
+Fine-tuning epoch 21 ++++
+Total cost: 1.37176, Reconstruction: 1.08782, Clustering: 0.28393,
+Fine-tuning epoch 22 ++++
+Total cost: 1.35696, Reconstruction: 1.07833, Clustering: 0.27863,
+Fine-tuning epoch 23 ++++
+Total cost: 1.34674, Reconstruction: 1.06941, Clustering: 0.27732,
+Fine-tuning epoch 24 ++++
+Total cost: 1.33997, Reconstruction: 1.06340, Clustering: 0.27657,
+Fine-tuning epoch 25 ++++
+Total cost: 1.31888, Reconstruction: 1.04605, Clustering: 0.27283,
+Fine-tuning epoch 26 ++++
+Total cost: 1.30876, Reconstruction: 1.03870, Clustering: 0.27005,
+Fine-tuning epoch 27 ++++
+Total cost: 1.30724, Reconstruction: 1.03568, Clustering: 0.27156,
+Fine-tuning epoch 28 ++++
+Total cost: 1.28557, Reconstruction: 1.01984, Clustering: 0.26573,
+Fine-tuning epoch 29 ++++
+Total cost: 1.28161, Reconstruction: 1.01550, Clustering: 0.26610,
+Fine-tuning epoch 30 ++++
+Total cost: 1.27114, Reconstruction: 1.00936, Clustering: 0.26178,
+Fine-tuning epoch 31 ++++
+Total cost: 1.25262, Reconstruction: 0.99427, Clustering: 0.25835,
+Fine-tuning epoch 32 ++++
+Total cost: 1.26761, Reconstruction: 1.00476, Clustering: 0.26285,
+Fine-tuning epoch 33 ++++
+Total cost: 1.24378, Reconstruction: 0.98573, Clustering: 0.25804,
+Fine-tuning epoch 34 ++++
+Total cost: 1.25201, Reconstruction: 0.99235, Clustering: 0.25966,
+Fine-tuning epoch 35 ++++
+Total cost: 1.23645, Reconstruction: 0.97805, Clustering: 0.25840,
+Fine-tuning epoch 36 ++++
+Total cost: 1.22130, Reconstruction: 0.96740, Clustering: 0.25390,
+Fine-tuning epoch 37 ++++
+Total cost: 1.22211, Reconstruction: 0.96508, Clustering: 0.25703,
+Fine-tuning epoch 38 ++++
+Total cost: 1.20093, Reconstruction: 0.94941, Clustering: 0.25152,
+Fine-tuning epoch 39 ++++
+Total cost: 1.20820, Reconstruction: 0.95384, Clustering: 0.25435,
+Fine-tuning epoch 40 ++++
+Total cost: 1.19357, Reconstruction: 0.94084, Clustering: 0.25273,
+Fine-tuning epoch 41 ++++
+Total cost: 1.19893, Reconstruction: 0.94627, Clustering: 0.25267,
+Fine-tuning epoch 42 ++++
+Total cost: 1.18637, Reconstruction: 0.93549, Clustering: 0.25089,
+Fine-tuning epoch 43 ++++
+Total cost: 1.18556, Reconstruction: 0.93303, Clustering: 0.25254,
+Fine-tuning epoch 44 ++++
+Total cost: 1.17606, Reconstruction: 0.92674, Clustering: 0.24932,
+Fine-tuning epoch 45 ++++
+Total cost: 1.16660, Reconstruction: 0.92015, Clustering: 0.24645,
+Fine-tuning epoch 46 ++++
+Total cost: 1.17273, Reconstruction: 0.92238, Clustering: 0.25035,
+Fine-tuning epoch 47 ++++
+Total cost: 1.16283, Reconstruction: 0.91558, Clustering: 0.24725,
+Fine-tuning epoch 48 ++++
+Total cost: 1.15047, Reconstruction: 0.90570, Clustering: 0.24477,
+Fine-tuning epoch 49 ++++
+Total cost: 1.15528, Reconstruction: 0.90861, Clustering: 0.24666,
+Fine-tuning epoch 50 ++++
+Total cost: 1.14369, Reconstruction: 0.89960, Clustering: 0.24409,
+Average squared 2-D reconstruction error: 0.8996
+NMI for deep clustering: 0.56
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.54
+The training code for file multi_layer_km.pyc ran for 15.44m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.5976439017
+Pre-training layer 0, epoch 1, cost  4.95466127581
+Pre-training layer 0, epoch 2, cost  3.7028021563
+Pre-training layer 0, epoch 3, cost  3.07902041471
+Pre-training layer 0, epoch 4, cost  2.67991403626
+Pre-training layer 0, epoch 5, cost  2.39621663042
+Pre-training layer 0, epoch 6, cost  2.1820112912
+Pre-training layer 0, epoch 7, cost  2.01477327779
+Pre-training layer 0, epoch 8, cost  1.88072934263
+Pre-training layer 0, epoch 9, cost  1.77086968865
+Pre-training layer 0, epoch 10, cost  1.67867736951
+Pre-training layer 0, epoch 11, cost  1.60013554454
+Pre-training layer 0, epoch 12, cost  1.53253252277
+Pre-training layer 0, epoch 13, cost  1.47364274638
+Pre-training layer 0, epoch 14, cost  1.42155243203
+Pre-training layer 0, epoch 15, cost  1.37534670062
+Pre-training layer 0, epoch 16, cost  1.33374656249
+Pre-training layer 0, epoch 17, cost  1.29626638197
+Pre-training layer 0, epoch 18, cost  1.26221081301
+Pre-training layer 0, epoch 19, cost  1.23096609902
+Pre-training layer 0, epoch 20, cost  1.20214666453
+Pre-training layer 0, epoch 21, cost  1.17549432151
+Pre-training layer 0, epoch 22, cost  1.15090583409
+Pre-training layer 0, epoch 23, cost  1.12787911797
+Pre-training layer 0, epoch 24, cost  1.10638428878
+Pre-training layer 0, epoch 25, cost  1.08638848452
+Pre-training layer 0, epoch 26, cost  1.06734327903
+Pre-training layer 0, epoch 27, cost  1.04957329822
+Pre-training layer 0, epoch 28, cost  1.03273438271
+Pre-training layer 0, epoch 29, cost  1.01700226885
+Pre-training layer 0, epoch 30, cost  1.00195996874
+Pre-training layer 0, epoch 31, cost  0.987795197093
+Pre-training layer 0, epoch 32, cost  0.974206920002
+Pre-training layer 0, epoch 33, cost  0.961476804571
+Pre-training layer 0, epoch 34, cost  0.949281920322
+Pre-training layer 0, epoch 35, cost  0.937801546913
+Pre-training layer 0, epoch 36, cost  0.926708055814
+Pre-training layer 0, epoch 37, cost  0.916139421323
+Pre-training layer 0, epoch 38, cost  0.905953057499
+Pre-training layer 0, epoch 39, cost  0.896195087551
+Pre-training layer 0, epoch 40, cost  0.886815976866
+Pre-training layer 0, epoch 41, cost  0.877747288261
+Pre-training layer 0, epoch 42, cost  0.869094354301
+Pre-training layer 0, epoch 43, cost  0.86074211666
+Pre-training layer 0, epoch 44, cost  0.852731464454
+Pre-training layer 0, epoch 45, cost  0.844935412998
+Pre-training layer 0, epoch 46, cost  0.837386130221
+Pre-training layer 0, epoch 47, cost  0.830109443105
+Pre-training layer 0, epoch 48, cost  0.82308753127
+Pre-training layer 0, epoch 49, cost  0.816216375174
+Pre-training layer 1, epoch 0, cost  16.5880564408
+Pre-training layer 1, epoch 1, cost  4.49604177426
+Pre-training layer 1, epoch 2, cost  3.07273755434
+Pre-training layer 1, epoch 3, cost  2.31703373194
+Pre-training layer 1, epoch 4, cost  1.82087384403
+Pre-training layer 1, epoch 5, cost  1.47341428127
+Pre-training layer 1, epoch 6, cost  1.23762010048
+Pre-training layer 1, epoch 7, cost  1.24667369451
+Pre-training layer 1, epoch 8, cost  1.1885176999
+Pre-training layer 1, epoch 9, cost  1.11395567765
+Pre-training layer 1, epoch 10, cost  1.02168616358
+Pre-training layer 1, epoch 11, cost  0.956183981068
+Pre-training layer 1, epoch 12, cost  0.906656030914
+Pre-training layer 1, epoch 13, cost  0.854456991506
+Pre-training layer 1, epoch 14, cost  0.804281276327
+Pre-training layer 1, epoch 15, cost  0.773525078886
+Pre-training layer 1, epoch 16, cost  0.732435484896
+Pre-training layer 1, epoch 17, cost  0.7024303888
+Pre-training layer 1, epoch 18, cost  0.679588887604
+Pre-training layer 1, epoch 19, cost  0.65440174844
+Pre-training layer 1, epoch 20, cost  0.628091193525
+Pre-training layer 1, epoch 21, cost  0.602812087026
+Pre-training layer 1, epoch 22, cost  0.591682328664
+Pre-training layer 1, epoch 23, cost  0.573743329284
+Pre-training layer 1, epoch 24, cost  0.556961587057
+Pre-training layer 1, epoch 25, cost  0.545605387571
+Pre-training layer 1, epoch 26, cost  0.52182441021
+Pre-training layer 1, epoch 27, cost  0.516482030203
+Pre-training layer 1, epoch 28, cost  0.500722331523
+Pre-training layer 1, epoch 29, cost  0.483329717862
+Pre-training layer 1, epoch 30, cost  0.475944932596
+Pre-training layer 1, epoch 31, cost  0.45932729178
+Pre-training layer 1, epoch 32, cost  0.451304854108
+Pre-training layer 1, epoch 33, cost  0.441583884583
+Pre-training layer 1, epoch 34, cost  0.4275679753
+Pre-training layer 1, epoch 35, cost  0.426265979904
+Pre-training layer 1, epoch 36, cost  0.410718514712
+Pre-training layer 1, epoch 37, cost  0.401625279847
+Pre-training layer 1, epoch 38, cost  0.400058949145
+Pre-training layer 1, epoch 39, cost  0.382537879253
+Pre-training layer 1, epoch 40, cost  0.384230775864
+Pre-training layer 1, epoch 41, cost  0.375569587132
+Pre-training layer 1, epoch 42, cost  0.366519220603
+Pre-training layer 1, epoch 43, cost  0.362631173332
+Pre-training layer 1, epoch 44, cost  0.351618573284
+Pre-training layer 1, epoch 45, cost  0.350774708627
+Pre-training layer 1, epoch 46, cost  0.340895679434
+Pre-training layer 1, epoch 47, cost  0.337752450348
+Pre-training layer 1, epoch 48, cost  0.327972796834
+Pre-training layer 1, epoch 49, cost  0.32368945215
+Pre-training layer 2, epoch 0, cost  11.6947458598
+Pre-training layer 2, epoch 1, cost  2.28174969675
+Pre-training layer 2, epoch 2, cost  1.38047178234
+Pre-training layer 2, epoch 3, cost  0.945957047555
+Pre-training layer 2, epoch 4, cost  0.689209134084
+Pre-training layer 2, epoch 5, cost  0.523617592838
+Pre-training layer 2, epoch 6, cost  0.411555496389
+Pre-training layer 2, epoch 7, cost  0.333204232878
+Pre-training layer 2, epoch 8, cost  0.277558445504
+Pre-training layer 2, epoch 9, cost  0.238752101959
+Pre-training layer 2, epoch 10, cost  0.216493868362
+Pre-training layer 2, epoch 11, cost  0.328906533886
+Pre-training layer 2, epoch 12, cost  0.253035441028
+Pre-training layer 2, epoch 13, cost  0.356370832151
+Pre-training layer 2, epoch 14, cost  0.179198499695
+Pre-training layer 2, epoch 15, cost  0.364808086026
+Pre-training layer 2, epoch 16, cost  0.218893351069
+Pre-training layer 2, epoch 17, cost  0.25753066629
+Pre-training layer 2, epoch 18, cost  0.317352538345
+Pre-training layer 2, epoch 19, cost  0.175215959946
+Pre-training layer 2, epoch 20, cost  0.289966441364
+Pre-training layer 2, epoch 21, cost  0.144131432191
+Pre-training layer 2, epoch 22, cost  0.329822507343
+Pre-training layer 2, epoch 23, cost  0.131800576768
+Pre-training layer 2, epoch 24, cost  0.283895224646
+Pre-training layer 2, epoch 25, cost  0.220378610641
+Pre-training layer 2, epoch 26, cost  0.187433167372
+Pre-training layer 2, epoch 27, cost  0.241969865864
+Pre-training layer 2, epoch 28, cost  0.142503274492
+Pre-training layer 2, epoch 29, cost  0.272727952478
+Pre-training layer 2, epoch 30, cost  0.110908660792
+Pre-training layer 2, epoch 31, cost  0.294537866899
+Pre-training layer 2, epoch 32, cost  0.144952746717
+Pre-training layer 2, epoch 33, cost  0.209132502869
+Pre-training layer 2, epoch 34, cost  0.182138084068
+Pre-training layer 2, epoch 35, cost  0.182918541625
+Pre-training layer 2, epoch 36, cost  0.215696428998
+Pre-training layer 2, epoch 37, cost  0.111052237308
+Pre-training layer 2, epoch 38, cost  0.278152250654
+Pre-training layer 2, epoch 39, cost  0.0901604061079
+Pre-training layer 2, epoch 40, cost  0.246831604808
+Pre-training layer 2, epoch 41, cost  0.0905406141771
+Pre-training layer 2, epoch 42, cost  0.236728974879
+Pre-training layer 2, epoch 43, cost  0.124271066895
+Pre-training layer 2, epoch 44, cost  0.17297188542
+Pre-training layer 2, epoch 45, cost  0.23408683478
+Pre-training layer 2, epoch 46, cost  0.108728288327
+Pre-training layer 2, epoch 47, cost  0.192048856643
+Pre-training layer 2, epoch 48, cost  0.103488415874
+Pre-training layer 2, epoch 49, cost  0.239134489772
+Pre-training layer 3, epoch 0, cost  30.8854592893
+Pre-training layer 3, epoch 1, cost  21.6849379873
+Pre-training layer 3, epoch 2, cost  21.5471901393
+Pre-training layer 3, epoch 3, cost  21.4906049855
+Pre-training layer 3, epoch 4, cost  21.4465931797
+Pre-training layer 3, epoch 5, cost  21.3973672703
+Pre-training layer 3, epoch 6, cost  21.3261992814
+Pre-training layer 3, epoch 7, cost  21.2118871741
+Pre-training layer 3, epoch 8, cost  21.0102688542
+Pre-training layer 3, epoch 9, cost  20.8391624729
+Pre-training layer 3, epoch 10, cost  20.7585392274
+Pre-training layer 3, epoch 11, cost  20.7058165069
+Pre-training layer 3, epoch 12, cost  20.6702404996
+Pre-training layer 3, epoch 13, cost  20.6548722325
+Pre-training layer 3, epoch 14, cost  20.6440847947
+Pre-training layer 3, epoch 15, cost  20.6362955552
+Pre-training layer 3, epoch 16, cost  20.6312510973
+Pre-training layer 3, epoch 17, cost  20.6280177717
+Pre-training layer 3, epoch 18, cost  20.6249833243
+Pre-training layer 3, epoch 19, cost  20.6221363346
+Pre-training layer 3, epoch 20, cost  20.6213271758
+Pre-training layer 3, epoch 21, cost  20.6193769005
+Pre-training layer 3, epoch 22, cost  20.6200223326
+Pre-training layer 3, epoch 23, cost  20.6198159272
+Pre-training layer 3, epoch 24, cost  20.6194779604
+Pre-training layer 3, epoch 25, cost  20.6181857982
+Pre-training layer 3, epoch 26, cost  20.6192038793
+Pre-training layer 3, epoch 27, cost  20.6211037187
+Pre-training layer 3, epoch 28, cost  20.6203348254
+Pre-training layer 3, epoch 29, cost  20.6206581465
+Pre-training layer 3, epoch 30, cost  20.6198001688
+Pre-training layer 3, epoch 31, cost  20.6190563401
+Pre-training layer 3, epoch 32, cost  20.6190592076
+Pre-training layer 3, epoch 33, cost  20.620426888
+Pre-training layer 3, epoch 34, cost  20.6193789821
+Pre-training layer 3, epoch 35, cost  20.6224515978
+Pre-training layer 3, epoch 36, cost  20.6205615684
+Pre-training layer 3, epoch 37, cost  20.61670525
+Pre-training layer 3, epoch 38, cost  20.6205093697
+Pre-training layer 3, epoch 39, cost  20.6190567027
+Pre-training layer 3, epoch 40, cost  20.6177883666
+Pre-training layer 3, epoch 41, cost  20.6176771833
+Pre-training layer 3, epoch 42, cost  20.6193891011
+Pre-training layer 3, epoch 43, cost  20.6179984238
+Pre-training layer 3, epoch 44, cost  20.6157698054
+Pre-training layer 3, epoch 45, cost  20.616078893
+Pre-training layer 3, epoch 46, cost  20.6170251791
+Pre-training layer 3, epoch 47, cost  20.618555991
+Pre-training layer 3, epoch 48, cost  20.6132257271
+The pretraining code for file multi_layer_km.pyc ran for 14.77m
+Pre-training layer 3, epoch 49, cost  20.6154728296
+Initial NMI for deep clustering: 0.49
+ARI for deep clustering: 0.37
+... getting the finetuning functions
+ACC for deep clustering: 0.56
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.83558, Reconstruction: 2.11302, Clustering: 0.72256,
+Fine-tuning epoch 2 ++++
+Total cost: 2.36975, Reconstruction: 1.84648, Clustering: 0.52327,
+Fine-tuning epoch 3 ++++
+Total cost: 2.16149, Reconstruction: 1.71795, Clustering: 0.44354,
+Fine-tuning epoch 4 ++++
+Total cost: 2.03680, Reconstruction: 1.61841, Clustering: 0.41838,
+Fine-tuning epoch 5 ++++
+Total cost: 1.94374, Reconstruction: 1.54243, Clustering: 0.40131,
+Fine-tuning epoch 6 ++++
+Total cost: 1.88484, Reconstruction: 1.49405, Clustering: 0.39078,
+Fine-tuning epoch 7 ++++
+Total cost: 1.82257, Reconstruction: 1.44709, Clustering: 0.37548,
+Fine-tuning epoch 8 ++++
+Total cost: 1.75837, Reconstruction: 1.40544, Clustering: 0.35292,
+Fine-tuning epoch 9 ++++
+Total cost: 1.72258, Reconstruction: 1.38290, Clustering: 0.33968,
+Fine-tuning epoch 10 ++++
+Total cost: 1.68394, Reconstruction: 1.35061, Clustering: 0.33333,
+Fine-tuning epoch 11 ++++
+Total cost: 1.64644, Reconstruction: 1.32107, Clustering: 0.32537,
+Fine-tuning epoch 12 ++++
+Total cost: 1.62734, Reconstruction: 1.30689, Clustering: 0.32045,
+Fine-tuning epoch 13 ++++
+Total cost: 1.60201, Reconstruction: 1.28751, Clustering: 0.31451,
+Fine-tuning epoch 14 ++++
+Total cost: 1.58843, Reconstruction: 1.27872, Clustering: 0.30971,
+Fine-tuning epoch 15 ++++
+Total cost: 1.55743, Reconstruction: 1.25546, Clustering: 0.30198,
+Fine-tuning epoch 16 ++++
+Total cost: 1.54643, Reconstruction: 1.24819, Clustering: 0.29824,
+Fine-tuning epoch 17 ++++
+Total cost: 1.53418, Reconstruction: 1.23722, Clustering: 0.29696,
+Fine-tuning epoch 18 ++++
+Total cost: 1.51437, Reconstruction: 1.22082, Clustering: 0.29354,
+Fine-tuning epoch 19 ++++
+Total cost: 1.49810, Reconstruction: 1.21121, Clustering: 0.28689,
+Fine-tuning epoch 20 ++++
+Total cost: 1.50303, Reconstruction: 1.21479, Clustering: 0.28824,
+Fine-tuning epoch 21 ++++
+Total cost: 1.46918, Reconstruction: 1.18853, Clustering: 0.28065,
+Fine-tuning epoch 22 ++++
+Total cost: 1.47016, Reconstruction: 1.19034, Clustering: 0.27982,
+Fine-tuning epoch 23 ++++
+Total cost: 1.44799, Reconstruction: 1.17318, Clustering: 0.27481,
+Fine-tuning epoch 24 ++++
+Total cost: 1.44395, Reconstruction: 1.17057, Clustering: 0.27338,
+Fine-tuning epoch 25 ++++
+Total cost: 1.42769, Reconstruction: 1.15854, Clustering: 0.26915,
+Fine-tuning epoch 26 ++++
+Total cost: 1.42790, Reconstruction: 1.15691, Clustering: 0.27099,
+Fine-tuning epoch 27 ++++
+Total cost: 1.40127, Reconstruction: 1.13791, Clustering: 0.26336,
+Fine-tuning epoch 28 ++++
+Total cost: 1.39350, Reconstruction: 1.12936, Clustering: 0.26414,
+Fine-tuning epoch 29 ++++
+Total cost: 1.39793, Reconstruction: 1.13335, Clustering: 0.26458,
+Fine-tuning epoch 30 ++++
+Total cost: 1.36950, Reconstruction: 1.10998, Clustering: 0.25952,
+Fine-tuning epoch 31 ++++
+Total cost: 1.37072, Reconstruction: 1.10954, Clustering: 0.26118,
+Fine-tuning epoch 32 ++++
+Total cost: 1.35184, Reconstruction: 1.09696, Clustering: 0.25488,
+Fine-tuning epoch 33 ++++
+Total cost: 1.35019, Reconstruction: 1.09244, Clustering: 0.25775,
+Fine-tuning epoch 34 ++++
+Total cost: 1.34610, Reconstruction: 1.08899, Clustering: 0.25711,
+Fine-tuning epoch 35 ++++
+Total cost: 1.33277, Reconstruction: 1.08015, Clustering: 0.25262,
+Fine-tuning epoch 36 ++++
+Total cost: 1.33195, Reconstruction: 1.07848, Clustering: 0.25348,
+Fine-tuning epoch 37 ++++
+Total cost: 1.31644, Reconstruction: 1.06528, Clustering: 0.25116,
+Fine-tuning epoch 38 ++++
+Total cost: 1.31875, Reconstruction: 1.06716, Clustering: 0.25159,
+Fine-tuning epoch 39 ++++
+Total cost: 1.31345, Reconstruction: 1.06319, Clustering: 0.25026,
+Fine-tuning epoch 40 ++++
+Total cost: 1.31198, Reconstruction: 1.06013, Clustering: 0.25185,
+Fine-tuning epoch 41 ++++
+Total cost: 1.29917, Reconstruction: 1.05224, Clustering: 0.24693,
+Fine-tuning epoch 42 ++++
+Total cost: 1.29116, Reconstruction: 1.04301, Clustering: 0.24815,
+Fine-tuning epoch 43 ++++
+Total cost: 1.27542, Reconstruction: 1.02907, Clustering: 0.24635,
+Fine-tuning epoch 44 ++++
+Total cost: 1.27722, Reconstruction: 1.02986, Clustering: 0.24736,
+Fine-tuning epoch 45 ++++
+Total cost: 1.26000, Reconstruction: 1.01490, Clustering: 0.24510,
+Fine-tuning epoch 46 ++++
+Total cost: 1.26573, Reconstruction: 1.02034, Clustering: 0.24538,
+Fine-tuning epoch 47 ++++
+Total cost: 1.24625, Reconstruction: 1.00206, Clustering: 0.24419,
+Fine-tuning epoch 48 ++++
+Total cost: 1.24177, Reconstruction: 0.99779, Clustering: 0.24398,
+Fine-tuning epoch 49 ++++
+Total cost: 1.23245, Reconstruction: 0.99362, Clustering: 0.23884,
+Fine-tuning epoch 50 ++++
+Total cost: 1.23530, Reconstruction: 0.99435, Clustering: 0.24095,
+Average squared 2-D reconstruction error: 0.9944
+NMI for deep clustering: 0.55
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.55
+The training code for file multi_layer_km.pyc ran for 15.45m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.4381742385
+Pre-training layer 0, epoch 1, cost  4.83036601851
+Pre-training layer 0, epoch 2, cost  3.59443810724
+Pre-training layer 0, epoch 3, cost  2.97953641763
+Pre-training layer 0, epoch 4, cost  2.58368838599
+Pre-training layer 0, epoch 5, cost  2.30123291464
+Pre-training layer 0, epoch 6, cost  2.08852754988
+Pre-training layer 0, epoch 7, cost  1.9226584729
+Pre-training layer 0, epoch 8, cost  1.78974822256
+Pre-training layer 0, epoch 9, cost  1.68030460315
+Pre-training layer 0, epoch 10, cost  1.58864086682
+Pre-training layer 0, epoch 11, cost  1.51073439036
+Pre-training layer 0, epoch 12, cost  1.44407711914
+Pre-training layer 0, epoch 13, cost  1.38608282862
+Pre-training layer 0, epoch 14, cost  1.33516900284
+Pre-training layer 0, epoch 15, cost  1.29004020757
+Pre-training layer 0, epoch 16, cost  1.24946383467
+Pre-training layer 0, epoch 17, cost  1.21271385117
+Pre-training layer 0, epoch 18, cost  1.17950118685
+Pre-training layer 0, epoch 19, cost  1.14932407685
+Pre-training layer 0, epoch 20, cost  1.12150763965
+Pre-training layer 0, epoch 21, cost  1.09570558994
+Pre-training layer 0, epoch 22, cost  1.07175797976
+Pre-training layer 0, epoch 23, cost  1.0494875732
+Pre-training layer 0, epoch 24, cost  1.02859148227
+Pre-training layer 0, epoch 25, cost  1.00900205589
+Pre-training layer 0, epoch 26, cost  0.990615435569
+Pre-training layer 0, epoch 27, cost  0.97329349933
+Pre-training layer 0, epoch 28, cost  0.95690189482
+Pre-training layer 0, epoch 29, cost  0.941350720751
+Pre-training layer 0, epoch 30, cost  0.926546705409
+Pre-training layer 0, epoch 31, cost  0.912496291069
+Pre-training layer 0, epoch 32, cost  0.899212673217
+Pre-training layer 0, epoch 33, cost  0.886347868912
+Pre-training layer 0, epoch 34, cost  0.874277346409
+Pre-training layer 0, epoch 35, cost  0.86274371329
+Pre-training layer 0, epoch 36, cost  0.851852099591
+Pre-training layer 0, epoch 37, cost  0.841425107694
+Pre-training layer 0, epoch 38, cost  0.831415935527
+Pre-training layer 0, epoch 39, cost  0.821906905714
+Pre-training layer 0, epoch 40, cost  0.812792621632
+Pre-training layer 0, epoch 41, cost  0.804032717503
+Pre-training layer 0, epoch 42, cost  0.795590155524
+Pre-training layer 0, epoch 43, cost  0.787595682854
+Pre-training layer 0, epoch 44, cost  0.779848569302
+Pre-training layer 0, epoch 45, cost  0.772436491333
+Pre-training layer 0, epoch 46, cost  0.765334752159
+Pre-training layer 0, epoch 47, cost  0.758442206252
+Pre-training layer 0, epoch 48, cost  0.751747455228
+Pre-training layer 0, epoch 49, cost  0.745323246852
+Pre-training layer 1, epoch 0, cost  16.856029116
+Pre-training layer 1, epoch 1, cost  4.52139198883
+Pre-training layer 1, epoch 2, cost  3.09116660377
+Pre-training layer 1, epoch 3, cost  2.3310657584
+Pre-training layer 1, epoch 4, cost  1.83404323904
+Pre-training layer 1, epoch 5, cost  1.48731872132
+Pre-training layer 1, epoch 6, cost  1.26519266922
+Pre-training layer 1, epoch 7, cost  1.32792691404
+Pre-training layer 1, epoch 8, cost  1.22151704115
+Pre-training layer 1, epoch 9, cost  1.14604612969
+Pre-training layer 1, epoch 10, cost  1.06141992017
+Pre-training layer 1, epoch 11, cost  0.988577015608
+Pre-training layer 1, epoch 12, cost  0.933814767905
+Pre-training layer 1, epoch 13, cost  0.882611545271
+Pre-training layer 1, epoch 14, cost  0.84463052134
+Pre-training layer 1, epoch 15, cost  0.808724538547
+Pre-training layer 1, epoch 16, cost  0.765668655633
+Pre-training layer 1, epoch 17, cost  0.743399352406
+Pre-training layer 1, epoch 18, cost  0.725304297576
+Pre-training layer 1, epoch 19, cost  0.684725151332
+Pre-training layer 1, epoch 20, cost  0.666780765586
+Pre-training layer 1, epoch 21, cost  0.644842715723
+Pre-training layer 1, epoch 22, cost  0.617947754916
+Pre-training layer 1, epoch 23, cost  0.606987581343
+Pre-training layer 1, epoch 24, cost  0.586584162907
+Pre-training layer 1, epoch 25, cost  0.561192824058
+Pre-training layer 1, epoch 26, cost  0.555802157914
+Pre-training layer 1, epoch 27, cost  0.534808568968
+Pre-training layer 1, epoch 28, cost  0.520103953049
+Pre-training layer 1, epoch 29, cost  0.512182087181
+Pre-training layer 1, epoch 30, cost  0.498567814019
+Pre-training layer 1, epoch 31, cost  0.485881298172
+Pre-training layer 1, epoch 32, cost  0.471819696983
+Pre-training layer 1, epoch 33, cost  0.466308896612
+Pre-training layer 1, epoch 34, cost  0.451849070745
+Pre-training layer 1, epoch 35, cost  0.447330853838
+Pre-training layer 1, epoch 36, cost  0.428434979029
+Pre-training layer 1, epoch 37, cost  0.426420211232
+Pre-training layer 1, epoch 38, cost  0.422928262052
+Pre-training layer 1, epoch 39, cost  0.402645351962
+Pre-training layer 1, epoch 40, cost  0.403893461478
+Pre-training layer 1, epoch 41, cost  0.388857730344
+Pre-training layer 1, epoch 42, cost  0.381003140392
+Pre-training layer 1, epoch 43, cost  0.381310698493
+Pre-training layer 1, epoch 44, cost  0.366092409369
+Pre-training layer 1, epoch 45, cost  0.366245136987
+Pre-training layer 1, epoch 46, cost  0.362677327374
+Pre-training layer 1, epoch 47, cost  0.343253140311
+Pre-training layer 1, epoch 48, cost  0.348773183704
+Pre-training layer 1, epoch 49, cost  0.333072675637
+Pre-training layer 2, epoch 0, cost  11.7182644911
+Pre-training layer 2, epoch 1, cost  2.28955108394
+Pre-training layer 2, epoch 2, cost  1.38657024032
+Pre-training layer 2, epoch 3, cost  0.953320586574
+Pre-training layer 2, epoch 4, cost  0.697129823782
+Pre-training layer 2, epoch 5, cost  0.531300634983
+Pre-training layer 2, epoch 6, cost  0.418564025181
+Pre-training layer 2, epoch 7, cost  0.339416406977
+Pre-training layer 2, epoch 8, cost  0.282938763336
+Pre-training layer 2, epoch 9, cost  0.243277813883
+Pre-training layer 2, epoch 10, cost  0.219925217493
+Pre-training layer 2, epoch 11, cost  0.234572252083
+Pre-training layer 2, epoch 12, cost  0.382575038609
+Pre-training layer 2, epoch 13, cost  0.306360840732
+Pre-training layer 2, epoch 14, cost  0.23287224827
+Pre-training layer 2, epoch 15, cost  0.220858261249
+Pre-training layer 2, epoch 16, cost  0.320463434814
+Pre-training layer 2, epoch 17, cost  0.311267637477
+Pre-training layer 2, epoch 18, cost  0.161166032131
+Pre-training layer 2, epoch 19, cost  0.332877248554
+Pre-training layer 2, epoch 20, cost  0.217348469197
+Pre-training layer 2, epoch 21, cost  0.233972774484
+Pre-training layer 2, epoch 22, cost  0.238480144485
+Pre-training layer 2, epoch 23, cost  0.177951527292
+Pre-training layer 2, epoch 24, cost  0.319897008958
+Pre-training layer 2, epoch 25, cost  0.118286542531
+Pre-training layer 2, epoch 26, cost  0.343046469751
+Pre-training layer 2, epoch 27, cost  0.112872786504
+Pre-training layer 2, epoch 28, cost  0.261975182578
+Pre-training layer 2, epoch 29, cost  0.118723579588
+Pre-training layer 2, epoch 30, cost  0.300111788258
+Pre-training layer 2, epoch 31, cost  0.194560751373
+Pre-training layer 2, epoch 32, cost  0.178707870685
+Pre-training layer 2, epoch 33, cost  0.220018428542
+Pre-training layer 2, epoch 34, cost  0.133266724302
+Pre-training layer 2, epoch 35, cost  0.294294856966
+Pre-training layer 2, epoch 36, cost  0.0851977942033
+Pre-training layer 2, epoch 37, cost  0.289948764357
+Pre-training layer 2, epoch 38, cost  0.0975986683706
+Pre-training layer 2, epoch 39, cost  0.24096670494
+Pre-training layer 2, epoch 40, cost  0.0866672073076
+Pre-training layer 2, epoch 41, cost  0.303466892984
+Pre-training layer 2, epoch 42, cost  0.0932576937402
+Pre-training layer 2, epoch 43, cost  0.21480497378
+Pre-training layer 2, epoch 44, cost  0.110608023208
+Pre-training layer 2, epoch 45, cost  0.210583074961
+Pre-training layer 2, epoch 46, cost  0.190364224554
+Pre-training layer 2, epoch 47, cost  0.137843798896
+Pre-training layer 2, epoch 48, cost  0.136261291758
+Pre-training layer 2, epoch 49, cost  0.184208184535
+Pre-training layer 3, epoch 0, cost  31.6128638375
+Pre-training layer 3, epoch 1, cost  21.7917548749
+Pre-training layer 3, epoch 2, cost  21.5819031874
+Pre-training layer 3, epoch 3, cost  21.5117965078
+Pre-training layer 3, epoch 4, cost  21.3855459128
+Pre-training layer 3, epoch 5, cost  21.1518348677
+Pre-training layer 3, epoch 6, cost  20.9678029997
+Pre-training layer 3, epoch 7, cost  20.8863816118
+Pre-training layer 3, epoch 8, cost  20.8455206303
+Pre-training layer 3, epoch 9, cost  20.8227539745
+Pre-training layer 3, epoch 10, cost  20.8070122503
+Pre-training layer 3, epoch 11, cost  20.7946464235
+Pre-training layer 3, epoch 12, cost  20.7836741271
+Pre-training layer 3, epoch 13, cost  20.7755976529
+Pre-training layer 3, epoch 14, cost  20.7690562826
+Pre-training layer 3, epoch 15, cost  20.7625154305
+Pre-training layer 3, epoch 16, cost  20.7590155409
+Pre-training layer 3, epoch 17, cost  20.7554473965
+Pre-training layer 3, epoch 18, cost  20.7524614863
+Pre-training layer 3, epoch 19, cost  20.7486240756
+Pre-training layer 3, epoch 20, cost  20.7519131309
+Pre-training layer 3, epoch 21, cost  20.7444148785
+Pre-training layer 3, epoch 22, cost  20.7484456399
+Pre-training layer 3, epoch 23, cost  20.7434812217
+Pre-training layer 3, epoch 24, cost  20.7526904539
+Pre-training layer 3, epoch 25, cost  20.7391205764
+Pre-training layer 3, epoch 26, cost  20.7448666246
+Pre-training layer 3, epoch 27, cost  20.7414186142
+Pre-training layer 3, epoch 28, cost  20.7540609447
+Pre-training layer 3, epoch 29, cost  20.7369165526
+Pre-training layer 3, epoch 30, cost  20.7442879065
+Pre-training layer 3, epoch 31, cost  20.7369468548
+Pre-training layer 3, epoch 32, cost  20.7378592303
+Pre-training layer 3, epoch 33, cost  20.7374741267
+Pre-training layer 3, epoch 34, cost  20.7330174305
+Pre-training layer 3, epoch 35, cost  20.7350627571
+Pre-training layer 3, epoch 36, cost  20.7365956911
+Pre-training layer 3, epoch 37, cost  20.7325606137
+Pre-training layer 3, epoch 38, cost  20.7300549674
+Pre-training layer 3, epoch 39, cost  20.7368744066
+Pre-training layer 3, epoch 40, cost  20.7276017425
+Pre-training layer 3, epoch 41, cost  20.7312299917
+Pre-training layer 3, epoch 42, cost  20.7317625285
+Pre-training layer 3, epoch 43, cost  20.7302856437
+Pre-training layer 3, epoch 44, cost  20.7305208196
+Pre-training layer 3, epoch 45, cost  20.7266379412
+Pre-training layer 3, epoch 46, cost  20.7264681144
+Pre-training layer 3, epoch 47, cost  20.7255910973
+Pre-training layer 3, epoch 48, cost  20.7302592664
+Pre-training layer 3, epoch 49, cost  20.7273979071
+The pretraining code for file multi_layer_km.pyc ran for 14.77m
+Initial NMI for deep clustering: 0.50
+ARI for deep clustering: 0.37
+... getting the finetuning functions
+ACC for deep clustering: 0.52
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.72878, Reconstruction: 2.00350, Clustering: 0.72528,
+Fine-tuning epoch 2 ++++
+Total cost: 2.25634, Reconstruction: 1.72717, Clustering: 0.52917,
+Fine-tuning epoch 3 ++++
+Total cost: 2.09859, Reconstruction: 1.62626, Clustering: 0.47233,
+Fine-tuning epoch 4 ++++
+Total cost: 1.96103, Reconstruction: 1.52376, Clustering: 0.43727,
+Fine-tuning epoch 5 ++++
+Total cost: 1.86536, Reconstruction: 1.45363, Clustering: 0.41173,
+Fine-tuning epoch 6 ++++
+Total cost: 1.79660, Reconstruction: 1.39840, Clustering: 0.39820,
+Fine-tuning epoch 7 ++++
+Total cost: 1.71834, Reconstruction: 1.34432, Clustering: 0.37402,
+Fine-tuning epoch 8 ++++
+Total cost: 1.68854, Reconstruction: 1.32393, Clustering: 0.36462,
+Fine-tuning epoch 9 ++++
+Total cost: 1.64943, Reconstruction: 1.29309, Clustering: 0.35634,
+Fine-tuning epoch 10 ++++
+Total cost: 1.60624, Reconstruction: 1.25847, Clustering: 0.34777,
+Fine-tuning epoch 11 ++++
+Total cost: 1.57371, Reconstruction: 1.23593, Clustering: 0.33778,
+Fine-tuning epoch 12 ++++
+Total cost: 1.54739, Reconstruction: 1.21838, Clustering: 0.32901,
+Fine-tuning epoch 13 ++++
+Total cost: 1.51405, Reconstruction: 1.19259, Clustering: 0.32146,
+Fine-tuning epoch 14 ++++
+Total cost: 1.48900, Reconstruction: 1.17623, Clustering: 0.31277,
+Fine-tuning epoch 15 ++++
+Total cost: 1.46188, Reconstruction: 1.15844, Clustering: 0.30344,
+Fine-tuning epoch 16 ++++
+Total cost: 1.45314, Reconstruction: 1.15168, Clustering: 0.30146,
+Fine-tuning epoch 17 ++++
+Total cost: 1.43739, Reconstruction: 1.14082, Clustering: 0.29656,
+Fine-tuning epoch 18 ++++
+Total cost: 1.41066, Reconstruction: 1.12148, Clustering: 0.28918,
+Fine-tuning epoch 19 ++++
+Total cost: 1.39566, Reconstruction: 1.11101, Clustering: 0.28465,
+Fine-tuning epoch 20 ++++
+Total cost: 1.38664, Reconstruction: 1.10267, Clustering: 0.28396,
+Fine-tuning epoch 21 ++++
+Total cost: 1.38346, Reconstruction: 1.09973, Clustering: 0.28373,
+Fine-tuning epoch 22 ++++
+Total cost: 1.36353, Reconstruction: 1.08530, Clustering: 0.27823,
+Fine-tuning epoch 23 ++++
+Total cost: 1.34576, Reconstruction: 1.07397, Clustering: 0.27179,
+Fine-tuning epoch 24 ++++
+Total cost: 1.34013, Reconstruction: 1.06591, Clustering: 0.27422,
+Fine-tuning epoch 25 ++++
+Total cost: 1.32598, Reconstruction: 1.05750, Clustering: 0.26848,
+Fine-tuning epoch 26 ++++
+Total cost: 1.32211, Reconstruction: 1.05448, Clustering: 0.26763,
+Fine-tuning epoch 27 ++++
+Total cost: 1.31786, Reconstruction: 1.04897, Clustering: 0.26889,
+Fine-tuning epoch 28 ++++
+Total cost: 1.30366, Reconstruction: 1.03833, Clustering: 0.26532,
+Fine-tuning epoch 29 ++++
+Total cost: 1.29176, Reconstruction: 1.02762, Clustering: 0.26415,
+Fine-tuning epoch 30 ++++
+Total cost: 1.28299, Reconstruction: 1.02306, Clustering: 0.25992,
+Fine-tuning epoch 31 ++++
+Total cost: 1.28972, Reconstruction: 1.02652, Clustering: 0.26320,
+Fine-tuning epoch 32 ++++
+Total cost: 1.26843, Reconstruction: 1.01197, Clustering: 0.25646,
+Fine-tuning epoch 33 ++++
+Total cost: 1.26362, Reconstruction: 1.00583, Clustering: 0.25779,
+Fine-tuning epoch 34 ++++
+Total cost: 1.26835, Reconstruction: 1.00959, Clustering: 0.25876,
+Fine-tuning epoch 35 ++++
+Total cost: 1.26339, Reconstruction: 1.00457, Clustering: 0.25882,
+Fine-tuning epoch 36 ++++
+Total cost: 1.23466, Reconstruction: 0.98370, Clustering: 0.25096,
+Fine-tuning epoch 37 ++++
+Total cost: 1.23167, Reconstruction: 0.98051, Clustering: 0.25116,
+Fine-tuning epoch 38 ++++
+Total cost: 1.23515, Reconstruction: 0.98261, Clustering: 0.25254,
+Fine-tuning epoch 39 ++++
+Total cost: 1.23033, Reconstruction: 0.97642, Clustering: 0.25391,
+Fine-tuning epoch 40 ++++
+Total cost: 1.21077, Reconstruction: 0.96287, Clustering: 0.24790,
+Fine-tuning epoch 41 ++++
+Total cost: 1.21159, Reconstruction: 0.96262, Clustering: 0.24898,
+Fine-tuning epoch 42 ++++
+Total cost: 1.20292, Reconstruction: 0.95578, Clustering: 0.24714,
+Fine-tuning epoch 43 ++++
+Total cost: 1.20131, Reconstruction: 0.95601, Clustering: 0.24531,
+Fine-tuning epoch 44 ++++
+Total cost: 1.19770, Reconstruction: 0.95051, Clustering: 0.24719,
+Fine-tuning epoch 45 ++++
+Total cost: 1.19925, Reconstruction: 0.95209, Clustering: 0.24716,
+Fine-tuning epoch 46 ++++
+Total cost: 1.19522, Reconstruction: 0.94687, Clustering: 0.24835,
+Fine-tuning epoch 47 ++++
+Total cost: 1.18492, Reconstruction: 0.94015, Clustering: 0.24477,
+Fine-tuning epoch 48 ++++
+Total cost: 1.17912, Reconstruction: 0.93702, Clustering: 0.24210,
+Fine-tuning epoch 49 ++++
+Total cost: 1.17039, Reconstruction: 0.92875, Clustering: 0.24164,
+Fine-tuning epoch 50 ++++
+Total cost: 1.17227, Reconstruction: 0.92884, Clustering: 0.24343,
+Average squared 2-D reconstruction error: 0.9288
+NMI for deep clustering: 0.58
+ARI for deep clustering: 0.41
+ACC for deep clustering: 0.56
+The training code for file multi_layer_km.pyc ran for 15.45m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.5761974424
+Pre-training layer 0, epoch 1, cost  4.92309675657
+Pre-training layer 0, epoch 2, cost  3.66780941746
+Pre-training layer 0, epoch 3, cost  3.04604930801
+Pre-training layer 0, epoch 4, cost  2.65251037805
+Pre-training layer 0, epoch 5, cost  2.37370218046
+Pre-training layer 0, epoch 6, cost  2.1639342911
+Pre-training layer 0, epoch 7, cost  1.99993266639
+Pre-training layer 0, epoch 8, cost  1.86827866731
+Pre-training layer 0, epoch 9, cost  1.76031512172
+Pre-training layer 0, epoch 10, cost  1.66996957642
+Pre-training layer 0, epoch 11, cost  1.59279964667
+Pre-training layer 0, epoch 12, cost  1.52600648734
+Pre-training layer 0, epoch 13, cost  1.46786601372
+Pre-training layer 0, epoch 14, cost  1.41672926499
+Pre-training layer 0, epoch 15, cost  1.37139571987
+Pre-training layer 0, epoch 16, cost  1.33073032042
+Pre-training layer 0, epoch 17, cost  1.29399686454
+Pre-training layer 0, epoch 18, cost  1.2607020994
+Pre-training layer 0, epoch 19, cost  1.23025681399
+Pre-training layer 0, epoch 20, cost  1.20238400767
+Pre-training layer 0, epoch 21, cost  1.176492436
+Pre-training layer 0, epoch 22, cost  1.15250418831
+Pre-training layer 0, epoch 23, cost  1.13024012304
+Pre-training layer 0, epoch 24, cost  1.10950300372
+Pre-training layer 0, epoch 25, cost  1.09003601575
+Pre-training layer 0, epoch 26, cost  1.07167574147
+Pre-training layer 0, epoch 27, cost  1.05443961255
+Pre-training layer 0, epoch 28, cost  1.03820777886
+Pre-training layer 0, epoch 29, cost  1.02281994792
+Pre-training layer 0, epoch 30, cost  1.00828351383
+Pre-training layer 0, epoch 31, cost  0.994522664014
+Pre-training layer 0, epoch 32, cost  0.981444543155
+Pre-training layer 0, epoch 33, cost  0.968865904454
+Pre-training layer 0, epoch 34, cost  0.956983991679
+Pre-training layer 0, epoch 35, cost  0.945615228235
+Pre-training layer 0, epoch 36, cost  0.934703018207
+Pre-training layer 0, epoch 37, cost  0.924271222158
+Pre-training layer 0, epoch 38, cost  0.914169035642
+Pre-training layer 0, epoch 39, cost  0.904384169398
+Pre-training layer 0, epoch 40, cost  0.895177475811
+Pre-training layer 0, epoch 41, cost  0.886307471892
+Pre-training layer 0, epoch 42, cost  0.877782278766
+Pre-training layer 0, epoch 43, cost  0.869553343251
+Pre-training layer 0, epoch 44, cost  0.861596415524
+Pre-training layer 0, epoch 45, cost  0.853916429468
+Pre-training layer 0, epoch 46, cost  0.846534127536
+Pre-training layer 0, epoch 47, cost  0.839390691599
+Pre-training layer 0, epoch 48, cost  0.83246014584
+Pre-training layer 0, epoch 49, cost  0.8258125721
+Pre-training layer 1, epoch 0, cost  16.6233941915
+Pre-training layer 1, epoch 1, cost  4.50171897931
+Pre-training layer 1, epoch 2, cost  3.06979281167
+Pre-training layer 1, epoch 3, cost  2.32052112372
+Pre-training layer 1, epoch 4, cost  1.82824341626
+Pre-training layer 1, epoch 5, cost  1.48280443411
+Pre-training layer 1, epoch 6, cost  1.24949231009
+Pre-training layer 1, epoch 7, cost  1.27076224928
+Pre-training layer 1, epoch 8, cost  1.20409763206
+Pre-training layer 1, epoch 9, cost  1.12280753945
+Pre-training layer 1, epoch 10, cost  1.03613694726
+Pre-training layer 1, epoch 11, cost  0.970930584143
+Pre-training layer 1, epoch 12, cost  0.918253052776
+Pre-training layer 1, epoch 13, cost  0.870066399058
+Pre-training layer 1, epoch 14, cost  0.822852249177
+Pre-training layer 1, epoch 15, cost  0.791076779134
+Pre-training layer 1, epoch 16, cost  0.762923086257
+Pre-training layer 1, epoch 17, cost  0.722693731024
+Pre-training layer 1, epoch 18, cost  0.695140795396
+Pre-training layer 1, epoch 19, cost  0.669405745138
+Pre-training layer 1, epoch 20, cost  0.64672196833
+Pre-training layer 1, epoch 21, cost  0.628656688569
+Pre-training layer 1, epoch 22, cost  0.608434156561
+Pre-training layer 1, epoch 23, cost  0.585872862612
+Pre-training layer 1, epoch 24, cost  0.575122796928
+Pre-training layer 1, epoch 25, cost  0.551255958819
+Pre-training layer 1, epoch 26, cost  0.544578175072
+Pre-training layer 1, epoch 27, cost  0.530841460232
+Pre-training layer 1, epoch 28, cost  0.508309182685
+Pre-training layer 1, epoch 29, cost  0.507008473589
+Pre-training layer 1, epoch 30, cost  0.489835497878
+Pre-training layer 1, epoch 31, cost  0.471264905677
+Pre-training layer 1, epoch 32, cost  0.464393328787
+Pre-training layer 1, epoch 33, cost  0.454543354365
+Pre-training layer 1, epoch 34, cost  0.440239156766
+Pre-training layer 1, epoch 35, cost  0.434934913645
+Pre-training layer 1, epoch 36, cost  0.421895958386
+Pre-training layer 1, epoch 37, cost  0.41247638654
+Pre-training layer 1, epoch 38, cost  0.407833086137
+Pre-training layer 1, epoch 39, cost  0.396706730805
+Pre-training layer 1, epoch 40, cost  0.395634257451
+Pre-training layer 1, epoch 41, cost  0.382110619112
+Pre-training layer 1, epoch 42, cost  0.383351335404
+Pre-training layer 1, epoch 43, cost  0.366858037793
+Pre-training layer 1, epoch 44, cost  0.36322766358
+Pre-training layer 1, epoch 45, cost  0.352825586977
+Pre-training layer 1, epoch 46, cost  0.349038042061
+Pre-training layer 1, epoch 47, cost  0.339738638554
+Pre-training layer 1, epoch 48, cost  0.334832224944
+Pre-training layer 1, epoch 49, cost  0.329316875793
+Pre-training layer 2, epoch 0, cost  11.5939861016
+Pre-training layer 2, epoch 1, cost  2.2937088411
+Pre-training layer 2, epoch 2, cost  1.39595592109
+Pre-training layer 2, epoch 3, cost  0.959832700823
+Pre-training layer 2, epoch 4, cost  0.700657604271
+Pre-training layer 2, epoch 5, cost  0.533009176748
+Pre-training layer 2, epoch 6, cost  0.419264994847
+Pre-training layer 2, epoch 7, cost  0.339565685072
+Pre-training layer 2, epoch 8, cost  0.282804083511
+Pre-training layer 2, epoch 9, cost  0.242878694167
+Pre-training layer 2, epoch 10, cost  0.21882686762
+Pre-training layer 2, epoch 11, cost  0.262851314672
+Pre-training layer 2, epoch 12, cost  0.319863782819
+Pre-training layer 2, epoch 13, cost  0.33421661183
+Pre-training layer 2, epoch 14, cost  0.2028919528
+Pre-training layer 2, epoch 15, cost  0.360892738228
+Pre-training layer 2, epoch 16, cost  0.17361179663
+Pre-training layer 2, epoch 17, cost  0.306054463429
+Pre-training layer 2, epoch 18, cost  0.222853799173
+Pre-training layer 2, epoch 19, cost  0.263654814135
+Pre-training layer 2, epoch 20, cost  0.27334261853
+Pre-training layer 2, epoch 21, cost  0.160979530409
+Pre-training layer 2, epoch 22, cost  0.300077955976
+Pre-training layer 2, epoch 23, cost  0.194085409449
+Pre-training layer 2, epoch 24, cost  0.224445796751
+Pre-training layer 2, epoch 25, cost  0.282911011635
+Pre-training layer 2, epoch 26, cost  0.137896144224
+Pre-training layer 2, epoch 27, cost  0.28608250694
+Pre-training layer 2, epoch 28, cost  0.124038748084
+Pre-training layer 2, epoch 29, cost  0.269031286254
+Pre-training layer 2, epoch 30, cost  0.174781185016
+Pre-training layer 2, epoch 31, cost  0.188051658099
+Pre-training layer 2, epoch 32, cost  0.280188002129
+Pre-training layer 2, epoch 33, cost  0.103913080616
+Pre-training layer 2, epoch 34, cost  0.271358443753
+Pre-training layer 2, epoch 35, cost  0.105617929063
+Pre-training layer 2, epoch 36, cost  0.250317575067
+Pre-training layer 2, epoch 37, cost  0.140104450831
+Pre-training layer 2, epoch 38, cost  0.193175580092
+Pre-training layer 2, epoch 39, cost  0.245886402507
+Pre-training layer 2, epoch 40, cost  0.0961909460211
+Pre-training layer 2, epoch 41, cost  0.260900228174
+Pre-training layer 2, epoch 42, cost  0.0878360816087
+Pre-training layer 2, epoch 43, cost  0.241209025195
+Pre-training layer 2, epoch 44, cost  0.0921164815725
+Pre-training layer 2, epoch 45, cost  0.215164758964
+Pre-training layer 2, epoch 46, cost  0.186312862921
+Pre-training layer 2, epoch 47, cost  0.140464864438
+Pre-training layer 2, epoch 48, cost  0.199832990247
+Pre-training layer 2, epoch 49, cost  0.112316171793
+Pre-training layer 3, epoch 0, cost  31.0125386292
+Pre-training layer 3, epoch 1, cost  21.5800326474
+Pre-training layer 3, epoch 2, cost  21.4853302354
+Pre-training layer 3, epoch 3, cost  21.4427869691
+Pre-training layer 3, epoch 4, cost  21.4094637818
+Pre-training layer 3, epoch 5, cost  21.3731736608
+Pre-training layer 3, epoch 6, cost  21.3130172808
+Pre-training layer 3, epoch 7, cost  21.1821578986
+Pre-training layer 3, epoch 8, cost  20.9495445965
+Pre-training layer 3, epoch 9, cost  20.7723534187
+Pre-training layer 3, epoch 10, cost  20.6901158343
+Pre-training layer 3, epoch 11, cost  20.6479628216
+Pre-training layer 3, epoch 12, cost  20.6192570456
+Pre-training layer 3, epoch 13, cost  20.5822491287
+Pre-training layer 3, epoch 14, cost  20.5707586341
+Pre-training layer 3, epoch 15, cost  20.562610942
+Pre-training layer 3, epoch 16, cost  20.5570929509
+Pre-training layer 3, epoch 17, cost  20.5622817545
+Pre-training layer 3, epoch 18, cost  20.5524513526
+Pre-training layer 3, epoch 19, cost  20.5479701349
+Pre-training layer 3, epoch 20, cost  20.5542309392
+Pre-training layer 3, epoch 21, cost  20.5429968732
+Pre-training layer 3, epoch 22, cost  20.5409740049
+Pre-training layer 3, epoch 23, cost  20.5446310667
+Pre-training layer 3, epoch 24, cost  20.5412910803
+Pre-training layer 3, epoch 25, cost  20.541159821
+Pre-training layer 3, epoch 26, cost  20.5460522765
+Pre-training layer 3, epoch 27, cost  20.5445405623
+Pre-training layer 3, epoch 28, cost  20.5370153823
+Pre-training layer 3, epoch 29, cost  20.5468334604
+Pre-training layer 3, epoch 30, cost  20.5429738185
+Pre-training layer 3, epoch 31, cost  20.5377461678
+Pre-training layer 3, epoch 32, cost  20.5478237457
+Pre-training layer 3, epoch 33, cost  20.5405443763
+Pre-training layer 3, epoch 34, cost  20.5424714349
+Pre-training layer 3, epoch 35, cost  20.5415099025
+Pre-training layer 3, epoch 36, cost  20.5413523559
+Pre-training layer 3, epoch 37, cost  20.5404237393
+Pre-training layer 3, epoch 38, cost  20.5437296673
+Pre-training layer 3, epoch 39, cost  20.5384085069
+Pre-training layer 3, epoch 40, cost  20.5392112586
+Pre-training layer 3, epoch 41, cost  20.5085320642
+Pre-training layer 3, epoch 42, cost  20.5004911586
+Pre-training layer 3, epoch 43, cost  20.5052964535
+Pre-training layer 3, epoch 44, cost  20.495858552
+Pre-training layer 3, epoch 45, cost  20.5018448
+Pre-training layer 3, epoch 46, cost  20.502172389
+Pre-training layer 3, epoch 47, cost  20.4963205368
+Pre-training layer 3, epoch 48, cost  20.5006284003
+Pre-training layer 3, epoch 49, cost  20.5003453837
+The pretraining code for file multi_layer_km.pyc ran for 14.76m
+Initial NMI for deep clustering: 0.50
+ARI for deep clustering: 0.37
+... getting the finetuning functions
+ACC for deep clustering: 0.53
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.62318, Reconstruction: 1.90301, Clustering: 0.72018,
+Fine-tuning epoch 2 ++++
+Total cost: 2.20127, Reconstruction: 1.66248, Clustering: 0.53879,
+Fine-tuning epoch 3 ++++
+Total cost: 1.98473, Reconstruction: 1.52243, Clustering: 0.46230,
+Fine-tuning epoch 4 ++++
+Total cost: 1.85907, Reconstruction: 1.43025, Clustering: 0.42882,
+Fine-tuning epoch 5 ++++
+Total cost: 1.78624, Reconstruction: 1.36933, Clustering: 0.41691,
+Fine-tuning epoch 6 ++++
+Total cost: 1.71360, Reconstruction: 1.31884, Clustering: 0.39476,
+Fine-tuning epoch 7 ++++
+Total cost: 1.65554, Reconstruction: 1.27510, Clustering: 0.38044,
+Fine-tuning epoch 8 ++++
+Total cost: 1.61857, Reconstruction: 1.24753, Clustering: 0.37104,
+Fine-tuning epoch 9 ++++
+Total cost: 1.58166, Reconstruction: 1.21991, Clustering: 0.36175,
+Fine-tuning epoch 10 ++++
+Total cost: 1.54851, Reconstruction: 1.19367, Clustering: 0.35484,
+Fine-tuning epoch 11 ++++
+Total cost: 1.51419, Reconstruction: 1.16850, Clustering: 0.34569,
+Fine-tuning epoch 12 ++++
+Total cost: 1.49269, Reconstruction: 1.15506, Clustering: 0.33763,
+Fine-tuning epoch 13 ++++
+Total cost: 1.47577, Reconstruction: 1.14392, Clustering: 0.33184,
+Fine-tuning epoch 14 ++++
+Total cost: 1.45660, Reconstruction: 1.12901, Clustering: 0.32759,
+Fine-tuning epoch 15 ++++
+Total cost: 1.43188, Reconstruction: 1.11189, Clustering: 0.31999,
+Fine-tuning epoch 16 ++++
+Total cost: 1.40625, Reconstruction: 1.09491, Clustering: 0.31134,
+Fine-tuning epoch 17 ++++
+Total cost: 1.39319, Reconstruction: 1.08499, Clustering: 0.30820,
+Fine-tuning epoch 18 ++++
+Total cost: 1.39807, Reconstruction: 1.08894, Clustering: 0.30914,
+Fine-tuning epoch 19 ++++
+Total cost: 1.35946, Reconstruction: 1.05671, Clustering: 0.30274,
+Fine-tuning epoch 20 ++++
+Total cost: 1.34812, Reconstruction: 1.05047, Clustering: 0.29765,
+Fine-tuning epoch 21 ++++
+Total cost: 1.34275, Reconstruction: 1.04394, Clustering: 0.29881,
+Fine-tuning epoch 22 ++++
+Total cost: 1.32398, Reconstruction: 1.03363, Clustering: 0.29035,
+Fine-tuning epoch 23 ++++
+Total cost: 1.31155, Reconstruction: 1.02215, Clustering: 0.28940,
+Fine-tuning epoch 24 ++++
+Total cost: 1.31238, Reconstruction: 1.02310, Clustering: 0.28928,
+Fine-tuning epoch 25 ++++
+Total cost: 1.30360, Reconstruction: 1.01655, Clustering: 0.28706,
+Fine-tuning epoch 26 ++++
+Total cost: 1.27385, Reconstruction: 0.99252, Clustering: 0.28133,
+Fine-tuning epoch 27 ++++
+Total cost: 1.28495, Reconstruction: 1.00355, Clustering: 0.28140,
+Fine-tuning epoch 28 ++++
+Total cost: 1.26123, Reconstruction: 0.98190, Clustering: 0.27933,
+Fine-tuning epoch 29 ++++
+Total cost: 1.26548, Reconstruction: 0.98747, Clustering: 0.27801,
+Fine-tuning epoch 30 ++++
+Total cost: 1.24959, Reconstruction: 0.97430, Clustering: 0.27529,
+Fine-tuning epoch 31 ++++
+Total cost: 1.25417, Reconstruction: 0.97883, Clustering: 0.27534,
+Fine-tuning epoch 32 ++++
+Total cost: 1.23611, Reconstruction: 0.96609, Clustering: 0.27003,
+Fine-tuning epoch 33 ++++
+Total cost: 1.23741, Reconstruction: 0.96337, Clustering: 0.27404,
+Fine-tuning epoch 34 ++++
+Total cost: 1.23200, Reconstruction: 0.96043, Clustering: 0.27157,
+Fine-tuning epoch 35 ++++
+Total cost: 1.21818, Reconstruction: 0.95072, Clustering: 0.26746,
+Fine-tuning epoch 36 ++++
+Total cost: 1.21665, Reconstruction: 0.94841, Clustering: 0.26825,
+Fine-tuning epoch 37 ++++
+Total cost: 1.22036, Reconstruction: 0.95134, Clustering: 0.26902,
+Fine-tuning epoch 38 ++++
+Total cost: 1.19758, Reconstruction: 0.93389, Clustering: 0.26369,
+Fine-tuning epoch 39 ++++
+Total cost: 1.19643, Reconstruction: 0.93318, Clustering: 0.26325,
+Fine-tuning epoch 40 ++++
+Total cost: 1.20048, Reconstruction: 0.93623, Clustering: 0.26425,
+Fine-tuning epoch 41 ++++
+Total cost: 1.17926, Reconstruction: 0.91898, Clustering: 0.26029,
+Fine-tuning epoch 42 ++++
+Total cost: 1.18159, Reconstruction: 0.92070, Clustering: 0.26089,
+Fine-tuning epoch 43 ++++
+Total cost: 1.18253, Reconstruction: 0.92146, Clustering: 0.26108,
+Fine-tuning epoch 44 ++++
+Total cost: 1.17180, Reconstruction: 0.91440, Clustering: 0.25739,
+Fine-tuning epoch 45 ++++
+Total cost: 1.17101, Reconstruction: 0.91243, Clustering: 0.25857,
+Fine-tuning epoch 46 ++++
+Total cost: 1.16676, Reconstruction: 0.90760, Clustering: 0.25916,
+Fine-tuning epoch 47 ++++
+Total cost: 1.16001, Reconstruction: 0.90445, Clustering: 0.25556,
+Fine-tuning epoch 48 ++++
+Total cost: 1.15194, Reconstruction: 0.89609, Clustering: 0.25585,
+Fine-tuning epoch 49 ++++
+Total cost: 1.15535, Reconstruction: 0.89956, Clustering: 0.25578,
+Fine-tuning epoch 50 ++++
+Total cost: 1.16029, Reconstruction: 0.90260, Clustering: 0.25768,
+Average squared 2-D reconstruction error: 0.9026
+NMI for deep clustering: 0.55
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.53
+The training code for file multi_layer_km.pyc ran for 15.43m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.6548091453
+Pre-training layer 0, epoch 1, cost  4.89700048009
+Pre-training layer 0, epoch 2, cost  3.65883498389
+Pre-training layer 0, epoch 3, cost  3.037776351
+Pre-training layer 0, epoch 4, cost  2.64191619362
+Pre-training layer 0, epoch 5, cost  2.36177826173
+Pre-training layer 0, epoch 6, cost  2.15145349515
+Pre-training layer 0, epoch 7, cost  1.98662177372
+Pre-training layer 0, epoch 8, cost  1.85372463847
+Pre-training layer 0, epoch 9, cost  1.74459596937
+Pre-training layer 0, epoch 10, cost  1.65337717611
+Pre-training layer 0, epoch 11, cost  1.57610573611
+Pre-training layer 0, epoch 12, cost  1.50963867093
+Pre-training layer 0, epoch 13, cost  1.45191072229
+Pre-training layer 0, epoch 14, cost  1.40099647305
+Pre-training layer 0, epoch 15, cost  1.35570653524
+Pre-training layer 0, epoch 16, cost  1.31503768451
+Pre-training layer 0, epoch 17, cost  1.27833657871
+Pre-training layer 0, epoch 18, cost  1.24496056094
+Pre-training layer 0, epoch 19, cost  1.21466061027
+Pre-training layer 0, epoch 20, cost  1.18673610041
+Pre-training layer 0, epoch 21, cost  1.16099406586
+Pre-training layer 0, epoch 22, cost  1.13723149055
+Pre-training layer 0, epoch 23, cost  1.11502195633
+Pre-training layer 0, epoch 24, cost  1.09414213422
+Pre-training layer 0, epoch 25, cost  1.07478090007
+Pre-training layer 0, epoch 26, cost  1.05650052256
+Pre-training layer 0, epoch 27, cost  1.03936886738
+Pre-training layer 0, epoch 28, cost  1.02312748156
+Pre-training layer 0, epoch 29, cost  1.00776214968
+Pre-training layer 0, epoch 30, cost  0.99326110292
+Pre-training layer 0, epoch 31, cost  0.979372690659
+Pre-training layer 0, epoch 32, cost  0.966251109266
+Pre-training layer 0, epoch 33, cost  0.953774391609
+Pre-training layer 0, epoch 34, cost  0.941824931375
+Pre-training layer 0, epoch 35, cost  0.9303194258
+Pre-training layer 0, epoch 36, cost  0.919417752421
+Pre-training layer 0, epoch 37, cost  0.908932146438
+Pre-training layer 0, epoch 38, cost  0.89888373834
+Pre-training layer 0, epoch 39, cost  0.889232709238
+Pre-training layer 0, epoch 40, cost  0.87997720128
+Pre-training layer 0, epoch 41, cost  0.87106077245
+Pre-training layer 0, epoch 42, cost  0.862549259322
+Pre-training layer 0, epoch 43, cost  0.854247543632
+Pre-training layer 0, epoch 44, cost  0.846321231158
+Pre-training layer 0, epoch 45, cost  0.838555716796
+Pre-training layer 0, epoch 46, cost  0.831060612787
+Pre-training layer 0, epoch 47, cost  0.823837220458
+Pre-training layer 0, epoch 48, cost  0.816834888517
+Pre-training layer 0, epoch 49, cost  0.810072921489
+Pre-training layer 1, epoch 0, cost  16.6963439697
+Pre-training layer 1, epoch 1, cost  4.50097379469
+Pre-training layer 1, epoch 2, cost  3.07357536085
+Pre-training layer 1, epoch 3, cost  2.32727692801
+Pre-training layer 1, epoch 4, cost  1.83483238488
+Pre-training layer 1, epoch 5, cost  1.48667143764
+Pre-training layer 1, epoch 6, cost  1.24829472122
+Pre-training layer 1, epoch 7, cost  1.25967057442
+Pre-training layer 1, epoch 8, cost  1.20318378349
+Pre-training layer 1, epoch 9, cost  1.12259092523
+Pre-training layer 1, epoch 10, cost  1.04003555031
+Pre-training layer 1, epoch 11, cost  0.970664844026
+Pre-training layer 1, epoch 12, cost  0.914944470676
+Pre-training layer 1, epoch 13, cost  0.868049331452
+Pre-training layer 1, epoch 14, cost  0.824694734029
+Pre-training layer 1, epoch 15, cost  0.791475992923
+Pre-training layer 1, epoch 16, cost  0.754228214868
+Pre-training layer 1, epoch 17, cost  0.718255389982
+Pre-training layer 1, epoch 18, cost  0.699452573441
+Pre-training layer 1, epoch 19, cost  0.672087788419
+Pre-training layer 1, epoch 20, cost  0.638799784542
+Pre-training layer 1, epoch 21, cost  0.629872293774
+Pre-training layer 1, epoch 22, cost  0.609887331856
+Pre-training layer 1, epoch 23, cost  0.587597355129
+Pre-training layer 1, epoch 24, cost  0.572839793432
+Pre-training layer 1, epoch 25, cost  0.554746243992
+Pre-training layer 1, epoch 26, cost  0.536154599779
+Pre-training layer 1, epoch 27, cost  0.528793383907
+Pre-training layer 1, epoch 28, cost  0.50826436512
+Pre-training layer 1, epoch 29, cost  0.495172657152
+Pre-training layer 1, epoch 30, cost  0.486265426978
+Pre-training layer 1, epoch 31, cost  0.470242279641
+Pre-training layer 1, epoch 32, cost  0.463964175594
+Pre-training layer 1, epoch 33, cost  0.452050301187
+Pre-training layer 1, epoch 34, cost  0.441836910098
+Pre-training layer 1, epoch 35, cost  0.439055214122
+Pre-training layer 1, epoch 36, cost  0.420173326338
+Pre-training layer 1, epoch 37, cost  0.416986307264
+Pre-training layer 1, epoch 38, cost  0.405629190058
+Pre-training layer 1, epoch 39, cost  0.398679074938
+Pre-training layer 1, epoch 40, cost  0.395825822753
+Pre-training layer 1, epoch 41, cost  0.380163241171
+Pre-training layer 1, epoch 42, cost  0.378801328473
+Pre-training layer 1, epoch 43, cost  0.369708596959
+Pre-training layer 1, epoch 44, cost  0.35806703235
+Pre-training layer 1, epoch 45, cost  0.355887932346
+Pre-training layer 1, epoch 46, cost  0.34357962889
+Pre-training layer 1, epoch 47, cost  0.344141538955
+Pre-training layer 1, epoch 48, cost  0.334121096899
+Pre-training layer 1, epoch 49, cost  0.327308468151
+Pre-training layer 2, epoch 0, cost  11.7323702537
+Pre-training layer 2, epoch 1, cost  2.30426054452
+Pre-training layer 2, epoch 2, cost  1.4037095758
+Pre-training layer 2, epoch 3, cost  0.967317622889
+Pre-training layer 2, epoch 4, cost  0.707578419455
+Pre-training layer 2, epoch 5, cost  0.539245321806
+Pre-training layer 2, epoch 6, cost  0.424809097309
+Pre-training layer 2, epoch 7, cost  0.344417706088
+Pre-training layer 2, epoch 8, cost  0.28682410553
+Pre-training layer 2, epoch 9, cost  0.245675994733
+Pre-training layer 2, epoch 10, cost  0.218472408133
+Pre-training layer 2, epoch 11, cost  0.210340278333
+Pre-training layer 2, epoch 12, cost  0.296853499357
+Pre-training layer 2, epoch 13, cost  0.317850870178
+Pre-training layer 2, epoch 14, cost  0.338320727719
+Pre-training layer 2, epoch 15, cost  0.183983718941
+Pre-training layer 2, epoch 16, cost  0.357313017844
+Pre-training layer 2, epoch 17, cost  0.172171763674
+Pre-training layer 2, epoch 18, cost  0.306550011065
+Pre-training layer 2, epoch 19, cost  0.138052144068
+Pre-training layer 2, epoch 20, cost  0.365953222774
+Pre-training layer 2, epoch 21, cost  0.189568481943
+Pre-training layer 2, epoch 22, cost  0.231340391185
+Pre-training layer 2, epoch 23, cost  0.254074469152
+Pre-training layer 2, epoch 24, cost  0.205795711302
+Pre-training layer 2, epoch 25, cost  0.262751221365
+Pre-training layer 2, epoch 26, cost  0.128384178681
+Pre-training layer 2, epoch 27, cost  0.323012115688
+Pre-training layer 2, epoch 28, cost  0.111672586355
+Pre-training layer 2, epoch 29, cost  0.276627368542
+Pre-training layer 2, epoch 30, cost  0.15519946081
+Pre-training layer 2, epoch 31, cost  0.232826098928
+Pre-training layer 2, epoch 32, cost  0.223908310839
+Pre-training layer 2, epoch 33, cost  0.142723217652
+Pre-training layer 2, epoch 34, cost  0.266364277616
+Pre-training layer 2, epoch 35, cost  0.0966581814065
+Pre-training layer 2, epoch 36, cost  0.284323380436
+Pre-training layer 2, epoch 37, cost  0.0909770041284
+Pre-training layer 2, epoch 38, cost  0.256999293654
+Pre-training layer 2, epoch 39, cost  0.116227875662
+Pre-training layer 2, epoch 40, cost  0.230307597543
+Pre-training layer 2, epoch 41, cost  0.164691443079
+Pre-training layer 2, epoch 42, cost  0.172246394941
+Pre-training layer 2, epoch 43, cost  0.215377390586
+Pre-training layer 2, epoch 44, cost  0.108585383751
+Pre-training layer 2, epoch 45, cost  0.241715374074
+Pre-training layer 2, epoch 46, cost  0.0838683510612
+Pre-training layer 2, epoch 47, cost  0.244593443941
+Pre-training layer 2, epoch 48, cost  0.0721910109711
+Pre-training layer 2, epoch 49, cost  0.250051891446
+Pre-training layer 3, epoch 0, cost  31.1570280349
+Pre-training layer 3, epoch 1, cost  21.7596998766
+Pre-training layer 3, epoch 2, cost  21.557293334
+Pre-training layer 3, epoch 3, cost  21.4091360916
+Pre-training layer 3, epoch 4, cost  21.1434673076
+Pre-training layer 3, epoch 5, cost  20.9009765018
+Pre-training layer 3, epoch 6, cost  20.8016529027
+Pre-training layer 3, epoch 7, cost  20.7550414999
+Pre-training layer 3, epoch 8, cost  20.7286354968
+Pre-training layer 3, epoch 9, cost  20.7117844692
+Pre-training layer 3, epoch 10, cost  20.7001065773
+Pre-training layer 3, epoch 11, cost  20.6931802457
+Pre-training layer 3, epoch 12, cost  20.6886324972
+Pre-training layer 3, epoch 13, cost  20.6812342258
+Pre-training layer 3, epoch 14, cost  20.6791485487
+Pre-training layer 3, epoch 15, cost  20.6731309279
+Pre-training layer 3, epoch 16, cost  20.672880709
+Pre-training layer 3, epoch 17, cost  20.667643284
+Pre-training layer 3, epoch 18, cost  20.6692531213
+Pre-training layer 3, epoch 19, cost  20.6642598404
+Pre-training layer 3, epoch 20, cost  20.6669786834
+Pre-training layer 3, epoch 21, cost  20.6634002835
+Pre-training layer 3, epoch 22, cost  20.6667952085
+Pre-training layer 3, epoch 23, cost  20.6637772977
+Pre-training layer 3, epoch 24, cost  20.6667981657
+Pre-training layer 3, epoch 25, cost  20.6655382482
+Pre-training layer 3, epoch 26, cost  20.6679968025
+Pre-training layer 3, epoch 27, cost  20.6690206398
+Pre-training layer 3, epoch 28, cost  20.6668992305
+Pre-training layer 3, epoch 29, cost  20.6700873992
+Pre-training layer 3, epoch 30, cost  20.6675464568
+Pre-training layer 3, epoch 31, cost  20.6710530439
+Pre-training layer 3, epoch 32, cost  20.6691914856
+Pre-training layer 3, epoch 33, cost  20.6688505265
+Pre-training layer 3, epoch 34, cost  20.6747278521
+Pre-training layer 3, epoch 35, cost  20.66773904
+Pre-training layer 3, epoch 36, cost  20.6715794057
+Pre-training layer 3, epoch 37, cost  20.6705894021
+Pre-training layer 3, epoch 38, cost  20.6744348718
+Pre-training layer 3, epoch 39, cost  20.6684828233
+Pre-training layer 3, epoch 40, cost  20.6709148123
+Pre-training layer 3, epoch 41, cost  20.6692395892
+Pre-training layer 3, epoch 42, cost  20.6716446051
+Pre-training layer 3, epoch 43, cost  20.6706728961
+Pre-training layer 3, epoch 44, cost  20.6704459534
+Pre-training layer 3, epoch 45, cost  20.6640448723
+Pre-training layer 3, epoch 46, cost  20.6468427927
+Pre-training layer 3, epoch 47, cost  20.64483597
+Pre-training layer 3, epoch 48, cost  20.644999571
+Pre-training layer 3, epoch 49, cost  20.6467460047
+The pretraining code for file multi_layer_km.pyc ran for 14.76m
+Initial NMI for deep clustering: 0.50
+ARI for deep clustering: 0.37
+... getting the finetuning functions
+ACC for deep clustering: 0.53
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.99019, Reconstruction: 2.17132, Clustering: 0.81887,
+Fine-tuning epoch 2 ++++
+Total cost: 2.39374, Reconstruction: 1.86608, Clustering: 0.52766,
+Fine-tuning epoch 3 ++++
+Total cost: 2.18878, Reconstruction: 1.72811, Clustering: 0.46067,
+Fine-tuning epoch 4 ++++
+Total cost: 2.08892, Reconstruction: 1.64982, Clustering: 0.43910,
+Fine-tuning epoch 5 ++++
+Total cost: 2.00362, Reconstruction: 1.58534, Clustering: 0.41828,
+Fine-tuning epoch 6 ++++
+Total cost: 1.94486, Reconstruction: 1.54178, Clustering: 0.40308,
+Fine-tuning epoch 7 ++++
+Total cost: 1.89627, Reconstruction: 1.50478, Clustering: 0.39149,
+Fine-tuning epoch 8 ++++
+Total cost: 1.85405, Reconstruction: 1.47867, Clustering: 0.37538,
+Fine-tuning epoch 9 ++++
+Total cost: 1.81168, Reconstruction: 1.44766, Clustering: 0.36403,
+Fine-tuning epoch 10 ++++
+Total cost: 1.77787, Reconstruction: 1.42164, Clustering: 0.35623,
+Fine-tuning epoch 11 ++++
+Total cost: 1.75418, Reconstruction: 1.39886, Clustering: 0.35532,
+Fine-tuning epoch 12 ++++
+Total cost: 1.71896, Reconstruction: 1.37268, Clustering: 0.34628,
+Fine-tuning epoch 13 ++++
+Total cost: 1.69378, Reconstruction: 1.34826, Clustering: 0.34552,
+Fine-tuning epoch 14 ++++
+Total cost: 1.66897, Reconstruction: 1.32636, Clustering: 0.34261,
+Fine-tuning epoch 15 ++++
+Total cost: 1.64034, Reconstruction: 1.30244, Clustering: 0.33790,
+Fine-tuning epoch 16 ++++
+Total cost: 1.61866, Reconstruction: 1.28548, Clustering: 0.33318,
+Fine-tuning epoch 17 ++++
+Total cost: 1.59203, Reconstruction: 1.26482, Clustering: 0.32721,
+Fine-tuning epoch 18 ++++
+Total cost: 1.58265, Reconstruction: 1.25508, Clustering: 0.32757,
+Fine-tuning epoch 19 ++++
+Total cost: 1.56023, Reconstruction: 1.23654, Clustering: 0.32369,
+Fine-tuning epoch 20 ++++
+Total cost: 1.54437, Reconstruction: 1.22198, Clustering: 0.32239,
+Fine-tuning epoch 21 ++++
+Total cost: 1.52977, Reconstruction: 1.21192, Clustering: 0.31785,
+Fine-tuning epoch 22 ++++
+Total cost: 1.52269, Reconstruction: 1.20577, Clustering: 0.31692,
+Fine-tuning epoch 23 ++++
+Total cost: 1.49733, Reconstruction: 1.18831, Clustering: 0.30902,
+Fine-tuning epoch 24 ++++
+Total cost: 1.48570, Reconstruction: 1.18162, Clustering: 0.30408,
+Fine-tuning epoch 25 ++++
+Total cost: 1.45853, Reconstruction: 1.16489, Clustering: 0.29365,
+Fine-tuning epoch 26 ++++
+Total cost: 1.43977, Reconstruction: 1.15768, Clustering: 0.28209,
+Fine-tuning epoch 27 ++++
+Total cost: 1.41952, Reconstruction: 1.14770, Clustering: 0.27182,
+Fine-tuning epoch 28 ++++
+Total cost: 1.41661, Reconstruction: 1.14706, Clustering: 0.26954,
+Fine-tuning epoch 29 ++++
+Total cost: 1.40430, Reconstruction: 1.13781, Clustering: 0.26649,
+Fine-tuning epoch 30 ++++
+Total cost: 1.37790, Reconstruction: 1.11805, Clustering: 0.25985,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 31 ++++
+Total cost: 1.38281, Reconstruction: 1.12316, Clustering: 0.25965,
+Fine-tuning epoch 32 ++++
+Total cost: 1.35489, Reconstruction: 1.10206, Clustering: 0.25282,
+Fine-tuning epoch 33 ++++
+Total cost: 1.36878, Reconstruction: 1.11099, Clustering: 0.25779,
+Fine-tuning epoch 34 ++++
+Total cost: 1.36255, Reconstruction: 1.10867, Clustering: 0.25388,
+Fine-tuning epoch 35 ++++
+Total cost: 1.34473, Reconstruction: 1.09168, Clustering: 0.25306,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 36 ++++
+Total cost: 1.32522, Reconstruction: 1.07859, Clustering: 0.24663,
+Fine-tuning epoch 37 ++++
+Total cost: 1.33745, Reconstruction: 1.08783, Clustering: 0.24961,
+Fine-tuning epoch 38 ++++
+Total cost: 1.32099, Reconstruction: 1.07519, Clustering: 0.24580,
+Fine-tuning epoch 39 ++++
+Total cost: 1.32781, Reconstruction: 1.07848, Clustering: 0.24933,
+Fine-tuning epoch 40 ++++
+Total cost: 1.31815, Reconstruction: 1.06953, Clustering: 0.24862,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 41 ++++
+Total cost: 1.30474, Reconstruction: 1.06204, Clustering: 0.24269,
+Fine-tuning epoch 42 ++++
+Total cost: 1.30096, Reconstruction: 1.05764, Clustering: 0.24332,
+Fine-tuning epoch 43 ++++
+Total cost: 1.30517, Reconstruction: 1.05978, Clustering: 0.24539,
+Fine-tuning epoch 44 ++++
+Total cost: 1.30201, Reconstruction: 1.05737, Clustering: 0.24464,
+Fine-tuning epoch 45 ++++
+Total cost: 1.28652, Reconstruction: 1.04627, Clustering: 0.24025,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 46 ++++
+Total cost: 1.29142, Reconstruction: 1.04769, Clustering: 0.24373,
+Fine-tuning epoch 47 ++++
+Total cost: 1.26731, Reconstruction: 1.03101, Clustering: 0.23630,
+Fine-tuning epoch 48 ++++
+Total cost: 1.29065, Reconstruction: 1.04824, Clustering: 0.24241,
+Fine-tuning epoch 49 ++++
+Total cost: 1.26982, Reconstruction: 1.03005, Clustering: 0.23977,
+Fine-tuning epoch 50 ++++
+Total cost: 1.27626, Reconstruction: 1.03487, Clustering: 0.24139,
+Number of predicted cluster mismatch with ground truth.
+Average squared 2-D reconstruction error: 1.0349
+NMI for deep clustering: 0.51
+Number of predicted cluster mismatch with ground truth.
+ARI for deep clustering: 0.30
+ACC for deep clustering: 0.00
+The training code for file multi_layer_km.pyc ran for 15.44m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.4995984217
+Pre-training layer 0, epoch 1, cost  4.89592064618
+Pre-training layer 0, epoch 2, cost  3.65650858825
+Pre-training layer 0, epoch 3, cost  3.03228817788
+Pre-training layer 0, epoch 4, cost  2.63298264392
+Pre-training layer 0, epoch 5, cost  2.34886448283
+Pre-training layer 0, epoch 6, cost  2.13534591099
+Pre-training layer 0, epoch 7, cost  1.96855782953
+Pre-training layer 0, epoch 8, cost  1.83405652248
+Pre-training layer 0, epoch 9, cost  1.72342036176
+Pre-training layer 0, epoch 10, cost  1.63116970377
+Pre-training layer 0, epoch 11, cost  1.55306546472
+Pre-training layer 0, epoch 12, cost  1.48633302461
+Pre-training layer 0, epoch 13, cost  1.42861106659
+Pre-training layer 0, epoch 14, cost  1.37808460414
+Pre-training layer 0, epoch 15, cost  1.33332130496
+Pre-training layer 0, epoch 16, cost  1.29341421527
+Pre-training layer 0, epoch 17, cost  1.25727272119
+Pre-training layer 0, epoch 18, cost  1.22454755873
+Pre-training layer 0, epoch 19, cost  1.19454511186
+Pre-training layer 0, epoch 20, cost  1.16693937102
+Pre-training layer 0, epoch 21, cost  1.14131223761
+Pre-training layer 0, epoch 22, cost  1.11757770373
+Pre-training layer 0, epoch 23, cost  1.09542403495
+Pre-training layer 0, epoch 24, cost  1.07472953933
+Pre-training layer 0, epoch 25, cost  1.05527635688
+Pre-training layer 0, epoch 26, cost  1.037093744
+Pre-training layer 0, epoch 27, cost  1.01987824198
+Pre-training layer 0, epoch 28, cost  1.00360190429
+Pre-training layer 0, epoch 29, cost  0.988227412466
+Pre-training layer 0, epoch 30, cost  0.97361979492
+Pre-training layer 0, epoch 31, cost  0.959690405385
+Pre-training layer 0, epoch 32, cost  0.946485848593
+Pre-training layer 0, epoch 33, cost  0.933790351161
+Pre-training layer 0, epoch 34, cost  0.921719466842
+Pre-training layer 0, epoch 35, cost  0.910184798727
+Pre-training layer 0, epoch 36, cost  0.89916976844
+Pre-training layer 0, epoch 37, cost  0.888583237649
+Pre-training layer 0, epoch 38, cost  0.878404843936
+Pre-training layer 0, epoch 39, cost  0.868591537065
+Pre-training layer 0, epoch 40, cost  0.859246015612
+Pre-training layer 0, epoch 41, cost  0.850235672416
+Pre-training layer 0, epoch 42, cost  0.841572652929
+Pre-training layer 0, epoch 43, cost  0.833223491362
+Pre-training layer 0, epoch 44, cost  0.825147878958
+Pre-training layer 0, epoch 45, cost  0.817345448379
+Pre-training layer 0, epoch 46, cost  0.809856285975
+Pre-training layer 0, epoch 47, cost  0.802602560206
+Pre-training layer 0, epoch 48, cost  0.79561082701
+Pre-training layer 0, epoch 49, cost  0.788870174953
+Pre-training layer 1, epoch 0, cost  16.7377689788
+Pre-training layer 1, epoch 1, cost  4.53216508056
+Pre-training layer 1, epoch 2, cost  3.08757995322
+Pre-training layer 1, epoch 3, cost  2.33334093748
+Pre-training layer 1, epoch 4, cost  1.84028133793
+Pre-training layer 1, epoch 5, cost  1.49138813251
+Pre-training layer 1, epoch 6, cost  1.25153565909
+Pre-training layer 1, epoch 7, cost  1.24372505795
+Pre-training layer 1, epoch 8, cost  1.20392935294
+Pre-training layer 1, epoch 9, cost  1.1274958153
+Pre-training layer 1, epoch 10, cost  1.04248734262
+Pre-training layer 1, epoch 11, cost  0.971026738354
+Pre-training layer 1, epoch 12, cost  0.920449803958
+Pre-training layer 1, epoch 13, cost  0.873406975251
+Pre-training layer 1, epoch 14, cost  0.821423906278
+Pre-training layer 1, epoch 15, cost  0.790385425528
+Pre-training layer 1, epoch 16, cost  0.768899916861
+Pre-training layer 1, epoch 17, cost  0.728761910592
+Pre-training layer 1, epoch 18, cost  0.700394307569
+Pre-training layer 1, epoch 19, cost  0.685525472015
+Pre-training layer 1, epoch 20, cost  0.645614208516
+Pre-training layer 1, epoch 21, cost  0.627617159692
+Pre-training layer 1, epoch 22, cost  0.610024068248
+Pre-training layer 1, epoch 23, cost  0.579586376613
+Pre-training layer 1, epoch 24, cost  0.567921113563
+Pre-training layer 1, epoch 25, cost  0.563320162008
+Pre-training layer 1, epoch 26, cost  0.535507732379
+Pre-training layer 1, epoch 27, cost  0.523840708865
+Pre-training layer 1, epoch 28, cost  0.518358843133
+Pre-training layer 1, epoch 29, cost  0.497675687907
+Pre-training layer 1, epoch 30, cost  0.481796804797
+Pre-training layer 1, epoch 31, cost  0.48013729639
+Pre-training layer 1, epoch 32, cost  0.458868172805
+Pre-training layer 1, epoch 33, cost  0.44948884062
+Pre-training layer 1, epoch 34, cost  0.452340085424
+Pre-training layer 1, epoch 35, cost  0.426227346351
+Pre-training layer 1, epoch 36, cost  0.434376546035
+Pre-training layer 1, epoch 37, cost  0.416251475023
+Pre-training layer 1, epoch 38, cost  0.409229043512
+Pre-training layer 1, epoch 39, cost  0.408510283091
+Pre-training layer 1, epoch 40, cost  0.382975814232
+Pre-training layer 1, epoch 41, cost  0.389341867953
+Pre-training layer 1, epoch 42, cost  0.371795245664
+Pre-training layer 1, epoch 43, cost  0.368845764225
+Pre-training layer 1, epoch 44, cost  0.361738864584
+Pre-training layer 1, epoch 45, cost  0.352114345663
+Pre-training layer 1, epoch 46, cost  0.354222190381
+Pre-training layer 1, epoch 47, cost  0.336290758178
+Pre-training layer 1, epoch 48, cost  0.34317769457
+Pre-training layer 1, epoch 49, cost  0.327831806271
+Pre-training layer 2, epoch 0, cost  11.8529564385
+Pre-training layer 2, epoch 1, cost  2.32282748313
+Pre-training layer 2, epoch 2, cost  1.41303421612
+Pre-training layer 2, epoch 3, cost  0.971379212425
+Pre-training layer 2, epoch 4, cost  0.709382196871
+Pre-training layer 2, epoch 5, cost  0.54020165554
+Pre-training layer 2, epoch 6, cost  0.425243179542
+Pre-training layer 2, epoch 7, cost  0.344413481463
+Pre-training layer 2, epoch 8, cost  0.286534435046
+Pre-training layer 2, epoch 9, cost  0.245609107056
+Pre-training layer 2, epoch 10, cost  0.220611520818
+Pre-training layer 2, epoch 11, cost  0.237501051114
+Pre-training layer 2, epoch 12, cost  0.351660139264
+Pre-training layer 2, epoch 13, cost  0.310814521524
+Pre-training layer 2, epoch 14, cost  0.236188993597
+Pre-training layer 2, epoch 15, cost  0.347301248697
+Pre-training layer 2, epoch 16, cost  0.186360373639
+Pre-training layer 2, epoch 17, cost  0.313844685965
+Pre-training layer 2, epoch 18, cost  0.157305499982
+Pre-training layer 2, epoch 19, cost  0.347296165519
+Pre-training layer 2, epoch 20, cost  0.194114293811
+Pre-training layer 2, epoch 21, cost  0.231482519795
+Pre-training layer 2, epoch 22, cost  0.287910176573
+Pre-training layer 2, epoch 23, cost  0.178558474921
+Pre-training layer 2, epoch 24, cost  0.254986118009
+Pre-training layer 2, epoch 25, cost  0.169028293042
+Pre-training layer 2, epoch 26, cost  0.234941493045
+Pre-training layer 2, epoch 27, cost  0.276545945089
+Pre-training layer 2, epoch 28, cost  0.118643514255
+Pre-training layer 2, epoch 29, cost  0.313979073378
+Pre-training layer 2, epoch 30, cost  0.129714143214
+Pre-training layer 2, epoch 31, cost  0.232970766174
+Pre-training layer 2, epoch 32, cost  0.15725977307
+Pre-training layer 2, epoch 33, cost  0.208386545285
+Pre-training layer 2, epoch 34, cost  0.257668547455
+Pre-training layer 2, epoch 35, cost  0.098360232866
+Pre-training layer 2, epoch 36, cost  0.274452980888
+Pre-training layer 2, epoch 37, cost  0.125205590698
+Pre-training layer 2, epoch 38, cost  0.209494021461
+Pre-training layer 2, epoch 39, cost  0.205201063037
+Pre-training layer 2, epoch 40, cost  0.11868491447
+Pre-training layer 2, epoch 41, cost  0.256715046079
+Pre-training layer 2, epoch 42, cost  0.0860922121019
+Pre-training layer 2, epoch 43, cost  0.247786211313
+Pre-training layer 2, epoch 44, cost  0.128304435672
+Pre-training layer 2, epoch 45, cost  0.172454922337
+Pre-training layer 2, epoch 46, cost  0.198701979129
+Pre-training layer 2, epoch 47, cost  0.12146692047
+Pre-training layer 2, epoch 48, cost  0.226497915544
+Pre-training layer 2, epoch 49, cost  0.0902278269179
+Pre-training layer 3, epoch 0, cost  31.4968969804
+Pre-training layer 3, epoch 1, cost  21.7931078582
+Pre-training layer 3, epoch 2, cost  21.6240189653
+Pre-training layer 3, epoch 3, cost  21.4479974542
+Pre-training layer 3, epoch 4, cost  21.0903104848
+Pre-training layer 3, epoch 5, cost  20.8749501959
+Pre-training layer 3, epoch 6, cost  20.8011198837
+Pre-training layer 3, epoch 7, cost  20.766238427
+Pre-training layer 3, epoch 8, cost  20.7460514006
+Pre-training layer 3, epoch 9, cost  20.7327838472
+Pre-training layer 3, epoch 10, cost  20.7234071562
+Pre-training layer 3, epoch 11, cost  20.7165047409
+Pre-training layer 3, epoch 12, cost  20.7135569043
+Pre-training layer 3, epoch 13, cost  20.7092110562
+Pre-training layer 3, epoch 14, cost  20.7082869531
+Pre-training layer 3, epoch 15, cost  20.7014889349
+Pre-training layer 3, epoch 16, cost  20.7036633103
+Pre-training layer 3, epoch 17, cost  20.6964912903
+Pre-training layer 3, epoch 18, cost  20.6991081145
+Pre-training layer 3, epoch 19, cost  20.6947756664
+Pre-training layer 3, epoch 20, cost  20.6995099716
+Pre-training layer 3, epoch 21, cost  20.7024981711
+Pre-training layer 3, epoch 22, cost  20.6978155667
+Pre-training layer 3, epoch 23, cost  20.696727811
+Pre-training layer 3, epoch 24, cost  20.6949921577
+Pre-training layer 3, epoch 25, cost  20.7021718482
+Pre-training layer 3, epoch 26, cost  20.6963749167
+Pre-training layer 3, epoch 27, cost  20.6906679607
+Pre-training layer 3, epoch 28, cost  20.6923953931
+Pre-training layer 3, epoch 29, cost  20.6994240915
+Pre-training layer 3, epoch 30, cost  20.6975904973
+Pre-training layer 3, epoch 31, cost  20.6938044095
+Pre-training layer 3, epoch 32, cost  20.7130190294
+Pre-training layer 3, epoch 33, cost  20.6969780077
+Pre-training layer 3, epoch 34, cost  20.6914446903
+Pre-training layer 3, epoch 35, cost  20.7028060815
+Pre-training layer 3, epoch 36, cost  20.7121648696
+Pre-training layer 3, epoch 37, cost  20.6938728057
+Pre-training layer 3, epoch 38, cost  20.6949937969
+Pre-training layer 3, epoch 39, cost  20.7020383209
+Pre-training layer 3, epoch 40, cost  20.7199310306
+Pre-training layer 3, epoch 41, cost  20.6931350866
+Pre-training layer 3, epoch 42, cost  20.6949172993
+Pre-training layer 3, epoch 43, cost  20.6982160402
+Pre-training layer 3, epoch 44, cost  20.708197813
+Pre-training layer 3, epoch 45, cost  20.6988901478
+Pre-training layer 3, epoch 46, cost  20.6970302116
+Pre-training layer 3, epoch 47, cost  20.7011453444
+Pre-training layer 3, epoch 48, cost  20.7027898269
+The pretraining code for file multi_layer_km.pyc ran for 14.77m
+Pre-training layer 3, epoch 49, cost  20.6997749405
+Initial NMI for deep clustering: 0.51
+... getting the finetuning functions
+ARI for deep clustering: 0.40
+ACC for deep clustering: 0.57
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.72169, Reconstruction: 1.98098, Clustering: 0.74071,
+Fine-tuning epoch 2 ++++
+Total cost: 2.29986, Reconstruction: 1.77477, Clustering: 0.52509,
+Fine-tuning epoch 3 ++++
+Total cost: 2.06977, Reconstruction: 1.63232, Clustering: 0.43745,
+Fine-tuning epoch 4 ++++
+Total cost: 1.95296, Reconstruction: 1.53657, Clustering: 0.41639,
+Fine-tuning epoch 5 ++++
+Total cost: 1.87041, Reconstruction: 1.47288, Clustering: 0.39753,
+Fine-tuning epoch 6 ++++
+Total cost: 1.82094, Reconstruction: 1.42746, Clustering: 0.39348,
+Fine-tuning epoch 7 ++++
+Total cost: 1.75635, Reconstruction: 1.38141, Clustering: 0.37494,
+Fine-tuning epoch 8 ++++
+Total cost: 1.72628, Reconstruction: 1.35788, Clustering: 0.36840,
+Fine-tuning epoch 9 ++++
+Total cost: 1.72052, Reconstruction: 1.32473, Clustering: 0.39579,
+Fine-tuning epoch 10 ++++
+Total cost: 1.66998, Reconstruction: 1.31016, Clustering: 0.35982,
+Fine-tuning epoch 11 ++++
+Total cost: 1.62833, Reconstruction: 1.28040, Clustering: 0.34793,
+Fine-tuning epoch 12 ++++
+Total cost: 1.59358, Reconstruction: 1.25432, Clustering: 0.33925,
+Fine-tuning epoch 13 ++++
+Total cost: 1.57402, Reconstruction: 1.24066, Clustering: 0.33336,
+Fine-tuning epoch 14 ++++
+Total cost: 1.54344, Reconstruction: 1.21655, Clustering: 0.32689,
+Fine-tuning epoch 15 ++++
+Total cost: 1.52831, Reconstruction: 1.20793, Clustering: 0.32038,
+Fine-tuning epoch 16 ++++
+Total cost: 1.49559, Reconstruction: 1.18284, Clustering: 0.31275,
+Fine-tuning epoch 17 ++++
+Total cost: 1.49256, Reconstruction: 1.17836, Clustering: 0.31420,
+Fine-tuning epoch 18 ++++
+Total cost: 1.46302, Reconstruction: 1.15644, Clustering: 0.30658,
+Fine-tuning epoch 19 ++++
+Total cost: 1.44437, Reconstruction: 1.14657, Clustering: 0.29780,
+Fine-tuning epoch 20 ++++
+Total cost: 1.42011, Reconstruction: 1.13340, Clustering: 0.28671,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 21 ++++
+Total cost: 1.40379, Reconstruction: 1.12149, Clustering: 0.28231,
+Fine-tuning epoch 22 ++++
+Total cost: 1.36068, Reconstruction: 1.08971, Clustering: 0.27097,
+Fine-tuning epoch 23 ++++
+Total cost: 1.36871, Reconstruction: 1.09408, Clustering: 0.27463,
+Fine-tuning epoch 24 ++++
+Total cost: 1.36099, Reconstruction: 1.08653, Clustering: 0.27445,
+Fine-tuning epoch 25 ++++
+Total cost: 1.34212, Reconstruction: 1.07088, Clustering: 0.27124,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 26 ++++
+Total cost: 1.32307, Reconstruction: 1.05617, Clustering: 0.26690,
+Fine-tuning epoch 27 ++++
+Total cost: 1.31027, Reconstruction: 1.04812, Clustering: 0.26215,
+Fine-tuning epoch 28 ++++
+Total cost: 1.31095, Reconstruction: 1.04728, Clustering: 0.26368,
+Fine-tuning epoch 29 ++++
+Total cost: 1.28856, Reconstruction: 1.02897, Clustering: 0.25959,
+Fine-tuning epoch 30 ++++
+Total cost: 1.29637, Reconstruction: 1.03398, Clustering: 0.26239,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 31 ++++
+Total cost: 1.28290, Reconstruction: 1.02266, Clustering: 0.26024,
+Fine-tuning epoch 32 ++++
+Total cost: 1.26571, Reconstruction: 1.00965, Clustering: 0.25606,
+Fine-tuning epoch 33 ++++
+Total cost: 1.26347, Reconstruction: 1.00796, Clustering: 0.25551,
+Fine-tuning epoch 34 ++++
+Total cost: 1.26761, Reconstruction: 1.00912, Clustering: 0.25849,
+Fine-tuning epoch 35 ++++
+Total cost: 1.25637, Reconstruction: 1.00285, Clustering: 0.25352,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 36 ++++
+Total cost: 1.25167, Reconstruction: 0.99630, Clustering: 0.25537,
+Fine-tuning epoch 37 ++++
+Total cost: 1.24918, Reconstruction: 0.99502, Clustering: 0.25417,
+Fine-tuning epoch 38 ++++
+Total cost: 1.23830, Reconstruction: 0.98370, Clustering: 0.25461,
+Fine-tuning epoch 39 ++++
+Total cost: 1.22367, Reconstruction: 0.97656, Clustering: 0.24711,
+Fine-tuning epoch 40 ++++
+Total cost: 1.23178, Reconstruction: 0.97984, Clustering: 0.25193,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 41 ++++
+Total cost: 1.22137, Reconstruction: 0.97226, Clustering: 0.24911,
+Fine-tuning epoch 42 ++++
+Total cost: 1.21608, Reconstruction: 0.96915, Clustering: 0.24694,
+Fine-tuning epoch 43 ++++
+Total cost: 1.21939, Reconstruction: 0.96817, Clustering: 0.25122,
+Fine-tuning epoch 44 ++++
+Total cost: 1.19823, Reconstruction: 0.95194, Clustering: 0.24630,
+Fine-tuning epoch 45 ++++
+Total cost: 1.20163, Reconstruction: 0.95653, Clustering: 0.24510,
+Number of predicted cluster mismatch with ground truth.
+Fine-tuning epoch 46 ++++
+Total cost: 1.19219, Reconstruction: 0.94676, Clustering: 0.24542,
+Fine-tuning epoch 47 ++++
+Total cost: 1.19060, Reconstruction: 0.94453, Clustering: 0.24607,
+Fine-tuning epoch 48 ++++
+Total cost: 1.18569, Reconstruction: 0.94194, Clustering: 0.24375,
+Fine-tuning epoch 49 ++++
+Total cost: 1.17778, Reconstruction: 0.93382, Clustering: 0.24396,
+Fine-tuning epoch 50 ++++
+Total cost: 1.17195, Reconstruction: 0.93008, Clustering: 0.24187,
+Number of predicted cluster mismatch with ground truth.
+Average squared 2-D reconstruction error: 0.9301
+NMI for deep clustering: 0.54
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.00
+Number of predicted cluster mismatch with ground truth.
+The training code for file multi_layer_km.pyc ran for 15.43m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.5716407557
+Pre-training layer 0, epoch 1, cost  4.90628879794
+Pre-training layer 0, epoch 2, cost  3.6683116531
+Pre-training layer 0, epoch 3, cost  3.04475818237
+Pre-training layer 0, epoch 4, cost  2.64634613802
+Pre-training layer 0, epoch 5, cost  2.36464364307
+Pre-training layer 0, epoch 6, cost  2.15401176713
+Pre-training layer 0, epoch 7, cost  1.99026143595
+Pre-training layer 0, epoch 8, cost  1.85922834566
+Pre-training layer 0, epoch 9, cost  1.75162344837
+Pre-training layer 0, epoch 10, cost  1.66187547966
+Pre-training layer 0, epoch 11, cost  1.58566796802
+Pre-training layer 0, epoch 12, cost  1.520034058
+Pre-training layer 0, epoch 13, cost  1.46297598053
+Pre-training layer 0, epoch 14, cost  1.41261937087
+Pre-training layer 0, epoch 15, cost  1.36785756566
+Pre-training layer 0, epoch 16, cost  1.32779114051
+Pre-training layer 0, epoch 17, cost  1.29158293593
+Pre-training layer 0, epoch 18, cost  1.2588358488
+Pre-training layer 0, epoch 19, cost  1.2289552934
+Pre-training layer 0, epoch 20, cost  1.20121736832
+Pre-training layer 0, epoch 21, cost  1.175626982
+Pre-training layer 0, epoch 22, cost  1.15186803292
+Pre-training layer 0, epoch 23, cost  1.12957024745
+Pre-training layer 0, epoch 24, cost  1.10878390938
+Pre-training layer 0, epoch 25, cost  1.08928486506
+Pre-training layer 0, epoch 26, cost  1.07099451629
+Pre-training layer 0, epoch 27, cost  1.05371746587
+Pre-training layer 0, epoch 28, cost  1.03742830418
+Pre-training layer 0, epoch 29, cost  1.0219669999
+Pre-training layer 0, epoch 30, cost  1.00726328225
+Pre-training layer 0, epoch 31, cost  0.993186096614
+Pre-training layer 0, epoch 32, cost  0.979893863579
+Pre-training layer 0, epoch 33, cost  0.967357141597
+Pre-training layer 0, epoch 34, cost  0.955318537983
+Pre-training layer 0, epoch 35, cost  0.9438807206
+Pre-training layer 0, epoch 36, cost  0.932895901131
+Pre-training layer 0, epoch 37, cost  0.922382930626
+Pre-training layer 0, epoch 38, cost  0.912297698123
+Pre-training layer 0, epoch 39, cost  0.902609990359
+Pre-training layer 0, epoch 40, cost  0.893330600451
+Pre-training layer 0, epoch 41, cost  0.884321239789
+Pre-training layer 0, epoch 42, cost  0.875677758934
+Pre-training layer 0, epoch 43, cost  0.867321984117
+Pre-training layer 0, epoch 44, cost  0.859348681331
+Pre-training layer 0, epoch 45, cost  0.851616605375
+Pre-training layer 0, epoch 46, cost  0.844195893927
+Pre-training layer 0, epoch 47, cost  0.836953626191
+Pre-training layer 0, epoch 48, cost  0.829934373684
+Pre-training layer 0, epoch 49, cost  0.823182317182
+Pre-training layer 1, epoch 0, cost  16.729023097
+Pre-training layer 1, epoch 1, cost  4.54694926274
+Pre-training layer 1, epoch 2, cost  3.10172175215
+Pre-training layer 1, epoch 3, cost  2.33879086839
+Pre-training layer 1, epoch 4, cost  1.84007028505
+Pre-training layer 1, epoch 5, cost  1.4891458846
+Pre-training layer 1, epoch 6, cost  1.24760327818
+Pre-training layer 1, epoch 7, cost  1.23527194129
+Pre-training layer 1, epoch 8, cost  1.20522640888
+Pre-training layer 1, epoch 9, cost  1.11368418544
+Pre-training layer 1, epoch 10, cost  1.0300140937
+Pre-training layer 1, epoch 11, cost  0.967413426271
+Pre-training layer 1, epoch 12, cost  0.909408500248
+Pre-training layer 1, epoch 13, cost  0.858738356046
+Pre-training layer 1, epoch 14, cost  0.822481701595
+Pre-training layer 1, epoch 15, cost  0.783780532107
+Pre-training layer 1, epoch 16, cost  0.745483711646
+Pre-training layer 1, epoch 17, cost  0.710664574108
+Pre-training layer 1, epoch 18, cost  0.691262514415
+Pre-training layer 1, epoch 19, cost  0.660788897792
+Pre-training layer 1, epoch 20, cost  0.638147284837
+Pre-training layer 1, epoch 21, cost  0.616580033282
+Pre-training layer 1, epoch 22, cost  0.596257058936
+Pre-training layer 1, epoch 23, cost  0.577371610508
+Pre-training layer 1, epoch 24, cost  0.566141601467
+Pre-training layer 1, epoch 25, cost  0.546925859215
+Pre-training layer 1, epoch 26, cost  0.530519789238
+Pre-training layer 1, epoch 27, cost  0.522045688273
+Pre-training layer 1, epoch 28, cost  0.509786249075
+Pre-training layer 1, epoch 29, cost  0.489396925758
+Pre-training layer 1, epoch 30, cost  0.48582034188
+Pre-training layer 1, epoch 31, cost  0.474069928057
+Pre-training layer 1, epoch 32, cost  0.458907013751
+Pre-training layer 1, epoch 33, cost  0.45815719046
+Pre-training layer 1, epoch 34, cost  0.442481675731
+Pre-training layer 1, epoch 35, cost  0.429559477597
+Pre-training layer 1, epoch 36, cost  0.42262328035
+Pre-training layer 1, epoch 37, cost  0.410438222355
+Pre-training layer 1, epoch 38, cost  0.399850002818
+Pre-training layer 1, epoch 39, cost  0.395202447757
+Pre-training layer 1, epoch 40, cost  0.383356342724
+Pre-training layer 1, epoch 41, cost  0.382321696506
+Pre-training layer 1, epoch 42, cost  0.367566189071
+Pre-training layer 1, epoch 43, cost  0.368756758715
+Pre-training layer 1, epoch 44, cost  0.356777799717
+Pre-training layer 1, epoch 45, cost  0.352006823983
+Pre-training layer 1, epoch 46, cost  0.350964970951
+Pre-training layer 1, epoch 47, cost  0.337337157325
+Pre-training layer 1, epoch 48, cost  0.336700517963
+Pre-training layer 1, epoch 49, cost  0.325953074088
+Pre-training layer 2, epoch 0, cost  11.6983732196
+Pre-training layer 2, epoch 1, cost  2.29771016568
+Pre-training layer 2, epoch 2, cost  1.393022129
+Pre-training layer 2, epoch 3, cost  0.956219588774
+Pre-training layer 2, epoch 4, cost  0.696814818497
+Pre-training layer 2, epoch 5, cost  0.529080554048
+Pre-training layer 2, epoch 6, cost  0.415405158687
+Pre-training layer 2, epoch 7, cost  0.335991444604
+Pre-training layer 2, epoch 8, cost  0.279725751986
+Pre-training layer 2, epoch 9, cost  0.240876057444
+Pre-training layer 2, epoch 10, cost  0.221831838432
+Pre-training layer 2, epoch 11, cost  0.346910498505
+Pre-training layer 2, epoch 12, cost  0.233238001999
+Pre-training layer 2, epoch 13, cost  0.377677998471
+Pre-training layer 2, epoch 14, cost  0.200350792498
+Pre-training layer 2, epoch 15, cost  0.336808080819
+Pre-training layer 2, epoch 16, cost  0.277750081783
+Pre-training layer 2, epoch 17, cost  0.202359930793
+Pre-training layer 2, epoch 18, cost  0.350234243769
+Pre-training layer 2, epoch 19, cost  0.144706881117
+Pre-training layer 2, epoch 20, cost  0.308690386608
+Pre-training layer 2, epoch 21, cost  0.227338763516
+Pre-training layer 2, epoch 22, cost  0.220355128386
+Pre-training layer 2, epoch 23, cost  0.287055510294
+Pre-training layer 2, epoch 24, cost  0.140305835366
+Pre-training layer 2, epoch 25, cost  0.306509808009
+Pre-training layer 2, epoch 26, cost  0.122011489358
+Pre-training layer 2, epoch 27, cost  0.288264985233
+Pre-training layer 2, epoch 28, cost  0.21569553141
+Pre-training layer 2, epoch 29, cost  0.171195450766
+Pre-training layer 2, epoch 30, cost  0.278256699995
+Pre-training layer 2, epoch 31, cost  0.118300143007
+Pre-training layer 2, epoch 32, cost  0.274614833663
+Pre-training layer 2, epoch 33, cost  0.0956530857937
+Pre-training layer 2, epoch 34, cost  0.286894172343
+Pre-training layer 2, epoch 35, cost  0.132007554338
+Pre-training layer 2, epoch 36, cost  0.221894205542
+Pre-training layer 2, epoch 37, cost  0.180481641202
+Pre-training layer 2, epoch 38, cost  0.180361301609
+Pre-training layer 2, epoch 39, cost  0.228359005237
+Pre-training layer 2, epoch 40, cost  0.108165334365
+Pre-training layer 2, epoch 41, cost  0.259926533569
+Pre-training layer 2, epoch 42, cost  0.082513650887
+Pre-training layer 2, epoch 43, cost  0.259229143087
+Pre-training layer 2, epoch 44, cost  0.0775423241333
+Pre-training layer 2, epoch 45, cost  0.24699293953
+Pre-training layer 2, epoch 46, cost  0.0837719973223
+Pre-training layer 2, epoch 47, cost  0.24430574802
+Pre-training layer 2, epoch 48, cost  0.0982814525842
+Pre-training layer 2, epoch 49, cost  0.208450835105
+Pre-training layer 3, epoch 0, cost  31.2552980089
+Pre-training layer 3, epoch 1, cost  21.6636836051
+Pre-training layer 3, epoch 2, cost  21.5543010635
+Pre-training layer 3, epoch 3, cost  21.5192288007
+Pre-training layer 3, epoch 4, cost  21.4755395644
+Pre-training layer 3, epoch 5, cost  21.389804728
+Pre-training layer 3, epoch 6, cost  21.2005963054
+Pre-training layer 3, epoch 7, cost  20.9781556035
+Pre-training layer 3, epoch 8, cost  20.87187558
+Pre-training layer 3, epoch 9, cost  20.8231066781
+Pre-training layer 3, epoch 10, cost  20.796429718
+Pre-training layer 3, epoch 11, cost  20.7853213858
+Pre-training layer 3, epoch 12, cost  20.7697480514
+Pre-training layer 3, epoch 13, cost  20.7813719583
+Pre-training layer 3, epoch 14, cost  20.7539162874
+Pre-training layer 3, epoch 15, cost  20.757826764
+Pre-training layer 3, epoch 16, cost  20.7480170152
+Pre-training layer 3, epoch 17, cost  20.7448739392
+Pre-training layer 3, epoch 18, cost  20.7469409339
+Pre-training layer 3, epoch 19, cost  20.7504807176
+Pre-training layer 3, epoch 20, cost  20.7348733888
+Pre-training layer 3, epoch 21, cost  20.7387996747
+Pre-training layer 3, epoch 22, cost  20.739535779
+Pre-training layer 3, epoch 23, cost  20.7399597522
+Pre-training layer 3, epoch 24, cost  20.7437354861
+Pre-training layer 3, epoch 25, cost  20.7372308534
+Pre-training layer 3, epoch 26, cost  20.7308602089
+Pre-training layer 3, epoch 27, cost  20.7442315632
+Pre-training layer 3, epoch 28, cost  20.7283848497
+Pre-training layer 3, epoch 29, cost  20.7395427362
+Pre-training layer 3, epoch 30, cost  20.7318798605
+Pre-training layer 3, epoch 31, cost  20.7370149745
+Pre-training layer 3, epoch 32, cost  20.7333966179
+Pre-training layer 3, epoch 33, cost  20.7368088247
+Pre-training layer 3, epoch 34, cost  20.7351589259
+Pre-training layer 3, epoch 35, cost  20.7147791378
+Pre-training layer 3, epoch 36, cost  20.706573618
+Pre-training layer 3, epoch 37, cost  20.7029851593
+Pre-training layer 3, epoch 38, cost  20.7181861325
+Pre-training layer 3, epoch 39, cost  20.7040741115
+Pre-training layer 3, epoch 40, cost  20.7034386148
+Pre-training layer 3, epoch 41, cost  20.7020890953
+Pre-training layer 3, epoch 42, cost  20.7224189022
+Pre-training layer 3, epoch 43, cost  20.702990147
+Pre-training layer 3, epoch 44, cost  20.701841088
+Pre-training layer 3, epoch 45, cost  20.7042107079
+Pre-training layer 3, epoch 46, cost  20.7178879987
+Pre-training layer 3, epoch 47, cost  20.7036074941
+Pre-training layer 3, epoch 48, cost  20.7069366605
+The pretraining code for file multi_layer_km.pyc ran for 14.77m
+Pre-training layer 3, epoch 49, cost  20.7084542128
+Initial NMI for deep clustering: 0.52
+ARI for deep clustering: 0.39
+... getting the finetuning functions
+ACC for deep clustering: 0.56
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.58589, Reconstruction: 1.87245, Clustering: 0.71344,
+Fine-tuning epoch 2 ++++
+Total cost: 2.18842, Reconstruction: 1.64128, Clustering: 0.54715,
+Fine-tuning epoch 3 ++++
+Total cost: 2.08500, Reconstruction: 1.55717, Clustering: 0.52783,
+Fine-tuning epoch 4 ++++
+Total cost: 1.89622, Reconstruction: 1.41648, Clustering: 0.47974,
+Fine-tuning epoch 5 ++++
+Total cost: 1.78970, Reconstruction: 1.34954, Clustering: 0.44016,
+Fine-tuning epoch 6 ++++
+Total cost: 1.70299, Reconstruction: 1.29573, Clustering: 0.40727,
+Fine-tuning epoch 7 ++++
+Total cost: 1.64047, Reconstruction: 1.25705, Clustering: 0.38343,
+Fine-tuning epoch 8 ++++
+Total cost: 1.59397, Reconstruction: 1.22606, Clustering: 0.36791,
+Fine-tuning epoch 9 ++++
+Total cost: 1.54346, Reconstruction: 1.18885, Clustering: 0.35461,
+Fine-tuning epoch 10 ++++
+Total cost: 1.50894, Reconstruction: 1.16432, Clustering: 0.34462,
+Fine-tuning epoch 11 ++++
+Total cost: 1.48325, Reconstruction: 1.15012, Clustering: 0.33313,
+Fine-tuning epoch 12 ++++
+Total cost: 1.44077, Reconstruction: 1.11982, Clustering: 0.32095,
+Fine-tuning epoch 13 ++++
+Total cost: 1.42835, Reconstruction: 1.11014, Clustering: 0.31821,
+Fine-tuning epoch 14 ++++
+Total cost: 1.40452, Reconstruction: 1.09391, Clustering: 0.31061,
+Fine-tuning epoch 15 ++++
+Total cost: 1.38432, Reconstruction: 1.08005, Clustering: 0.30426,
+Fine-tuning epoch 16 ++++
+Total cost: 1.37455, Reconstruction: 1.07284, Clustering: 0.30172,
+Fine-tuning epoch 17 ++++
+Total cost: 1.35545, Reconstruction: 1.06135, Clustering: 0.29410,
+Fine-tuning epoch 18 ++++
+Total cost: 1.32987, Reconstruction: 1.04175, Clustering: 0.28812,
+Fine-tuning epoch 19 ++++
+Total cost: 1.33238, Reconstruction: 1.04198, Clustering: 0.29040,
+Fine-tuning epoch 20 ++++
+Total cost: 1.31198, Reconstruction: 1.03030, Clustering: 0.28168,
+Fine-tuning epoch 21 ++++
+Total cost: 1.30296, Reconstruction: 1.02117, Clustering: 0.28180,
+Fine-tuning epoch 22 ++++
+Total cost: 1.29422, Reconstruction: 1.01584, Clustering: 0.27838,
+Fine-tuning epoch 23 ++++
+Total cost: 1.28273, Reconstruction: 1.00745, Clustering: 0.27528,
+Fine-tuning epoch 24 ++++
+Total cost: 1.27806, Reconstruction: 1.00343, Clustering: 0.27463,
+Fine-tuning epoch 25 ++++
+Total cost: 1.27430, Reconstruction: 1.00034, Clustering: 0.27396,
+Fine-tuning epoch 26 ++++
+Total cost: 1.25131, Reconstruction: 0.98292, Clustering: 0.26839,
+Fine-tuning epoch 27 ++++
+Total cost: 1.24020, Reconstruction: 0.97428, Clustering: 0.26592,
+Fine-tuning epoch 28 ++++
+Total cost: 1.25330, Reconstruction: 0.98482, Clustering: 0.26848,
+Fine-tuning epoch 29 ++++
+Total cost: 1.23479, Reconstruction: 0.96989, Clustering: 0.26490,
+Fine-tuning epoch 30 ++++
+Total cost: 1.23126, Reconstruction: 0.96875, Clustering: 0.26251,
+Fine-tuning epoch 31 ++++
+Total cost: 1.21685, Reconstruction: 0.95596, Clustering: 0.26089,
+Fine-tuning epoch 32 ++++
+Total cost: 1.21366, Reconstruction: 0.95409, Clustering: 0.25957,
+Fine-tuning epoch 33 ++++
+Total cost: 1.20724, Reconstruction: 0.94876, Clustering: 0.25848,
+Fine-tuning epoch 34 ++++
+Total cost: 1.20528, Reconstruction: 0.94654, Clustering: 0.25875,
+Fine-tuning epoch 35 ++++
+Total cost: 1.18050, Reconstruction: 0.92872, Clustering: 0.25178,
+Fine-tuning epoch 36 ++++
+Total cost: 1.18709, Reconstruction: 0.93196, Clustering: 0.25513,
+Fine-tuning epoch 37 ++++
+Total cost: 1.20016, Reconstruction: 0.94259, Clustering: 0.25757,
+Fine-tuning epoch 38 ++++
+Total cost: 1.16203, Reconstruction: 0.91166, Clustering: 0.25036,
+Fine-tuning epoch 39 ++++
+Total cost: 1.17568, Reconstruction: 0.92379, Clustering: 0.25190,
+Fine-tuning epoch 40 ++++
+Total cost: 1.16771, Reconstruction: 0.91591, Clustering: 0.25180,
+Fine-tuning epoch 41 ++++
+Total cost: 1.16598, Reconstruction: 0.91545, Clustering: 0.25053,
+Fine-tuning epoch 42 ++++
+Total cost: 1.16664, Reconstruction: 0.91479, Clustering: 0.25186,
+Fine-tuning epoch 43 ++++
+Total cost: 1.13826, Reconstruction: 0.89274, Clustering: 0.24552,
+Fine-tuning epoch 44 ++++
+Total cost: 1.14232, Reconstruction: 0.89511, Clustering: 0.24721,
+Fine-tuning epoch 45 ++++
+Total cost: 1.14555, Reconstruction: 0.89818, Clustering: 0.24737,
+Fine-tuning epoch 46 ++++
+Total cost: 1.13490, Reconstruction: 0.88903, Clustering: 0.24587,
+Fine-tuning epoch 47 ++++
+Total cost: 1.13537, Reconstruction: 0.88923, Clustering: 0.24615,
+Fine-tuning epoch 48 ++++
+Total cost: 1.13283, Reconstruction: 0.88538, Clustering: 0.24745,
+Fine-tuning epoch 49 ++++
+Total cost: 1.12819, Reconstruction: 0.88433, Clustering: 0.24386,
+Fine-tuning epoch 50 ++++
+Total cost: 1.12563, Reconstruction: 0.88199, Clustering: 0.24364,
+Average squared 2-D reconstruction error: 0.8820
+NMI for deep clustering: 0.57
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.54
+The training code for file multi_layer_km.pyc ran for 15.44m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.5544663471
+Pre-training layer 0, epoch 1, cost  4.93289355376
+Pre-training layer 0, epoch 2, cost  3.68716044668
+Pre-training layer 0, epoch 3, cost  3.06905275657
+Pre-training layer 0, epoch 4, cost  2.67468024414
+Pre-training layer 0, epoch 5, cost  2.39405675779
+Pre-training layer 0, epoch 6, cost  2.18182576242
+Pre-training layer 0, epoch 7, cost  2.01657097583
+Pre-training layer 0, epoch 8, cost  1.88319731235
+Pre-training layer 0, epoch 9, cost  1.77408614169
+Pre-training layer 0, epoch 10, cost  1.68299786874
+Pre-training layer 0, epoch 11, cost  1.60516872006
+Pre-training layer 0, epoch 12, cost  1.53827446557
+Pre-training layer 0, epoch 13, cost  1.48010933814
+Pre-training layer 0, epoch 14, cost  1.42893861534
+Pre-training layer 0, epoch 15, cost  1.38342168263
+Pre-training layer 0, epoch 16, cost  1.34270604218
+Pre-training layer 0, epoch 17, cost  1.30601377196
+Pre-training layer 0, epoch 18, cost  1.27259260562
+Pre-training layer 0, epoch 19, cost  1.24197992746
+Pre-training layer 0, epoch 20, cost  1.2137087566
+Pre-training layer 0, epoch 21, cost  1.18752308025
+Pre-training layer 0, epoch 22, cost  1.16327473542
+Pre-training layer 0, epoch 23, cost  1.14055701627
+Pre-training layer 0, epoch 24, cost  1.11945613151
+Pre-training layer 0, epoch 25, cost  1.09963443003
+Pre-training layer 0, epoch 26, cost  1.08115185295
+Pre-training layer 0, epoch 27, cost  1.06377984412
+Pre-training layer 0, epoch 28, cost  1.04740074592
+Pre-training layer 0, epoch 29, cost  1.03181552745
+Pre-training layer 0, epoch 30, cost  1.01711060667
+Pre-training layer 0, epoch 31, cost  1.00306603988
+Pre-training layer 0, epoch 32, cost  0.989828090017
+Pre-training layer 0, epoch 33, cost  0.977144301412
+Pre-training layer 0, epoch 34, cost  0.965102492066
+Pre-training layer 0, epoch 35, cost  0.953562184382
+Pre-training layer 0, epoch 36, cost  0.942546448289
+Pre-training layer 0, epoch 37, cost  0.932061544222
+Pre-training layer 0, epoch 38, cost  0.92198382111
+Pre-training layer 0, epoch 39, cost  0.912232586515
+Pre-training layer 0, epoch 40, cost  0.902923789238
+Pre-training layer 0, epoch 41, cost  0.893943698719
+Pre-training layer 0, epoch 42, cost  0.885285746023
+Pre-training layer 0, epoch 43, cost  0.876983630781
+Pre-training layer 0, epoch 44, cost  0.868878040992
+Pre-training layer 0, epoch 45, cost  0.861095825514
+Pre-training layer 0, epoch 46, cost  0.853567153238
+Pre-training layer 0, epoch 47, cost  0.846240059078
+Pre-training layer 0, epoch 48, cost  0.83919010145
+Pre-training layer 0, epoch 49, cost  0.832361236353
+Pre-training layer 1, epoch 0, cost  16.6655854542
+Pre-training layer 1, epoch 1, cost  4.49547577307
+Pre-training layer 1, epoch 2, cost  3.06718461218
+Pre-training layer 1, epoch 3, cost  2.32543874373
+Pre-training layer 1, epoch 4, cost  1.83608674102
+Pre-training layer 1, epoch 5, cost  1.49068925418
+Pre-training layer 1, epoch 6, cost  1.25313406923
+Pre-training layer 1, epoch 7, cost  1.23338154828
+Pre-training layer 1, epoch 8, cost  1.20557671239
+Pre-training layer 1, epoch 9, cost  1.11235044353
+Pre-training layer 1, epoch 10, cost  1.02782147057
+Pre-training layer 1, epoch 11, cost  0.968799249506
+Pre-training layer 1, epoch 12, cost  0.911297512136
+Pre-training layer 1, epoch 13, cost  0.856680361153
+Pre-training layer 1, epoch 14, cost  0.820824666169
+Pre-training layer 1, epoch 15, cost  0.776687239429
+Pre-training layer 1, epoch 16, cost  0.738870393005
+Pre-training layer 1, epoch 17, cost  0.714412296659
+Pre-training layer 1, epoch 18, cost  0.685276147
+Pre-training layer 1, epoch 19, cost  0.653336507103
+Pre-training layer 1, epoch 20, cost  0.63826973024
+Pre-training layer 1, epoch 21, cost  0.62116879173
+Pre-training layer 1, epoch 22, cost  0.588292107809
+Pre-training layer 1, epoch 23, cost  0.579864652013
+Pre-training layer 1, epoch 24, cost  0.568153265547
+Pre-training layer 1, epoch 25, cost  0.536470605556
+Pre-training layer 1, epoch 26, cost  0.536359963082
+Pre-training layer 1, epoch 27, cost  0.520708088237
+Pre-training layer 1, epoch 28, cost  0.499537494152
+Pre-training layer 1, epoch 29, cost  0.492314892606
+Pre-training layer 1, epoch 30, cost  0.472161753021
+Pre-training layer 1, epoch 31, cost  0.465216689696
+Pre-training layer 1, epoch 32, cost  0.456750258207
+Pre-training layer 1, epoch 33, cost  0.439148894148
+Pre-training layer 1, epoch 34, cost  0.442770026893
+Pre-training layer 1, epoch 35, cost  0.42014071735
+Pre-training layer 1, epoch 36, cost  0.42367528893
+Pre-training layer 1, epoch 37, cost  0.413273514926
+Pre-training layer 1, epoch 38, cost  0.399737515166
+Pre-training layer 1, epoch 39, cost  0.399457367521
+Pre-training layer 1, epoch 40, cost  0.380556552958
+Pre-training layer 1, epoch 41, cost  0.379183339858
+Pre-training layer 1, epoch 42, cost  0.369625455315
+Pre-training layer 1, epoch 43, cost  0.363833141851
+Pre-training layer 1, epoch 44, cost  0.354494901971
+Pre-training layer 1, epoch 45, cost  0.352561145191
+Pre-training layer 1, epoch 46, cost  0.341575151441
+Pre-training layer 1, epoch 47, cost  0.339431738031
+Pre-training layer 1, epoch 48, cost  0.333210436946
+Pre-training layer 1, epoch 49, cost  0.328472968672
+Pre-training layer 2, epoch 0, cost  11.7598373498
+Pre-training layer 2, epoch 1, cost  2.32247348813
+Pre-training layer 2, epoch 2, cost  1.40833310498
+Pre-training layer 2, epoch 3, cost  0.966160868206
+Pre-training layer 2, epoch 4, cost  0.705051606934
+Pre-training layer 2, epoch 5, cost  0.536762775196
+Pre-training layer 2, epoch 6, cost  0.422731374503
+Pre-training layer 2, epoch 7, cost  0.343025633827
+Pre-training layer 2, epoch 8, cost  0.286394005716
+Pre-training layer 2, epoch 9, cost  0.246862221903
+Pre-training layer 2, epoch 10, cost  0.223223264237
+Pre-training layer 2, epoch 11, cost  0.248481189601
+Pre-training layer 2, epoch 12, cost  0.335790438061
+Pre-training layer 2, epoch 13, cost  0.339761636503
+Pre-training layer 2, epoch 14, cost  0.197259075253
+Pre-training layer 2, epoch 15, cost  0.353391395241
+Pre-training layer 2, epoch 16, cost  0.183671601364
+Pre-training layer 2, epoch 17, cost  0.312790758821
+Pre-training layer 2, epoch 18, cost  0.217929847554
+Pre-training layer 2, epoch 19, cost  0.265149001536
+Pre-training layer 2, epoch 20, cost  0.295703635901
+Pre-training layer 2, epoch 21, cost  0.144160756888
+Pre-training layer 2, epoch 22, cost  0.321934160994
+Pre-training layer 2, epoch 23, cost  0.161714804731
+Pre-training layer 2, epoch 24, cost  0.255737899207
+Pre-training layer 2, epoch 25, cost  0.257533074465
+Pre-training layer 2, epoch 26, cost  0.159636619725
+Pre-training layer 2, epoch 27, cost  0.295623902669
+Pre-training layer 2, epoch 28, cost  0.117344888865
+Pre-training layer 2, epoch 29, cost  0.273691350017
+Pre-training layer 2, epoch 30, cost  0.137329300027
+Pre-training layer 2, epoch 31, cost  0.253401121498
+Pre-training layer 2, epoch 32, cost  0.218492846783
+Pre-training layer 2, epoch 33, cost  0.144388674153
+Pre-training layer 2, epoch 34, cost  0.289534442924
+Pre-training layer 2, epoch 35, cost  0.0961629291299
+Pre-training layer 2, epoch 36, cost  0.253194498793
+Pre-training layer 2, epoch 37, cost  0.0956293844543
+Pre-training layer 2, epoch 38, cost  0.269680855929
+Pre-training layer 2, epoch 39, cost  0.134714233671
+Pre-training layer 2, epoch 40, cost  0.199739593144
+Pre-training layer 2, epoch 41, cost  0.192305037341
+Pre-training layer 2, epoch 42, cost  0.150476123979
+Pre-training layer 2, epoch 43, cost  0.219363147168
+Pre-training layer 2, epoch 44, cost  0.102832546884
+Pre-training layer 2, epoch 45, cost  0.261461757233
+Pre-training layer 2, epoch 46, cost  0.0762416282745
+Pre-training layer 2, epoch 47, cost  0.234578444086
+Pre-training layer 2, epoch 48, cost  0.0767972886866
+Pre-training layer 2, epoch 49, cost  0.243524056061
+Pre-training layer 3, epoch 0, cost  30.9942392755
+Pre-training layer 3, epoch 1, cost  21.6557018488
+Pre-training layer 3, epoch 2, cost  21.5459009073
+Pre-training layer 3, epoch 3, cost  21.5278668316
+Pre-training layer 3, epoch 4, cost  21.5192524075
+Pre-training layer 3, epoch 5, cost  21.5129042319
+Pre-training layer 3, epoch 6, cost  21.5070008204
+Pre-training layer 3, epoch 7, cost  21.5005342124
+Pre-training layer 3, epoch 8, cost  21.492502536
+Pre-training layer 3, epoch 9, cost  21.4812659835
+Pre-training layer 3, epoch 10, cost  21.4637219721
+Pre-training layer 3, epoch 11, cost  21.4330699557
+Pre-training layer 3, epoch 12, cost  21.374361968
+Pre-training layer 3, epoch 13, cost  21.2570219895
+Pre-training layer 3, epoch 14, cost  21.080519127
+Pre-training layer 3, epoch 15, cost  20.9407191168
+Pre-training layer 3, epoch 16, cost  20.8639692912
+Pre-training layer 3, epoch 17, cost  20.8201072048
+Pre-training layer 3, epoch 18, cost  20.7936188094
+Pre-training layer 3, epoch 19, cost  20.7747447539
+Pre-training layer 3, epoch 20, cost  20.7606096756
+Pre-training layer 3, epoch 21, cost  20.7500678988
+Pre-training layer 3, epoch 22, cost  20.7479834205
+Pre-training layer 3, epoch 23, cost  20.7346227113
+Pre-training layer 3, epoch 24, cost  20.7370336552
+Pre-training layer 3, epoch 25, cost  20.7259585371
+Pre-training layer 3, epoch 26, cost  20.7259872369
+Pre-training layer 3, epoch 27, cost  20.7161617277
+Pre-training layer 3, epoch 28, cost  20.7197844423
+Pre-training layer 3, epoch 29, cost  20.7119412751
+Pre-training layer 3, epoch 30, cost  20.7101891251
+Pre-training layer 3, epoch 31, cost  20.7064111558
+Pre-training layer 3, epoch 32, cost  20.7099261152
+Pre-training layer 3, epoch 33, cost  20.7063030414
+Pre-training layer 3, epoch 34, cost  20.7096418029
+Pre-training layer 3, epoch 35, cost  20.7004138493
+Pre-training layer 3, epoch 36, cost  20.7120866867
+Pre-training layer 3, epoch 37, cost  20.6926668382
+Pre-training layer 3, epoch 38, cost  20.7044203715
+Pre-training layer 3, epoch 39, cost  20.6771260093
+Pre-training layer 3, epoch 40, cost  20.6818093553
+Pre-training layer 3, epoch 41, cost  20.6643430804
+Pre-training layer 3, epoch 42, cost  20.6709143215
+Pre-training layer 3, epoch 43, cost  20.6661096092
+Pre-training layer 3, epoch 44, cost  20.6692674614
+Pre-training layer 3, epoch 45, cost  20.6655346744
+Pre-training layer 3, epoch 46, cost  20.6723371627
+Pre-training layer 3, epoch 47, cost  20.6579598154
+Pre-training layer 3, epoch 48, cost  20.6672759872
+Pre-training layer 3, epoch 49, cost  20.6618096924
+The pretraining code for file multi_layer_km.pyc ran for 14.76m
+Initial NMI for deep clustering: 0.49
+ARI for deep clustering: 0.37
+... getting the finetuning functions
+ACC for deep clustering: 0.55
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.88020, Reconstruction: 2.08710, Clustering: 0.79310,
+Fine-tuning epoch 2 ++++
+Total cost: 2.31355, Reconstruction: 1.78749, Clustering: 0.52606,
+Fine-tuning epoch 3 ++++
+Total cost: 2.09791, Reconstruction: 1.65929, Clustering: 0.43862,
+Fine-tuning epoch 4 ++++
+Total cost: 1.98945, Reconstruction: 1.57801, Clustering: 0.41144,
+Fine-tuning epoch 5 ++++
+Total cost: 1.92323, Reconstruction: 1.52476, Clustering: 0.39847,
+Fine-tuning epoch 6 ++++
+Total cost: 1.83712, Reconstruction: 1.46114, Clustering: 0.37598,
+Fine-tuning epoch 7 ++++
+Total cost: 1.78896, Reconstruction: 1.42315, Clustering: 0.36581,
+Fine-tuning epoch 8 ++++
+Total cost: 1.73841, Reconstruction: 1.37986, Clustering: 0.35855,
+Fine-tuning epoch 9 ++++
+Total cost: 1.69937, Reconstruction: 1.34466, Clustering: 0.35471,
+Fine-tuning epoch 10 ++++
+Total cost: 1.66225, Reconstruction: 1.31543, Clustering: 0.34682,
+Fine-tuning epoch 11 ++++
+Total cost: 1.62746, Reconstruction: 1.28776, Clustering: 0.33969,
+Fine-tuning epoch 12 ++++
+Total cost: 1.59803, Reconstruction: 1.26535, Clustering: 0.33268,
+Fine-tuning epoch 13 ++++
+Total cost: 1.56592, Reconstruction: 1.24111, Clustering: 0.32481,
+Fine-tuning epoch 14 ++++
+Total cost: 1.54217, Reconstruction: 1.22449, Clustering: 0.31767,
+Fine-tuning epoch 15 ++++
+Total cost: 1.51775, Reconstruction: 1.20410, Clustering: 0.31365,
+Fine-tuning epoch 16 ++++
+Total cost: 1.49676, Reconstruction: 1.18827, Clustering: 0.30849,
+Fine-tuning epoch 17 ++++
+Total cost: 1.48333, Reconstruction: 1.17696, Clustering: 0.30636,
+Fine-tuning epoch 18 ++++
+Total cost: 1.46254, Reconstruction: 1.16095, Clustering: 0.30159,
+Fine-tuning epoch 19 ++++
+Total cost: 1.44092, Reconstruction: 1.14696, Clustering: 0.29396,
+Fine-tuning epoch 20 ++++
+Total cost: 1.43666, Reconstruction: 1.14322, Clustering: 0.29344,
+Fine-tuning epoch 21 ++++
+Total cost: 1.40720, Reconstruction: 1.12160, Clustering: 0.28560,
+Fine-tuning epoch 22 ++++
+Total cost: 1.38896, Reconstruction: 1.10583, Clustering: 0.28313,
+Fine-tuning epoch 23 ++++
+Total cost: 1.38945, Reconstruction: 1.10571, Clustering: 0.28375,
+Fine-tuning epoch 24 ++++
+Total cost: 1.37096, Reconstruction: 1.09360, Clustering: 0.27736,
+Fine-tuning epoch 25 ++++
+Total cost: 1.36320, Reconstruction: 1.08484, Clustering: 0.27836,
+Fine-tuning epoch 26 ++++
+Total cost: 1.35376, Reconstruction: 1.07753, Clustering: 0.27623,
+Fine-tuning epoch 27 ++++
+Total cost: 1.33306, Reconstruction: 1.06193, Clustering: 0.27113,
+Fine-tuning epoch 28 ++++
+Total cost: 1.33181, Reconstruction: 1.06210, Clustering: 0.26971,
+Fine-tuning epoch 29 ++++
+Total cost: 1.32443, Reconstruction: 1.05408, Clustering: 0.27035,
+Fine-tuning epoch 30 ++++
+Total cost: 1.31633, Reconstruction: 1.04931, Clustering: 0.26702,
+Fine-tuning epoch 31 ++++
+Total cost: 1.31610, Reconstruction: 1.04861, Clustering: 0.26749,
+Fine-tuning epoch 32 ++++
+Total cost: 1.30078, Reconstruction: 1.03742, Clustering: 0.26336,
+Fine-tuning epoch 33 ++++
+Total cost: 1.28112, Reconstruction: 1.02284, Clustering: 0.25828,
+Fine-tuning epoch 34 ++++
+Total cost: 1.29511, Reconstruction: 1.03347, Clustering: 0.26164,
+Fine-tuning epoch 35 ++++
+Total cost: 1.27571, Reconstruction: 1.01885, Clustering: 0.25687,
+Fine-tuning epoch 36 ++++
+Total cost: 1.28346, Reconstruction: 1.02502, Clustering: 0.25844,
+Fine-tuning epoch 37 ++++
+Total cost: 1.26112, Reconstruction: 1.00733, Clustering: 0.25378,
+Fine-tuning epoch 38 ++++
+Total cost: 1.26960, Reconstruction: 1.01370, Clustering: 0.25590,
+Fine-tuning epoch 39 ++++
+Total cost: 1.25404, Reconstruction: 1.00224, Clustering: 0.25181,
+Fine-tuning epoch 40 ++++
+Total cost: 1.25223, Reconstruction: 0.99929, Clustering: 0.25294,
+Fine-tuning epoch 41 ++++
+Total cost: 1.25449, Reconstruction: 1.00180, Clustering: 0.25269,
+Fine-tuning epoch 42 ++++
+Total cost: 1.23055, Reconstruction: 0.98439, Clustering: 0.24616,
+Fine-tuning epoch 43 ++++
+Total cost: 1.23157, Reconstruction: 0.98456, Clustering: 0.24701,
+Fine-tuning epoch 44 ++++
+Total cost: 1.22842, Reconstruction: 0.98142, Clustering: 0.24700,
+Fine-tuning epoch 45 ++++
+Total cost: 1.23051, Reconstruction: 0.98351, Clustering: 0.24700,
+Fine-tuning epoch 46 ++++
+Total cost: 1.21694, Reconstruction: 0.97134, Clustering: 0.24559,
+Fine-tuning epoch 47 ++++
+Total cost: 1.22331, Reconstruction: 0.97737, Clustering: 0.24594,
+Fine-tuning epoch 48 ++++
+Total cost: 1.20654, Reconstruction: 0.96406, Clustering: 0.24248,
+Fine-tuning epoch 49 ++++
+Total cost: 1.20998, Reconstruction: 0.96640, Clustering: 0.24358,
+Fine-tuning epoch 50 ++++
+Total cost: 1.20824, Reconstruction: 0.96559, Clustering: 0.24265,
+Average squared 2-D reconstruction error: 0.9656
+NMI for deep clustering: 0.57
+ARI for deep clustering: 0.40
+ACC for deep clustering: 0.57
+The training code for file multi_layer_km.pyc ran for 15.44m
+... building the model
+... getting the pretraining functions
+... pre-training the model
+Pre-training layer 0, epoch 0, cost  16.573649474
+Pre-training layer 0, epoch 1, cost  4.9344906514
+Pre-training layer 0, epoch 2, cost  3.68233814647
+Pre-training layer 0, epoch 3, cost  3.06012430284
+Pre-training layer 0, epoch 4, cost  2.66106862857
+Pre-training layer 0, epoch 5, cost  2.37606945212
+Pre-training layer 0, epoch 6, cost  2.1604775952
+Pre-training layer 0, epoch 7, cost  1.99281693712
+Pre-training layer 0, epoch 8, cost  1.8583160079
+Pre-training layer 0, epoch 9, cost  1.74811004826
+Pre-training layer 0, epoch 10, cost  1.65634810694
+Pre-training layer 0, epoch 11, cost  1.57860586252
+Pre-training layer 0, epoch 12, cost  1.51177760314
+Pre-training layer 0, epoch 13, cost  1.45384224923
+Pre-training layer 0, epoch 14, cost  1.40293603968
+Pre-training layer 0, epoch 15, cost  1.35750313847
+Pre-training layer 0, epoch 16, cost  1.31676588135
+Pre-training layer 0, epoch 17, cost  1.2797592605
+Pre-training layer 0, epoch 18, cost  1.2459855355
+Pre-training layer 0, epoch 19, cost  1.21524428884
+Pre-training layer 0, epoch 20, cost  1.18696976187
+Pre-training layer 0, epoch 21, cost  1.16075501056
+Pre-training layer 0, epoch 22, cost  1.13646379591
+Pre-training layer 0, epoch 23, cost  1.11368057571
+Pre-training layer 0, epoch 24, cost  1.09250743577
+Pre-training layer 0, epoch 25, cost  1.0727924433
+Pre-training layer 0, epoch 26, cost  1.05415841816
+Pre-training layer 0, epoch 27, cost  1.03662058382
+Pre-training layer 0, epoch 28, cost  1.0201264989
+Pre-training layer 0, epoch 29, cost  1.00449453499
+Pre-training layer 0, epoch 30, cost  0.989556665201
+Pre-training layer 0, epoch 31, cost  0.97542404979
+Pre-training layer 0, epoch 32, cost  0.962006134612
+Pre-training layer 0, epoch 33, cost  0.949205658308
+Pre-training layer 0, epoch 34, cost  0.936967297826
+Pre-training layer 0, epoch 35, cost  0.925301351544
+Pre-training layer 0, epoch 36, cost  0.914159224722
+Pre-training layer 0, epoch 37, cost  0.903514525917
+Pre-training layer 0, epoch 38, cost  0.893194882664
+Pre-training layer 0, epoch 39, cost  0.883353456921
+Pre-training layer 0, epoch 40, cost  0.873914906745
+Pre-training layer 0, epoch 41, cost  0.864832793686
+Pre-training layer 0, epoch 42, cost  0.856151265934
+Pre-training layer 0, epoch 43, cost  0.847786268449
+Pre-training layer 0, epoch 44, cost  0.839771394548
+Pre-training layer 0, epoch 45, cost  0.832052091884
+Pre-training layer 0, epoch 46, cost  0.824566082988
+Pre-training layer 0, epoch 47, cost  0.81727532184
+Pre-training layer 0, epoch 48, cost  0.810280596782
+Pre-training layer 0, epoch 49, cost  0.80356305061
+Pre-training layer 1, epoch 0, cost  16.6547540038
+Pre-training layer 1, epoch 1, cost  4.50488288706
+Pre-training layer 1, epoch 2, cost  3.06487650367
+Pre-training layer 1, epoch 3, cost  2.31073390671
+Pre-training layer 1, epoch 4, cost  1.81855912692
+Pre-training layer 1, epoch 5, cost  1.47284006097
+Pre-training layer 1, epoch 6, cost  1.23922952871
+Pre-training layer 1, epoch 7, cost  1.24691419701
+Pre-training layer 1, epoch 8, cost  1.1900176378
+Pre-training layer 1, epoch 9, cost  1.11615866473
+Pre-training layer 1, epoch 10, cost  1.02047366303
+Pre-training layer 1, epoch 11, cost  0.958334718684
+Pre-training layer 1, epoch 12, cost  0.908928034222
+Pre-training layer 1, epoch 13, cost  0.860815466366
+Pre-training layer 1, epoch 14, cost  0.816254284504
+Pre-training layer 1, epoch 15, cost  0.769166561175
+Pre-training layer 1, epoch 16, cost  0.74467867277
+Pre-training layer 1, epoch 17, cost  0.720724545909
+Pre-training layer 1, epoch 18, cost  0.691130439568
+Pre-training layer 1, epoch 19, cost  0.664187692746
+Pre-training layer 1, epoch 20, cost  0.6426445139
+Pre-training layer 1, epoch 21, cost  0.615587943231
+Pre-training layer 1, epoch 22, cost  0.592593480296
+Pre-training layer 1, epoch 23, cost  0.585640093187
+Pre-training layer 1, epoch 24, cost  0.556812994664
+Pre-training layer 1, epoch 25, cost  0.546721235423
+Pre-training layer 1, epoch 26, cost  0.535536376868
+Pre-training layer 1, epoch 27, cost  0.514821355975
+Pre-training layer 1, epoch 28, cost  0.509414120979
+Pre-training layer 1, epoch 29, cost  0.493244921608
+Pre-training layer 1, epoch 30, cost  0.475492066345
+Pre-training layer 1, epoch 31, cost  0.471808563927
+Pre-training layer 1, epoch 32, cost  0.455958035496
+Pre-training layer 1, epoch 33, cost  0.44644172781
+Pre-training layer 1, epoch 34, cost  0.444498273882
+Pre-training layer 1, epoch 35, cost  0.429035536129
+Pre-training layer 1, epoch 36, cost  0.420021694997
+Pre-training layer 1, epoch 37, cost  0.41042207589
+Pre-training layer 1, epoch 38, cost  0.39973975511
+Pre-training layer 1, epoch 39, cost  0.392820258461
+Pre-training layer 1, epoch 40, cost  0.383099482772
+Pre-training layer 1, epoch 41, cost  0.377750585128
+Pre-training layer 1, epoch 42, cost  0.367923705751
+Pre-training layer 1, epoch 43, cost  0.368359919965
+Pre-training layer 1, epoch 44, cost  0.354700026957
+Pre-training layer 1, epoch 45, cost  0.354026439024
+Pre-training layer 1, epoch 46, cost  0.348197371693
+Pre-training layer 1, epoch 47, cost  0.336736125919
+Pre-training layer 1, epoch 48, cost  0.335816621551
+Pre-training layer 1, epoch 49, cost  0.323307825285
+Pre-training layer 2, epoch 0, cost  11.7563760459
+Pre-training layer 2, epoch 1, cost  2.31678238171
+Pre-training layer 2, epoch 2, cost  1.40161730381
+Pre-training layer 2, epoch 3, cost  0.960312262672
+Pre-training layer 2, epoch 4, cost  0.699455938181
+Pre-training layer 2, epoch 5, cost  0.531054557696
+Pre-training layer 2, epoch 6, cost  0.416826288382
+Pre-training layer 2, epoch 7, cost  0.336810710143
+Pre-training layer 2, epoch 8, cost  0.279760831929
+Pre-training layer 2, epoch 9, cost  0.239716606931
+Pre-training layer 2, epoch 10, cost  0.216057259773
+Pre-training layer 2, epoch 11, cost  0.24900698826
+Pre-training layer 2, epoch 12, cost  0.346901244862
+Pre-training layer 2, epoch 13, cost  0.334251120519
+Pre-training layer 2, epoch 14, cost  0.201655248333
+Pre-training layer 2, epoch 15, cost  0.365301172467
+Pre-training layer 2, epoch 16, cost  0.177033480347
+Pre-training layer 2, epoch 17, cost  0.31340835551
+Pre-training layer 2, epoch 18, cost  0.1461571296
+Pre-training layer 2, epoch 19, cost  0.370651444058
+Pre-training layer 2, epoch 20, cost  0.146151627767
+Pre-training layer 2, epoch 21, cost  0.291758639879
+Pre-training layer 2, epoch 22, cost  0.167960128417
+Pre-training layer 2, epoch 23, cost  0.250741876939
+Pre-training layer 2, epoch 24, cost  0.282035892615
+Pre-training layer 2, epoch 25, cost  0.137944764623
+Pre-training layer 2, epoch 26, cost  0.291722368905
+Pre-training layer 2, epoch 27, cost  0.1339083284
+Pre-training layer 2, epoch 28, cost  0.246383228775
+Pre-training layer 2, epoch 29, cost  0.24641859607
+Pre-training layer 2, epoch 30, cost  0.149934117127
+Pre-training layer 2, epoch 31, cost  0.248338369457
+Pre-training layer 2, epoch 32, cost  0.122325939846
+Pre-training layer 2, epoch 33, cost  0.261949327994
+Pre-training layer 2, epoch 34, cost  0.138394909853
+Pre-training layer 2, epoch 35, cost  0.226891213921
+Pre-training layer 2, epoch 36, cost  0.141041021334
+Pre-training layer 2, epoch 37, cost  0.196467221237
+Pre-training layer 2, epoch 38, cost  0.24558014851
+Pre-training layer 2, epoch 39, cost  0.120097355593
+Pre-training layer 2, epoch 40, cost  0.222590386619
+Pre-training layer 2, epoch 41, cost  0.136888563099
+Pre-training layer 2, epoch 42, cost  0.221001513729
+Pre-training layer 2, epoch 43, cost  0.100901897587
+Pre-training layer 2, epoch 44, cost  0.260857645956
+Pre-training layer 2, epoch 45, cost  0.108732664014
+Pre-training layer 2, epoch 46, cost  0.192430863495
+Pre-training layer 2, epoch 47, cost  0.113748282059
+Pre-training layer 2, epoch 48, cost  0.242650422233
+Pre-training layer 2, epoch 49, cost  0.0944832205118
+Pre-training layer 3, epoch 0, cost  31.2532550432
+Pre-training layer 3, epoch 1, cost  21.7265167123
+Pre-training layer 3, epoch 2, cost  21.6550464611
+Pre-training layer 3, epoch 3, cost  21.6393170822
+Pre-training layer 3, epoch 4, cost  21.6283778443
+Pre-training layer 3, epoch 5, cost  21.6165782078
+Pre-training layer 3, epoch 6, cost  21.6006620827
+Pre-training layer 3, epoch 7, cost  21.5750589923
+Pre-training layer 3, epoch 8, cost  21.5263849474
+Pre-training layer 3, epoch 9, cost  21.4189636962
+Pre-training layer 3, epoch 10, cost  21.2192310843
+Pre-training layer 3, epoch 11, cost  21.0517123141
+Pre-training layer 3, epoch 12, cost  20.9694045715
+Pre-training layer 3, epoch 13, cost  20.9256479398
+Pre-training layer 3, epoch 14, cost  20.899816953
+Pre-training layer 3, epoch 15, cost  20.8827763302
+Pre-training layer 3, epoch 16, cost  20.8684429709
+Pre-training layer 3, epoch 17, cost  20.860577283
+Pre-training layer 3, epoch 18, cost  20.8484352675
+Pre-training layer 3, epoch 19, cost  20.8435049303
+Pre-training layer 3, epoch 20, cost  20.8366403447
+Pre-training layer 3, epoch 21, cost  20.8334524725
+Pre-training layer 3, epoch 22, cost  20.8368132073
+Pre-training layer 3, epoch 23, cost  20.8269177486
+Pre-training layer 3, epoch 24, cost  20.8290555946
+Pre-training layer 3, epoch 25, cost  20.8263132262
+Pre-training layer 3, epoch 26, cost  20.8254509795
+Pre-training layer 3, epoch 27, cost  20.8286711889
+Pre-training layer 3, epoch 28, cost  20.8230520527
+Pre-training layer 3, epoch 29, cost  20.819459905
+Pre-training layer 3, epoch 30, cost  20.8191781022
+Pre-training layer 3, epoch 31, cost  20.8183241873
+Pre-training layer 3, epoch 32, cost  20.8191578071
+Pre-training layer 3, epoch 33, cost  20.8192895965
+Pre-training layer 3, epoch 34, cost  20.8133110269
+Pre-training layer 3, epoch 35, cost  20.8110622597
+Pre-training layer 3, epoch 36, cost  20.8136721968
+Pre-training layer 3, epoch 37, cost  20.8159293601
+Pre-training layer 3, epoch 38, cost  20.8140145781
+Pre-training layer 3, epoch 39, cost  20.8099187284
+Pre-training layer 3, epoch 40, cost  20.7854087026
+Pre-training layer 3, epoch 41, cost  20.777403426
+Pre-training layer 3, epoch 42, cost  20.7784465737
+Pre-training layer 3, epoch 43, cost  20.7782820816
+Pre-training layer 3, epoch 44, cost  20.777571281
+Pre-training layer 3, epoch 45, cost  20.778511459
+Pre-training layer 3, epoch 46, cost  20.7767462936
+Pre-training layer 3, epoch 47, cost  20.7767939602
+Pre-training layer 3, epoch 48, cost  20.7766267938
+The pretraining code for file multi_layer_km.pyc ran for 14.76m
+Pre-training layer 3, epoch 49, cost  20.7771890168
+Initial NMI for deep clustering: 0.50
+ARI for deep clustering: 0.37
+ACC for deep clustering: 0.53
+... getting the finetuning functions
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 2.62379, Reconstruction: 1.96884, Clustering: 0.65495,
+Fine-tuning epoch 2 ++++
+Total cost: 2.29184, Reconstruction: 1.76472, Clustering: 0.52712,
+Fine-tuning epoch 3 ++++
+Total cost: 2.08813, Reconstruction: 1.64534, Clustering: 0.44279,
+Fine-tuning epoch 4 ++++
+Total cost: 1.95483, Reconstruction: 1.54464, Clustering: 0.41019,
+Fine-tuning epoch 5 ++++
+Total cost: 1.85778, Reconstruction: 1.46008, Clustering: 0.39770,
+Fine-tuning epoch 6 ++++
+Total cost: 1.77879, Reconstruction: 1.39463, Clustering: 0.38415,
+Fine-tuning epoch 7 ++++
+Total cost: 1.73031, Reconstruction: 1.35957, Clustering: 0.37073,
+Fine-tuning epoch 8 ++++
+Total cost: 1.67708, Reconstruction: 1.32013, Clustering: 0.35695,
+Fine-tuning epoch 9 ++++
+Total cost: 1.62997, Reconstruction: 1.28809, Clustering: 0.34188,
+Fine-tuning epoch 10 ++++
+Total cost: 1.60406, Reconstruction: 1.26901, Clustering: 0.33505,
+Fine-tuning epoch 11 ++++
+Total cost: 1.57121, Reconstruction: 1.24659, Clustering: 0.32462,
+Fine-tuning epoch 12 ++++
+Total cost: 1.54721, Reconstruction: 1.23042, Clustering: 0.31678,
+Fine-tuning epoch 13 ++++
+Total cost: 1.53522, Reconstruction: 1.22130, Clustering: 0.31392,
+Fine-tuning epoch 14 ++++
+Total cost: 1.49824, Reconstruction: 1.19341, Clustering: 0.30482,
+Fine-tuning epoch 15 ++++
+Total cost: 1.49088, Reconstruction: 1.18557, Clustering: 0.30531,
+Fine-tuning epoch 16 ++++
+Total cost: 1.46865, Reconstruction: 1.16992, Clustering: 0.29874,
+Fine-tuning epoch 17 ++++
+Total cost: 1.45028, Reconstruction: 1.15358, Clustering: 0.29670,
+Fine-tuning epoch 18 ++++
+Total cost: 1.42523, Reconstruction: 1.13094, Clustering: 0.29429,
+Fine-tuning epoch 19 ++++
+Total cost: 1.40544, Reconstruction: 1.11312, Clustering: 0.29233,
+Fine-tuning epoch 20 ++++
+Total cost: 1.38404, Reconstruction: 1.09545, Clustering: 0.28859,
+Fine-tuning epoch 21 ++++
+Total cost: 1.37275, Reconstruction: 1.08546, Clustering: 0.28729,
+Fine-tuning epoch 22 ++++
+Total cost: 1.36646, Reconstruction: 1.07946, Clustering: 0.28700,
+Fine-tuning epoch 23 ++++
+Total cost: 1.35187, Reconstruction: 1.06800, Clustering: 0.28387,
+Fine-tuning epoch 24 ++++
+Total cost: 1.33873, Reconstruction: 1.05818, Clustering: 0.28055,
+Fine-tuning epoch 25 ++++
+Total cost: 1.32814, Reconstruction: 1.05207, Clustering: 0.27607,
+Fine-tuning epoch 26 ++++
+Total cost: 1.31992, Reconstruction: 1.04452, Clustering: 0.27540,
+Fine-tuning epoch 27 ++++
+Total cost: 1.31492, Reconstruction: 1.03901, Clustering: 0.27591,
+Fine-tuning epoch 28 ++++
+Total cost: 1.29589, Reconstruction: 1.02557, Clustering: 0.27031,
+Fine-tuning epoch 29 ++++
+Total cost: 1.28942, Reconstruction: 1.02065, Clustering: 0.26877,
+Fine-tuning epoch 30 ++++
+Total cost: 1.30526, Reconstruction: 1.03136, Clustering: 0.27391,
+Fine-tuning epoch 31 ++++
+Total cost: 1.27991, Reconstruction: 1.01265, Clustering: 0.26727,
+Fine-tuning epoch 32 ++++
+Total cost: 1.26846, Reconstruction: 1.00404, Clustering: 0.26441,
+Fine-tuning epoch 33 ++++
+Total cost: 1.26335, Reconstruction: 1.00009, Clustering: 0.26325,
+Fine-tuning epoch 34 ++++
+Total cost: 1.25786, Reconstruction: 0.99612, Clustering: 0.26175,
+Fine-tuning epoch 35 ++++
+Total cost: 1.25934, Reconstruction: 0.99614, Clustering: 0.26320,
+Fine-tuning epoch 36 ++++
+Total cost: 1.23862, Reconstruction: 0.98186, Clustering: 0.25676,
+Fine-tuning epoch 37 ++++
+Total cost: 1.24064, Reconstruction: 0.98084, Clustering: 0.25980,
+Fine-tuning epoch 38 ++++
+Total cost: 1.22485, Reconstruction: 0.96925, Clustering: 0.25560,
+Fine-tuning epoch 39 ++++
+Total cost: 1.22579, Reconstruction: 0.97263, Clustering: 0.25317,
+Fine-tuning epoch 40 ++++
+Total cost: 1.22335, Reconstruction: 0.96708, Clustering: 0.25627,
+Fine-tuning epoch 41 ++++
+Total cost: 1.21420, Reconstruction: 0.96265, Clustering: 0.25155,
+Fine-tuning epoch 42 ++++
+Total cost: 1.21951, Reconstruction: 0.96493, Clustering: 0.25458,
+Fine-tuning epoch 43 ++++
+Total cost: 1.21006, Reconstruction: 0.95582, Clustering: 0.25424,
+Fine-tuning epoch 44 ++++
+Total cost: 1.19634, Reconstruction: 0.94701, Clustering: 0.24933,
+Fine-tuning epoch 45 ++++
+Total cost: 1.20959, Reconstruction: 0.95399, Clustering: 0.25560,
+Fine-tuning epoch 46 ++++
+Total cost: 1.18933, Reconstruction: 0.94123, Clustering: 0.24811,
+Fine-tuning epoch 47 ++++
+Total cost: 1.18957, Reconstruction: 0.93948, Clustering: 0.25009,
+Fine-tuning epoch 48 ++++
+Total cost: 1.19136, Reconstruction: 0.94268, Clustering: 0.24868,
+Fine-tuning epoch 49 ++++
+Total cost: 1.18560, Reconstruction: 0.93705, Clustering: 0.24855,
+Fine-tuning epoch 50 ++++
+Total cost: 1.18311, Reconstruction: 0.93369, Clustering: 0.24942,
+Average squared 2-D reconstruction error: 0.9337
+NMI for deep clustering: 0.55
+ARI for deep clustering: 0.36
+ACC for deep clustering: 0.52
+The training code for file multi_layer_km.pyc ran for 15.43m
+KM avg. NMI = 0.50, ARI = 0.38, ACC = 0.55
+SAE+KM avg. NMI = 0.50, ARI = 0.38, ACC = 0.54
+DCN    avg. NMI = 0.56, ARI = 0.37, ACC = 0.44
