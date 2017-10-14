@@ -1,0 +1,221 @@
+/home/wenjun/anaconda2/bin/python2.7 /home/wenjun/AnacondaProjects/on_my_git/DCN/run_raw_mnist.py
+/home/wenjun/anaconda2/lib/python2.7/site-packages/theano/gpuarray/dnn.py:135: UserWarning: Your cuDNN version is more recent than Theano. If you encounter problems, try updating Theano or downgrading cuDNN to version 5.1.
+  warnings.warn("Your cuDNN version is more recent than "
+Using cuDNN version 7001 on context None
+Mapped name None to device cuda1: TITAN Xp (0000:04:00.0)
+... building the model
+... loading saved network succeeded
+... skipping pretraining
+Initial NMI for deep clustering: 0.46
+ARI for deep clustering: 0.34
+... getting the finetuning functions
+ACC for deep clustering: 0.49
+... finetunning the model
+Fine-tuning epoch 1 ++++
+Total cost: 1.56660, Reconstruction: 1.22925, Clustering: 0.33734,
+Fine-tuning epoch 2 ++++
+Total cost: 1.34649, Reconstruction: 1.06304, Clustering: 0.28345,
+Fine-tuning epoch 3 ++++
+Total cost: 1.23964, Reconstruction: 0.98960, Clustering: 0.25004,
+Fine-tuning epoch 4 ++++
+Total cost: 1.18124, Reconstruction: 0.94826, Clustering: 0.23298,
+Fine-tuning epoch 5 ++++
+Total cost: 1.14129, Reconstruction: 0.91896, Clustering: 0.22233,
+Fine-tuning epoch 6 ++++
+Total cost: 1.11115, Reconstruction: 0.89603, Clustering: 0.21512,
+Fine-tuning epoch 7 ++++
+Total cost: 1.08663, Reconstruction: 0.87707, Clustering: 0.20956,
+Fine-tuning epoch 8 ++++
+Total cost: 1.06558, Reconstruction: 0.86060, Clustering: 0.20498,
+Fine-tuning epoch 9 ++++
+Total cost: 1.04757, Reconstruction: 0.84622, Clustering: 0.20135,
+Fine-tuning epoch 10 ++++
+Total cost: 1.03174, Reconstruction: 0.83352, Clustering: 0.19823,
+Fine-tuning epoch 11 ++++
+Total cost: 1.01744, Reconstruction: 0.82194, Clustering: 0.19550,
+Fine-tuning epoch 12 ++++
+Total cost: 1.00464, Reconstruction: 0.81164, Clustering: 0.19300,
+Fine-tuning epoch 13 ++++
+Total cost: 0.99293, Reconstruction: 0.80210, Clustering: 0.19083,
+Fine-tuning epoch 14 ++++
+Total cost: 0.98208, Reconstruction: 0.79331, Clustering: 0.18877,
+Fine-tuning epoch 15 ++++
+Total cost: 0.97203, Reconstruction: 0.78504, Clustering: 0.18700,
+Fine-tuning epoch 16 ++++
+Total cost: 0.96256, Reconstruction: 0.77728, Clustering: 0.18528,
+Fine-tuning epoch 17 ++++
+Total cost: 0.95363, Reconstruction: 0.77002, Clustering: 0.18362,
+Fine-tuning epoch 18 ++++
+Total cost: 0.94537, Reconstruction: 0.76327, Clustering: 0.18210,
+Fine-tuning epoch 19 ++++
+Total cost: 0.93761, Reconstruction: 0.75692, Clustering: 0.18069,
+Fine-tuning epoch 20 ++++
+Total cost: 0.93013, Reconstruction: 0.75080, Clustering: 0.17933,
+Fine-tuning epoch 21 ++++
+Total cost: 0.92310, Reconstruction: 0.74511, Clustering: 0.17798,
+Fine-tuning epoch 22 ++++
+Total cost: 0.91631, Reconstruction: 0.73964, Clustering: 0.17666,
+Fine-tuning epoch 23 ++++
+Total cost: 0.90973, Reconstruction: 0.73439, Clustering: 0.17534,
+Fine-tuning epoch 24 ++++
+Total cost: 0.90344, Reconstruction: 0.72927, Clustering: 0.17416,
+Fine-tuning epoch 25 ++++
+Total cost: 0.89747, Reconstruction: 0.72442, Clustering: 0.17305,
+Fine-tuning epoch 26 ++++
+Total cost: 0.89181, Reconstruction: 0.71981, Clustering: 0.17199,
+Fine-tuning epoch 27 ++++
+Total cost: 0.88623, Reconstruction: 0.71527, Clustering: 0.17096,
+Fine-tuning epoch 28 ++++
+Total cost: 0.88097, Reconstruction: 0.71101, Clustering: 0.16996,
+Fine-tuning epoch 29 ++++
+Total cost: 0.87572, Reconstruction: 0.70675, Clustering: 0.16897,
+Fine-tuning epoch 30 ++++
+Total cost: 0.87096, Reconstruction: 0.70289, Clustering: 0.16807,
+Fine-tuning epoch 31 ++++
+Total cost: 0.86622, Reconstruction: 0.69903, Clustering: 0.16719,
+Fine-tuning epoch 32 ++++
+Total cost: 0.86159, Reconstruction: 0.69529, Clustering: 0.16630,
+Fine-tuning epoch 33 ++++
+Total cost: 0.85721, Reconstruction: 0.69174, Clustering: 0.16547,
+Fine-tuning epoch 34 ++++
+Total cost: 0.85289, Reconstruction: 0.68823, Clustering: 0.16466,
+Fine-tuning epoch 35 ++++
+Total cost: 0.84870, Reconstruction: 0.68482, Clustering: 0.16388,
+Fine-tuning epoch 36 ++++
+Total cost: 0.84462, Reconstruction: 0.68151, Clustering: 0.16311,
+Fine-tuning epoch 37 ++++
+Total cost: 0.84060, Reconstruction: 0.67823, Clustering: 0.16236,
+Fine-tuning epoch 38 ++++
+Total cost: 0.83661, Reconstruction: 0.67502, Clustering: 0.16159,
+Fine-tuning epoch 39 ++++
+Total cost: 0.83297, Reconstruction: 0.67208, Clustering: 0.16089,
+Fine-tuning epoch 40 ++++
+Total cost: 0.82929, Reconstruction: 0.66908, Clustering: 0.16020,
+Fine-tuning epoch 41 ++++
+Total cost: 0.82565, Reconstruction: 0.66612, Clustering: 0.15953,
+Fine-tuning epoch 42 ++++
+Total cost: 0.82222, Reconstruction: 0.66334, Clustering: 0.15888,
+Fine-tuning epoch 43 ++++
+Total cost: 0.81873, Reconstruction: 0.66052, Clustering: 0.15821,
+Fine-tuning epoch 44 ++++
+Total cost: 0.81550, Reconstruction: 0.65794, Clustering: 0.15756,
+Fine-tuning epoch 45 ++++
+Total cost: 0.81226, Reconstruction: 0.65531, Clustering: 0.15695,
+Fine-tuning epoch 46 ++++
+Total cost: 0.80916, Reconstruction: 0.65277, Clustering: 0.15639,
+Fine-tuning epoch 47 ++++
+Total cost: 0.80599, Reconstruction: 0.65017, Clustering: 0.15583,
+Fine-tuning epoch 48 ++++
+Total cost: 0.80301, Reconstruction: 0.64776, Clustering: 0.15525,
+Fine-tuning epoch 49 ++++
+Total cost: 0.80010, Reconstruction: 0.64538, Clustering: 0.15472,
+Fine-tuning epoch 50 ++++
+Total cost: 0.79705, Reconstruction: 0.64288, Clustering: 0.15417,
+Fine-tuning epoch 51 ++++
+Total cost: 0.79421, Reconstruction: 0.64059, Clustering: 0.15362,
+Fine-tuning epoch 52 ++++
+Total cost: 0.79132, Reconstruction: 0.63825, Clustering: 0.15308,
+Fine-tuning epoch 53 ++++
+Total cost: 0.78856, Reconstruction: 0.63597, Clustering: 0.15258,
+Fine-tuning epoch 54 ++++
+Total cost: 0.78594, Reconstruction: 0.63385, Clustering: 0.15208,
+Fine-tuning epoch 55 ++++
+Total cost: 0.78315, Reconstruction: 0.63160, Clustering: 0.15155,
+Fine-tuning epoch 56 ++++
+Total cost: 0.78069, Reconstruction: 0.62956, Clustering: 0.15113,
+Fine-tuning epoch 57 ++++
+Total cost: 0.77809, Reconstruction: 0.62743, Clustering: 0.15066,
+Fine-tuning epoch 58 ++++
+Total cost: 0.77556, Reconstruction: 0.62535, Clustering: 0.15021,
+Fine-tuning epoch 59 ++++
+Total cost: 0.77298, Reconstruction: 0.62323, Clustering: 0.14975,
+Fine-tuning epoch 60 ++++
+Total cost: 0.77057, Reconstruction: 0.62127, Clustering: 0.14929,
+Fine-tuning epoch 61 ++++
+Total cost: 0.76832, Reconstruction: 0.61946, Clustering: 0.14886,
+Fine-tuning epoch 62 ++++
+Total cost: 0.76598, Reconstruction: 0.61751, Clustering: 0.14847,
+Fine-tuning epoch 63 ++++
+Total cost: 0.76392, Reconstruction: 0.61584, Clustering: 0.14808,
+Fine-tuning epoch 64 ++++
+Total cost: 0.76160, Reconstruction: 0.61390, Clustering: 0.14770,
+Fine-tuning epoch 65 ++++
+Total cost: 0.75939, Reconstruction: 0.61211, Clustering: 0.14728,
+Fine-tuning epoch 66 ++++
+Total cost: 0.75735, Reconstruction: 0.61043, Clustering: 0.14692,
+Fine-tuning epoch 67 ++++
+Total cost: 0.75535, Reconstruction: 0.60876, Clustering: 0.14659,
+Fine-tuning epoch 68 ++++
+Total cost: 0.75331, Reconstruction: 0.60709, Clustering: 0.14622,
+Fine-tuning epoch 69 ++++
+Total cost: 0.75128, Reconstruction: 0.60542, Clustering: 0.14586,
+Fine-tuning epoch 70 ++++
+Total cost: 0.74905, Reconstruction: 0.60363, Clustering: 0.14542,
+Fine-tuning epoch 71 ++++
+Total cost: 0.74735, Reconstruction: 0.60223, Clustering: 0.14512,
+Fine-tuning epoch 72 ++++
+Total cost: 0.74572, Reconstruction: 0.60088, Clustering: 0.14484,
+Fine-tuning epoch 73 ++++
+Total cost: 0.74390, Reconstruction: 0.59931, Clustering: 0.14460,
+Fine-tuning epoch 74 ++++
+Total cost: 0.74172, Reconstruction: 0.59753, Clustering: 0.14419,
+Fine-tuning epoch 75 ++++
+Total cost: 0.74061, Reconstruction: 0.59665, Clustering: 0.14396,
+Fine-tuning epoch 76 ++++
+Total cost: 0.73887, Reconstruction: 0.59515, Clustering: 0.14372,
+Fine-tuning epoch 77 ++++
+Total cost: 0.73730, Reconstruction: 0.59384, Clustering: 0.14346,
+Fine-tuning epoch 78 ++++
+Total cost: 0.73632, Reconstruction: 0.59294, Clustering: 0.14338,
+Fine-tuning epoch 79 ++++
+Total cost: 0.73452, Reconstruction: 0.59147, Clustering: 0.14305,
+Fine-tuning epoch 80 ++++
+Total cost: 0.73308, Reconstruction: 0.59027, Clustering: 0.14281,
+Fine-tuning epoch 81 ++++
+Total cost: 0.73287, Reconstruction: 0.59000, Clustering: 0.14287,
+Fine-tuning epoch 82 ++++
+Total cost: 0.73064, Reconstruction: 0.58810, Clustering: 0.14255,
+Fine-tuning epoch 83 ++++
+Total cost: 0.72890, Reconstruction: 0.58668, Clustering: 0.14223,
+Fine-tuning epoch 84 ++++
+Total cost: 0.72687, Reconstruction: 0.58494, Clustering: 0.14194,
+Fine-tuning epoch 85 ++++
+Total cost: 0.72606, Reconstruction: 0.58441, Clustering: 0.14165,
+Fine-tuning epoch 86 ++++
+Total cost: 0.72515, Reconstruction: 0.58357, Clustering: 0.14158,
+Fine-tuning epoch 87 ++++
+Total cost: 0.72446, Reconstruction: 0.58300, Clustering: 0.14146,
+Fine-tuning epoch 88 ++++
+Total cost: 0.72359, Reconstruction: 0.58223, Clustering: 0.14136,
+Fine-tuning epoch 89 ++++
+Total cost: 0.72254, Reconstruction: 0.58128, Clustering: 0.14126,
+Fine-tuning epoch 90 ++++
+Total cost: 0.71980, Reconstruction: 0.57896, Clustering: 0.14084,
+Fine-tuning epoch 91 ++++
+Total cost: 0.72052, Reconstruction: 0.57961, Clustering: 0.14091,
+Fine-tuning epoch 92 ++++
+Total cost: 0.71845, Reconstruction: 0.57772, Clustering: 0.14072,
+Fine-tuning epoch 93 ++++
+Total cost: 0.71747, Reconstruction: 0.57705, Clustering: 0.14043,
+Fine-tuning epoch 94 ++++
+Total cost: 0.71579, Reconstruction: 0.57561, Clustering: 0.14018,
+Fine-tuning epoch 95 ++++
+Total cost: 0.71558, Reconstruction: 0.57546, Clustering: 0.14013,
+Fine-tuning epoch 96 ++++
+Total cost: 0.71271, Reconstruction: 0.57292, Clustering: 0.13979,
+Fine-tuning epoch 97 ++++
+Total cost: 0.71304, Reconstruction: 0.57330, Clustering: 0.13974,
+Fine-tuning epoch 98 ++++
+Total cost: 0.71226, Reconstruction: 0.57247, Clustering: 0.13978,
+Fine-tuning epoch 99 ++++
+Total cost: 0.71074, Reconstruction: 0.57129, Clustering: 0.13946,
+Fine-tuning epoch 100 ++++
+Total cost: 0.70988, Reconstruction: 0.57040, Clustering: 0.13949,
+Average squared 2-D reconstruction error: 0.5704
+NMI for deep clustering: 0.62
+ARI for deep clustering: 0.43
+ACC for deep clustering: 0.57
+The training code for file multi_layer_km.pyc ran for 30.31m
+KM avg. NMI = 0.49, ARI = 0.39, ACC = 0.56
+SAE+KM avg. NMI = 0.46, ARI = 0.34, ACC = 0.49
+DCN    avg. NMI = 0.62, ARI = 0.43, ACC = 0.57
